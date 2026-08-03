@@ -49,8 +49,9 @@ Consulta [Cómo usar la guía](COMO-USAR-LA-GUIA.md) para conocer los símbolos,
 
 ## Créditos y fuentes
 
-- **Pokémon Classic / PokeClassic:** proyecto original de danenders/LazyDev y mantenimientos posteriores acreditados en su documentación.
-- **Fuente principal:** *Pokémon Classic v1.5 Player Help*.
+- **Pokémon Classic / PokeClassic:** proyecto original de danenders/LazyDev y colaboradores.
+- **DaniRainbow:** mantenimiento de la versión actual, documentación y publicación del proyecto en [DaniRainbow/pokeclassic](https://github.com/DaniRainbow/pokeclassic).
+- **Fuente principal:** [*Pokémon Classic v1.5 Player Help*](https://docs.google.com/document/d/1CgjsJv4SF-VK1vLopfYuuvAegb52fZagV3xsaCeyat8/edit?tab=t.0).
 - **Edición en español:** reorganización comunitaria en formato walkthrough.
 - **Pokémon Amarillo:** utilizado como referencia para equipos y niveles de líderes cuando la documentación del hack no especifica una modificación.
 
