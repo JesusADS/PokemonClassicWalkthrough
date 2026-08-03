@@ -54,6 +54,22 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 | Mankey              | 10% de día         | Opcional                             |
 | Slowbro / Golduck   | Surf, raros        | Opcionales                           |
 
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | Día, 30-60 % |
+| Slowbro | 🏄 Surf | Día, 1-5 % |
+| Psyduck | 🏄 Surf | Noche, 30-60 % |
+| Golduck | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Krabby | 🎣 Supercaña | Día, 40 %; noche, 1-40 % |
+| Shellder | 🎣 Supercaña | Día, 1-40 %; noche, 40 % |
+
 ## Entrenadores
 
 | **Entrenador** | **Zona / referencia**                |
@@ -99,6 +115,24 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 | Ditto                        | 10-20%                    | Útil para crianza            |
 | Dratini                      | 1-4% con Supercaña de día | Muy raro                     |
 | Gyarados                     | 15% con Supercaña de día  | Potente si aún no tienes uno |
+
+## ↩ Encuentros acuáticos
+
+> Usa 🏄 Surf para navegar o la 🎣 caña indicada para pescar.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | Día, 30-60 % |
+| Slowbro | 🏄 Surf | Día, 1-5 % |
+| Psyduck | 🏄 Surf | Noche, 30-60 % |
+| Golduck | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Seaking | 🎣 Supercaña | Día, 40 % |
+| Poliwhirl | 🎣 Supercaña | Noche, 40 % |
+| Gyarados | 🎣 Supercaña | Día, 15 % |
+| Dratini | 🎣 Supercaña | Día, 1-4 % |
 
 ## 💎 Objetos y recompensas
 

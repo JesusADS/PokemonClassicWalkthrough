@@ -161,6 +161,25 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Dratini             | 1% con Surf de día | Demasiado raro para detenerse ahora |
 | Nidoran             | 10%                | Alternativa si aún no tienes uno    |
 
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | Día, 5-60 % |
+| Slowbro | 🏄 Surf | Día, 4 % |
+| Dratini | 🏄 Surf | Día, 1 % |
+| Poliwag | 🏄 Surf | Noche, 5-60 % |
+| Poliwhirl | 🏄 Surf | Noche, 1-4 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena / Supercaña | Día, 20 % con Caña Buena; noche, 20-60 % con Caña Buena o 15-40 % con Supercaña |
+| Horsea | 🎣 Supercaña | Día y noche, 40 % |
+| Slowpoke | 🎣 Supercaña | Día, 15-40 % |
+| Krabby | 🎣 Supercaña | Día y noche, 4 % |
+| Kingler | 🎣 Supercaña | Día y noche, 1 % |
+
 ## 💎 Objetos y recompensas
 
 | **Objeto**     | **Dónde / cómo**                       | **Prioridad**         |
@@ -411,6 +430,18 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 37. Investiga el Casino y consigue la Bolsa de Pruebas Rocket.
 
 38. Antes o después de la guarida, desafía el Gimnasio de Erika según el nivel de tu equipo.
+
+## ↩ Encuentros acuáticos
+
+> El estanque de Ciudad Azulona solo tiene encuentros de pesca documentados.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Slowpoke | 🎣 Supercaña | Día, 40 %; noche, 1-15 % |
+| Poliwhirl | 🎣 Supercaña | Día, 1-15 %; noche, 40 % |
 
 ## 💎 Objetos y recompensas
 

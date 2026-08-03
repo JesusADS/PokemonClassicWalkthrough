@@ -162,6 +162,23 @@
 | Dratini     | 1% con Supercaña   | Muy raro          |
 | Abra        | 10% de día         | Opcional          |
 
+## ↩ Encuentros acuáticos
+
+> La tabla corresponde a la Ruta 24; el acceso a Cueva Celeste sigue requiriendo el progreso de posjuego indicado en esta sección.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Goldeen | 🏄 Surf | Día, 30-60 % |
+| Seaking | 🏄 Surf | Día, 1-5 % |
+| Poliwag | 🏄 Surf | Noche, 30-60 % |
+| Poliwhirl | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Poliwhirl | 🎣 Supercaña | Día, 40 %; noche, 4-15 % |
+| Seaking | 🎣 Supercaña | Día, 4-15 %; noche, 40 % |
+| Dratini | 🎣 Supercaña | Día y noche, 1 % |
+
 ## 💎 Objetos importantes
 
 | **Objeto** | **Localización**      | **Prioridad** |
@@ -236,6 +253,20 @@
 | Chansey     | 1%                        | Muy raro             |
 | Dratini     | 1-4% con Supercaña        | Raro                 |
 | Mewtwo      | Encuentro estático en B1F | Legendario principal |
+
+## ↩ Encuentros acuáticos
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | 5-60 % |
+| Slowbro | 🏄 Surf | 1-30 % |
+| Magikarp | 🎣 Caña Vieja | 30-70 % |
+| Poliwag | 🎣 Caña Buena | 60 % |
+| Goldeen | 🎣 Caña Buena | 20 % |
+| Krabby | 🎣 Supercaña | 40 % |
+| Kingler | 🎣 Supercaña | 40 % |
+| Gyarados | 🎣 Supercaña | 15 % |
+| Dratini | 🎣 Supercaña | 1-4 % |
 
 ## 💎 Objetos importantes
 

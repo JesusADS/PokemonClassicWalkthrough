@@ -18,6 +18,8 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 - Ciudad Carmín
 
+- Ruta 11
+
 - S.S. Anne
 
 - Gimnasio de Lt. Surge
@@ -60,6 +62,22 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 | Meowth              | Raro               | Útil por Día de Pago y recogida de objetos según configuración |
 | Jigglypuff          | 10% aprox.         | Buen soporte, pero no imprescindible                           |
 | Pidgeotto           | Raro               | Atajo para obtener un volador evolucionado                     |
+
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | Día, 5-60 % |
+| Slowbro | 🏄 Surf | Día, 1-4 % |
+| Psyduck | 🏄 Surf | Noche, 5-60 % |
+| Golduck | 🏄 Surf | Noche, 1-4 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Krabby | 🎣 Supercaña | Día, 40 %; noche, 1-40 % |
+| Shellder | 🎣 Supercaña | Día, 1-40 %; noche, 40 % |
 
 ## 💎 Objetos y recompensas
 
@@ -118,6 +136,23 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 | Magikarp                 | Caña Vieja                   | Gyarados merece la inversión si quieres un atacante físico |
 | Horsea / Staryu / Krabby | Con mejores cañas            | Opciones posteriores                                       |
 
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o usa la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Horsea | 🏄 Surf | Día, 30-60 % |
+| Seadra | 🏄 Surf | Día, 1-5 % |
+| Tentacool | 🏄 Surf | Noche, 30-60 % |
+| Tentacruel | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Krabby | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Horsea | 🎣 Supercaña | Día, 40 %; noche, 4-15 % |
+| Staryu | 🎣 Supercaña | Día, 4-15 %; noche, 40 % |
+| Kingler | 🎣 Supercaña | Día y noche, 1 % |
+
 ## 💎 Objetos y recompensas
 
 | **Objeto**  | **Dónde / cómo**                     | **Prioridad**          |
@@ -134,6 +169,28 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 - [ ] Conseguir Caña Vieja
 
 - [ ] Recoger Máx. Éter
+
+# Ruta 11 · Desvío opcional
+
+La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes visitarla durante esta parte de la aventura, aunque necesitarás volver más adelante para completar sus encuentros acuáticos.
+
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | Día, 5-60 % |
+| Slowbro | 🏄 Surf | Día, 1-4 % |
+| Psyduck | 🏄 Surf | Noche, 5-60 % |
+| Golduck | 🏄 Surf | Noche, 1-4 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Shellder | 🎣 Supercaña | Día, 15-40 %; noche, 40 % |
+| Krabby | 🎣 Supercaña | Día, 40 %; noche, 15-40 % |
+| Horsea | 🎣 Supercaña | Día, 1-4 % |
+| Tentacool | 🎣 Supercaña | Noche, 1-4 % |
 
 # S.S. Anne
 
@@ -177,6 +234,23 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 15. Derrota al rival.
 
 16. Habla con el capitán mareado para conseguir la MO01 Corte. No abandones el barco hasta haber recogido todo.
+
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o usa la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Horsea | 🏄 Surf | Día, 30-60 % |
+| Seadra | 🏄 Surf | Día, 1-5 % |
+| Tentacool | 🏄 Surf | Noche, 30-60 % |
+| Tentacruel | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Krabby | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Horsea | 🎣 Supercaña | Día, 40 %; noche, 4-15 % |
+| Staryu | 🎣 Supercaña | Día, 4-15 %; noche, 40 % |
+| Kingler | 🎣 Supercaña | Día y noche, 1 % |
 
 ## 💎 Objetos y recompensas
 

@@ -160,6 +160,22 @@ Ciudad Verde. La zona de agua y el tutor de Dream Eater se aprovechan más adela
 </tbody>
 </table>
 
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | Día, 30-60 % |
+| Slowbro | 🏄 Surf | Día, 1-4 % |
+| Psyduck | 🏄 Surf | Noche, 5-60 % |
+| Golduck | 🏄 Surf | Noche, 1-4 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Shellder | 🎣 Supercaña | Día, 1-40 %; noche, 40 % |
+| Krabby | 🎣 Supercaña | Día, 40 %; noche, 1-40 % |
+
 # Ruta 22
 
 <img src="../images/volumen-01/media/image4.png" style="max-width:100%;height:auto" />
@@ -613,6 +629,26 @@ Monte Moon, sótano 2: zona de Rocket y fósiles.
 <img src="../images/volumen-01/media/image13.png" style="max-width:100%;height:auto" />
 
 Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
+
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Psyduck | 🏄 Surf | Día y noche, 60 % |
+| Poliwag | 🏄 Surf | Día y noche, 30 % |
+| Staryu | 🏄 Surf | Día y noche, 5 % |
+| Starmie | 🏄 Surf | Día y noche, 4 % |
+| Dratini | 🏄 Surf | Día y noche, 1 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Psyduck | 🎣 Caña Buena | Día y noche, 60 % |
+| Poliwag | 🎣 Caña Buena | Día y noche, 20 % |
+| Staryu | 🎣 Caña Buena | Día y noche, 20 % |
+| Starmie | 🎣 Supercaña | Día y noche, 40 % |
+| Poliwhirl | 🎣 Supercaña | Día y noche, 40 % |
+| Dratini | 🎣 Supercaña | Día y noche, 4-15 % |
+| Dragonair | 🎣 Supercaña | Día y noche, 1 % |
 
 # Primera visita a Ciudad Celeste
 

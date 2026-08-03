@@ -13,8 +13,12 @@ Esta guía reorganiza la documentación de *Pokémon Classic v1.5* como un recor
 | ⚠ | Aviso | Combate, desvío o punto fácil de olvidar |
 | 🏆 | Jefe o gimnasio | Preparación y recompensa |
 | ↩ | Volver después | Contenido que exige una MO u otro progreso |
+| 🏄 | Surf | Encuentro disponible al navegar después de desbloquear Surf |
+| 🎣 | Pesca | Encuentro que exige la Caña Vieja, la Caña Buena o la Supercaña indicada |
 
 Los símbolos se utilizan con el mismo significado en todos los volúmenes. Una sección puede no mostrar alguno si no contiene información de ese tipo.
+
+En las tablas de encuentros acuáticos, el método aparece junto a cada Pokémon. `🏄 Surf` exige disponer de Surf y la medalla necesaria; `🎣` siempre indica qué caña debes utilizar. El símbolo `↩` recuerda que normalmente tendrás que volver a la zona después de avanzar en la historia.
 
 ## Datos confirmados y recomendaciones
 

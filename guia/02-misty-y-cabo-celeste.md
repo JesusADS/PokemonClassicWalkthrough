@@ -54,6 +54,24 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 | Dratini / Dragonair | Pesca avanzada, más adelante     | Muy raros; no merece retrasar la historia ahora        |
 | Goldeen / Poliwag   | Surf o pesca posterior           | Opcionales; no son necesarios para Misty               |
 
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Goldeen | 🏄 Surf | Día, 30-60 % |
+| Seaking | 🏄 Surf | Día, 1-5 % |
+| Poliwag | 🏄 Surf | Noche, 30-60 % |
+| Poliwhirl | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena / Supercaña | Día, 20-60 % con Caña Buena o 40 % con Supercaña; noche, 20 % con Caña Buena |
+| Poliwag | 🎣 Caña Buena / Supercaña | Día, 20 % con Caña Buena; noche, 20-60 % con Caña Buena o 40 % con Supercaña |
+| Seaking | 🎣 Supercaña | Día, 15 % |
+| Poliwhirl | 🎣 Supercaña | Noche, 15 % |
+| Dratini | 🎣 Supercaña | Día y noche, 4 % |
+| Dragonair | 🎣 Supercaña | Día y noche, 1 % |
+
 ## 💎 Objetos y recompensas
 
 | **Objeto**    | **Dónde / cómo**                                     | **Prioridad** |
@@ -140,6 +158,23 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 | Charmander                     | Encuentro estático | Gran incorporación de tipo Fuego                                       |
 | Pidgeotto / Weepinbell / Gloom | Muy raros          | Captura de comodidad, no imprescindible                                |
 
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Goldeen | 🏄 Surf | Día, 30-60 % |
+| Seaking | 🏄 Surf | Día, 1-5 % |
+| Poliwag | 🏄 Surf | Noche, 30-60 % |
+| Poliwhirl | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Poliwhirl | 🎣 Supercaña | Día, 40 %; noche, 4-15 % |
+| Seaking | 🎣 Supercaña | Día, 4-15 %; noche, 40 % |
+| Dratini | 🎣 Supercaña | Día y noche, 1 % |
+
 ## 💎 Objetos y recompensas
 
 | **Objeto** | **Dónde / cómo**              | **Prioridad** |
@@ -197,6 +232,26 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 | Abra                       | 10%                      | Captura prioritaria si no apareció en Ruta 24 |
 | Bellsprout / Oddish        | Comunes según hora       | Buenas opciones de tipo Planta                |
 | Venonat / Gloom / Venomoth | Nocturnos, algunos raros | Opcionales                                    |
+
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Goldeen | 🏄 Surf | Día, 30-60 % |
+| Seaking | 🏄 Surf | Día, 1-5 % |
+| Poliwag | 🏄 Surf | Noche, 30-60 % |
+| Poliwhirl | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Psyduck | 🎣 Caña Buena | Día, 20-60 % |
+| Poliwag | 🎣 Caña Buena / Supercaña | Día, 20 % con Caña Buena; noche, 40 % con Supercaña |
+| Goldeen | 🎣 Caña Buena / Supercaña | Día, 40 % con Supercaña; noche, 20 % con Caña Buena |
+| Seaking | 🎣 Supercaña | Día, 4-15 % |
+| Golduck | 🎣 Supercaña | Día, 1 % |
+| Staryu | 🎣 Caña Buena | Noche, 20-60 % |
+| Poliwhirl | 🎣 Supercaña | Noche, 4-15 % |
+| Starmie | 🎣 Supercaña | Noche, 1 % |
 
 ## 💎 Objetos y recompensas
 

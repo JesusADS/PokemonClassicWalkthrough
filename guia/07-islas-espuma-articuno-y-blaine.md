@@ -59,6 +59,23 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Staryu                 | Supercaña, 4-15% día / 40% noche | Muy recomendable si buscas Starmie |
 | Kingler                | Supercaña, 1%                    | Raro; gran Ataque físico           |
 
+## ↩ Encuentros acuáticos
+
+> Usa 🏄 Surf para navegar o la 🎣 caña indicada para pescar.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Horsea | 🏄 Surf | Día, 30-60 % |
+| Seadra | 🏄 Surf | Día, 1-5 % |
+| Tentacool | 🏄 Surf | Noche, 30-60 % |
+| Tentacruel | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Krabby | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Horsea | 🎣 Supercaña | Día, 40 %; noche, 4-15 % |
+| Staryu | 🎣 Supercaña | Día, 4-15 %; noche, 40 % |
+| Kingler | 🎣 Supercaña | Día y noche, 1 % |
+
 ## Entrenadores
 
 | **Entrenador**          | **Zona / referencia** |
@@ -107,6 +124,23 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Horsea / Seadra        | Surf de día                       | Opcionales                 |
 | Tentacool / Tentacruel | Surf de noche                     | Opcionales                 |
 | Staryu                 | Supercaña, especialmente de noche | Muy recomendable           |
+
+## ↩ Encuentros acuáticos
+
+> Usa 🏄 Surf para navegar o la 🎣 caña indicada para pescar.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Horsea | 🏄 Surf | Día, 30-60 % |
+| Seadra | 🏄 Surf | Día, 1-5 % |
+| Tentacool | 🏄 Surf | Noche, 30-60 % |
+| Tentacruel | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Krabby | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Horsea | 🎣 Supercaña | Día, 40 %; noche, 4-15 % |
+| Staryu | 🎣 Supercaña | Día, 4-15 %; noche, 40 % |
+| Kingler | 🎣 Supercaña | Día y noche, 1 % |
 
 ## 💎 Objetos y recompensas
 
@@ -189,6 +223,19 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Dewgong             | 4-5% usando Surf   | Buen muro Agua/Hielo         |
 | Articuno            | Estático en B4F    | Legendario; prioridad máxima |
 
+## ↩ Encuentros acuáticos
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Seel | 🏄 Surf | 30-60 % |
+| Dewgong | 🏄 Surf | 4-5 % |
+| Lapras | 🏄 Surf | 1 % |
+| Magikarp | 🎣 Caña Vieja | 30-70 % |
+| Staryu | 🎣 Caña Buena | 60 % |
+| Shellder | 🎣 Caña Buena | 20 % |
+| Krabby | 🎣 Supercaña | 40 % |
+| Kingler | 🎣 Supercaña | 1-15 % |
+
 ## 💎 Objetos y recompensas
 
 | **Objeto**   | **Dónde / cómo** | **Prioridad** |
@@ -253,6 +300,30 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Dratini             | 1% usando Surf de día   | Muy raro                      |
 | Gyarados            | 1% usando Surf de noche | Raro                          |
 | Kingler / Seadra    | Supercaña               | Opcionales                    |
+
+## ↩ Encuentros acuáticos
+
+> Usa 🏄 Surf para navegar o la 🎣 caña indicada para pescar alrededor de Isla Canela.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Horsea | 🏄 Surf | Día, 60 % |
+| Staryu | 🏄 Surf | Día, 30 % |
+| Seadra | 🏄 Surf | Día, 5 % |
+| Starmie | 🏄 Surf | Día, 4 % |
+| Dratini | 🏄 Surf | Día, 1 % |
+| Tentacool | 🏄 Surf | Noche, 60 % |
+| Psyduck | 🏄 Surf | Noche, 30 % |
+| Tentacruel | 🏄 Surf | Noche, 5 % |
+| Golduck | 🏄 Surf | Noche, 4 % |
+| Gyarados | 🏄 Surf | Noche, 1 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Krabby | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Horsea | 🎣 Supercaña | Día, 40 %; noche, 4-15 % |
+| Staryu | 🎣 Supercaña | Día, 4-15 %; noche, 40 % |
+| Kingler | 🎣 Supercaña | Día, 1 % |
+| Seadra | 🎣 Supercaña | Noche, 1 % |
 
 ## 💎 Objetos y recompensas
 
@@ -441,6 +512,23 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Tangela                | 1-4%                 | Raro                                           |
 | Horsea / Seadra        | Surf de día          | Opcionales                                     |
 | Tentacool / Tentacruel | Surf de noche        | Opcionales                                     |
+
+## ↩ Encuentros acuáticos
+
+> Usa 🏄 Surf para navegar o la 🎣 caña indicada para pescar.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Horsea | 🏄 Surf | Día, 30-60 % |
+| Seadra | 🏄 Surf | Día, 1-5 % |
+| Tentacool | 🏄 Surf | Noche, 30-60 % |
+| Tentacruel | 🏄 Surf | Noche, 1-5 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Krabby | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Horsea | 🎣 Supercaña | Día, 40 %; noche, 4-15 % |
+| Staryu | 🎣 Supercaña | Día, 4-15 %; noche, 40 % |
+| Kingler | 🎣 Supercaña | Día y noche, 1 % |
 
 ## 💎 Objetos y recompensas
 

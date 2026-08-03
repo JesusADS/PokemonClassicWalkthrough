@@ -147,6 +147,24 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Pinsir              | 1% día/noche                             | Muy raro                   |
 | Slowpoke / Slowbro  | Surf, más adelante                       | Buenos Agua/Psíquico       |
 
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | Día, 5-60 % |
+| Slowbro | 🏄 Surf | Día, 1-4 % |
+| Tentacool | 🏄 Surf | Noche, 5-60 % |
+| Tentacruel | 🏄 Surf | Noche, 1-4 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Horsea | 🎣 Supercaña | Día, 1-40 % |
+| Seadra | 🎣 Supercaña | Día, 40 % |
+| Tentacool | 🎣 Supercaña | Noche, 1-40 % |
+| Tentacruel | 🎣 Supercaña | Noche, 40 % |
+
 ## 💎 Objetos y recompensas
 
 | **Objeto**    | **Dónde / cómo**     | **Prioridad** |
@@ -205,6 +223,24 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Pinsir                 | 1% de día          | Muy raro                   |
 | Gloom                  | 5% de noche        | Ahorra evolución de Oddish |
 | Pidgeotto / Weepinbell | Frecuentes         | Opcionales                 |
+
+## ↩ Encuentros acuáticos
+
+> Vuelve cuando dispongas de 🏄 Surf o de la 🎣 caña indicada.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | Día, 5-60 % |
+| Slowbro | 🏄 Surf | Día, 1-4 % |
+| Tentacool | 🏄 Surf | Noche, 5-60 % |
+| Tentacruel | 🏄 Surf | Noche, 1-4 % |
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 20 %; noche, 20-60 % |
+| Horsea | 🎣 Supercaña | Día, 1-40 % |
+| Seadra | 🎣 Supercaña | Día, 40 % |
+| Tentacool | 🎣 Supercaña | Noche, 1-40 % |
+| Tentacruel | 🎣 Supercaña | Noche, 40 % |
 
 ## 💎 Objetos y recompensas
 
@@ -363,6 +399,18 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 27. Entra en la Zona Safari con espacio en la mochila y planifica una ruta hasta la Casa Secreta.
 
+## ↩ Encuentros acuáticos
+
+> Los encuentros acuáticos documentados dentro de Ciudad Fucsia son exclusivamente de pesca.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Magikarp | 🎣 Caña Vieja | Día y noche, 30-70 % |
+| Goldeen | 🎣 Caña Buena | Día, 20-60 %; noche, 20 % |
+| Poliwag | 🎣 Caña Buena | Día, 10 %; noche, 20-60 % |
+| Slowpoke | 🎣 Supercaña | Día, 40 %; noche, 1-15 % |
+| Poliwhirl | 🎣 Supercaña | Día, 1-15 %; noche, 40 % |
+
 ## 💎 Objetos y recompensas
 
 | **Objeto**     | **Dónde / cómo**                              | **Prioridad** |
@@ -427,6 +475,21 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Kangaskhan          | 5-10% norte        | Muy recomendable                       |
 | Tauros              | 10% este/oeste     | Excelente atacante                     |
 | Dratini / Dragonair | Supercaña          | Muy raros y valiosos                   |
+
+## ↩ Encuentros acuáticos
+
+> La guía fuente documenta la misma tabla acuática para las zonas Centro, Este, Norte y Oeste de la Zona Safari.
+
+| Pokémon | Método | Disponibilidad |
+|---|---|---|
+| Slowpoke | 🏄 Surf | 5-60 % |
+| Slowbro | 🏄 Surf | 1-4 % |
+| Magikarp | 🎣 Caña Vieja | 30-70 % |
+| Poliwag | 🎣 Caña Buena | 20-60 % |
+| Goldeen | 🎣 Supercaña | 15-40 % |
+| Seaking | 🎣 Supercaña | 40 % |
+| Dratini | 🎣 Supercaña | 4 % |
+| Dragonair | 🎣 Supercaña | 1 % |
 
 ## 💎 Objetos y recompensas
 
