@@ -13,25 +13,25 @@ Incluye mapas, rutas, objetos, Pokémon recomendados, tablas de entrenadores, eq
 | Progreso | Contenido | Guía |
 |---|---|---|
 | 🪨 Medalla Roca | Pueblo Paleta, Bosque Verde, Brock, Ruta 3 y Monte Moon | [Volumen 1](guia/01-inicio-brock-y-monte-moon.md) |
-| 💧 Medalla Cascada | Ciudad Celeste, Misty, Puente Pepita y Bill | [Volumen 2](guia/02-misty-y-lt-surge.md) |
-| ⚡ Medalla Trueno | Ciudad Carmín, S.S. Anne, Lt. Surge y Cueva Diglett | [Volumen 2](guia/02-misty-y-lt-surge.md) |
-| 🌈 Medalla Arcoíris | Túnel Roca, Ciudad Azulona, Guarida Rocket y Erika | [Volumen 3](guia/03-erika-y-guarida-rocket.md) |
-| 💗 Medalla Alma | Torre Pokémon, rutas 12-15, Zona Safari y Koga | [Volumen 4](guia/04-torre-pokemon-koga-y-zona-safari.md) |
-| 🟡 Medalla Pantano | Ruta Ciclista, Ciudad Azafrán, Silph S.A. y Sabrina | [Volumen 5](guia/05-silph-sabrina-y-ruta-ciclista.md) |
-| 🔥 Medalla Volcán | Islas Espuma, Articuno, Isla Canela y Blaine | [Volumen 6](guia/06-islas-espuma-articuno-y-blaine.md) |
-| 🌎 Medalla Tierra | Giovanni, Ruta 23 y Calle Victoria | [Volumen 7](guia/07-giovanni-calle-victoria-y-liga.md) |
-| 🏆 Liga Pokémon | Alto Mando y Campeón | [Volumen 7](guia/07-giovanni-calle-victoria-y-liga.md) |
+| 💧 Medalla Cascada | Ciudad Celeste, Misty, Puente Pepita y Bill | [Volumen 2](guia/02-misty-y-cabo-celeste.md) |
+| ⚡ Medalla Trueno | Ciudad Carmín, S.S. Anne, Lt. Surge y Cueva Diglett | [Volumen 3](guia/03-lt-surge-y-ciudad-carmin.md) |
+| 🌈 Medalla Arcoíris | Túnel Roca, Ciudad Azulona, Guarida Rocket y Erika | [Volumen 4](guia/04-erika-y-guarida-rocket.md) |
+| 💗 Medalla Alma | Torre Pokémon, rutas 12-15, Zona Safari y Koga | [Volumen 5](guia/05-torre-pokemon-koga-y-zona-safari.md) |
+| 🟡 Medalla Pantano | Ruta Ciclista, Ciudad Azafrán, Silph S.A. y Sabrina | [Volumen 6](guia/06-silph-sabrina-y-ruta-ciclista.md) |
+| 🔥 Medalla Volcán | Islas Espuma, Articuno, Isla Canela y Blaine | [Volumen 7](guia/07-islas-espuma-articuno-y-blaine.md) |
+| 🌎 Medalla Tierra | Ciudad Verde y Giovanni | [Volumen 8](guia/08-giovanni.md) |
+| 🏆 Liga Pokémon | Ruta 23, Calle Victoria, Alto Mando y Campeón | [Volumen 9](guia/09-calle-victoria-y-liga.md) |
 
 ### Postgame y contenido extra
 
 | Sección | Contenido | Guía |
 |---|---|---|
-| ⚡ Legendarios | Zapdos, Mewtwo y Mew; Central de Energía, Cueva Celeste y Faraway Island | [Volumen 8](guia/08-postgame-zapdos-mewtwo-y-mew.md) |
-| 🔁 Segunda Liga | Segundo desafío y desbloqueos posteriores | [Volumen 8](guia/08-postgame-zapdos-mewtwo-y-mew.md) |
-| 🚀 Team Rocket | Segunda toma de Silph S.A. y eventos especiales | [Volumen 9](guia/09-postgame-team-rocket-y-rematches.md) |
-| ⚔️ Rematches | Líderes, Battle Points, Battle Tower y fugitivos diarios | [Volumen 9](guia/09-postgame-team-rocket-y-rematches.md) |
-| ✨ Mega Evolución | Mega Ring, megapiedras y funcionamiento | [Volumen 10](guia/10-megaevolucion-y-completado-100.md) |
-| ✅ Completado 100 % | Pokémon únicos, objetos especiales y checklist final | [Volumen 10](guia/10-megaevolucion-y-completado-100.md) |
+| ⚡ Legendarios | Zapdos, Mewtwo y Mew; Central de Energía, Cueva Celeste y Faraway Island | [Volumen 10](guia/10-postgame-zapdos-mewtwo-y-mew.md) |
+| 🔁 Segunda Liga | Segundo desafío y desbloqueos posteriores | [Volumen 10](guia/10-postgame-zapdos-mewtwo-y-mew.md) |
+| 🚀 Team Rocket | Segunda toma de Silph S.A. y eventos especiales | [Volumen 11](guia/11-postgame-team-rocket-y-rematches.md) |
+| ⚔️ Rematches | Líderes, Battle Points, Battle Tower y fugitivos diarios | [Volumen 11](guia/11-postgame-team-rocket-y-rematches.md) |
+| ✨ Mega Evolución | Mega Ring, megapiedras y funcionamiento | [Volumen 12](guia/12-megaevolucion-y-completado-100.md) |
+| ✅ Completado 100 % | Pokémon únicos, objetos especiales y checklist final | [Volumen 12](guia/12-megaevolucion-y-completado-100.md) |
 
 ## Cómo usar la guía
 
@@ -58,4 +58,4 @@ Consulta también [NOTICE.md](NOTICE.md) antes de reutilizar o redistribuir imá
 
 ## Estado
 
-La historia principal y el postgame están cubiertos en diez volúmenes. Las correcciones, datos confirmados y mejoras de presentación son bienvenidos mediante issues o pull requests.
+La historia principal y el postgame están cubiertos en doce volúmenes. Cada líder de gimnasio tiene su propio volumen. Las correcciones, datos confirmados y mejoras de presentación son bienvenidos mediante issues o pull requests.

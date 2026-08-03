@@ -1,14 +1,16 @@
-> [← Anterior](03-erika-y-guarida-rocket.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](05-silph-sabrina-y-ruta-ciclista.md)
+> [← Anterior](04-erika-y-guarida-rocket.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](06-silph-sabrina-y-ruta-ciclista.md)
 
 **POKÉMON CLASSIC**
 
 **v1.5**
 
-**VOLUMEN 4**
+**VOLUMEN 5**
 
 **Torre Pokémon, rutas del este y Ciudad Fucsia**
 
 Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
+
+> Consulta [Cómo usar la guía](../COMO-USAR-LA-GUIA.md) para conocer los símbolos, las mecánicas esenciales y el criterio de datos común a todos los volúmenes.
 
 # Contenido
 
@@ -29,31 +31,31 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Torre Pokémon
 
-<img src="../images/volumen-04/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image1.png" style="max-width:100%;height:auto" />
 
 *Torre Pokémon, planta 1.*
 
-<img src="../images/volumen-04/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image2.png" style="max-width:100%;height:auto" />
 
 *Torre Pokémon, planta 2.*
 
-<img src="../images/volumen-04/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image3.png" style="max-width:100%;height:auto" />
 
 *Torre Pokémon, planta 3.*
 
-<img src="../images/volumen-04/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image4.png" style="max-width:100%;height:auto" />
 
 *Torre Pokémon, planta 4.*
 
-<img src="../images/volumen-04/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image5.png" style="max-width:100%;height:auto" />
 
 *Torre Pokémon, planta 5.*
 
-<img src="../images/volumen-04/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image6.png" style="max-width:100%;height:auto" />
 
 *Torre Pokémon, planta 6.*
 
-<img src="../images/volumen-04/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image7.png" style="max-width:100%;height:auto" />
 
 *Torre Pokémon, planta 7.*
 
@@ -119,7 +121,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ruta 12
 
-<img src="../images/volumen-04/media/image8.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image8.png" style="max-width:100%;height:auto" />
 
 *Mapa completo de la Ruta 12.*
 
@@ -178,7 +180,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ruta 13
 
-<img src="../images/volumen-04/media/image9.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image9.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 13.*
 
@@ -234,7 +236,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ruta 14
 
-<img src="../images/volumen-04/media/image10.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image10.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 14.*
 
@@ -283,7 +285,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ruta 15
 
-<img src="../images/volumen-04/media/image11.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image11.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 15.*
 
@@ -342,7 +344,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ciudad Fucsia
 
-<img src="../images/volumen-04/media/image12.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image12.png" style="max-width:100%;height:auto" />
 
 *Mapa de Ciudad Fucsia.*
 
@@ -382,19 +384,19 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Zona Safari
 
-<img src="../images/volumen-04/media/image13.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image13.png" style="max-width:100%;height:auto" />
 
 *Zona Safari: área central.*
 
-<img src="../images/volumen-04/media/image14.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image14.png" style="max-width:100%;height:auto" />
 
 *Zona Safari: área este.*
 
-<img src="../images/volumen-04/media/image15.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image15.png" style="max-width:100%;height:auto" />
 
 *Zona Safari: área norte.*
 
-<img src="../images/volumen-04/media/image16.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image16.png" style="max-width:100%;height:auto" />
 
 *Zona Safari: área oeste.*
 
@@ -454,7 +456,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # 🏆 GIMNASIO: Koga
 
-<img src="../images/volumen-04/media/image17.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-05/media/image17.png" style="max-width:100%;height:auto" />
 
 *Interior del Gimnasio de Koga.*
 
@@ -488,5 +490,4 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ---
 
-> [← Anterior](03-erika-y-guarida-rocket.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](05-silph-sabrina-y-ruta-ciclista.md)
-
+> [← Anterior](04-erika-y-guarida-rocket.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](06-silph-sabrina-y-ruta-ciclista.md)

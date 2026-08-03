@@ -1,14 +1,16 @@
-> [← Anterior](08-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](10-megaevolucion-y-completado-100.md)
+> [← Anterior](10-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](12-megaevolucion-y-completado-100.md)
 
 **POKÉMON CLASSIC**
 
 **v1.5**
 
-**VOLUMEN 9**
+**VOLUMEN 11**
 
 **Team Rocket, Battle Points y actividades repetibles**
 
 *Recorrido paso a paso • Mapas originales • Tablas • Checklists*
+
+> Consulta [Cómo usar la guía](../COMO-USAR-LA-GUIA.md) para conocer los símbolos, las mecánicas esenciales y el criterio de datos común a todos los volúmenes.
 
 # Qué queda por hacer
 
@@ -26,7 +28,7 @@
 |--------------------------------------------------------------------------------------------------|
 | Regresar al edificio para completar el epílogo de Team Rocket y desbloquear combates repetibles. |
 
-<img src="../images/volumen-09/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-11/media/image1.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., una de las plantas principales del edificio.*
 
@@ -114,7 +116,7 @@
 |----------------------------------------------------------------------|
 | Visitar la torre reutilizada y gastar los Battle Points conseguidos. |
 
-<img src="../images/volumen-09/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-11/media/image2.png" style="max-width:100%;height:auto" />
 
 *Exterior original de la Battle Tower.*
 
@@ -256,5 +258,4 @@
 
 ---
 
-> [← Anterior](08-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](10-megaevolucion-y-completado-100.md)
-
+> [← Anterior](10-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](12-megaevolucion-y-completado-100.md)

@@ -1,14 +1,16 @@
-> [← Anterior](04-torre-pokemon-koga-y-zona-safari.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](06-islas-espuma-articuno-y-blaine.md)
+> [← Anterior](05-torre-pokemon-koga-y-zona-safari.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](07-islas-espuma-articuno-y-blaine.md)
 
 **POKÉMON CLASSIC**
 
 **v1.5**
 
-**VOLUMEN 5**
+**VOLUMEN 6**
 
 **Ruta Ciclista, Ciudad Azafrán y Silph S.A.**
 
 Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
+
+> Consulta [Cómo usar la guía](../COMO-USAR-LA-GUIA.md) para conocer los símbolos, las mecánicas esenciales y el criterio de datos común a todos los volúmenes.
 
 # Contenido
 
@@ -27,7 +29,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ruta 16
 
-<img src="../images/volumen-05/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image1.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 16.*
 
@@ -79,7 +81,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ruta 17 · Ruta Ciclista
 
-<img src="../images/volumen-05/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image2.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 17 y Ruta Ciclista.*
 
@@ -133,7 +135,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ruta 18
 
-<img src="../images/volumen-05/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image3.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 18.*
 
@@ -175,7 +177,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Ciudad Azafrán y Dojo Karate
 
-<img src="../images/volumen-05/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image4.png" style="max-width:100%;height:auto" />
 
 *Mapa de Ciudad Azafrán.*
 
@@ -223,47 +225,47 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # Silph S.A.
 
-<img src="../images/volumen-05/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image5.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 1.*
 
-<img src="../images/volumen-05/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image6.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 2.*
 
-<img src="../images/volumen-05/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image7.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 3.*
 
-<img src="../images/volumen-05/media/image8.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image8.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 4.*
 
-<img src="../images/volumen-05/media/image9.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image9.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 5.*
 
-<img src="../images/volumen-05/media/image10.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image10.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 6.*
 
-<img src="../images/volumen-05/media/image11.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image11.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 7.*
 
-<img src="../images/volumen-05/media/image12.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image12.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 8.*
 
-<img src="../images/volumen-05/media/image13.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image13.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 9.*
 
-<img src="../images/volumen-05/media/image14.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image14.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 10.*
 
-<img src="../images/volumen-05/media/image15.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image15.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., planta 11.*
 
@@ -341,7 +343,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 # 🏆 GIMNASIO: Sabrina
 
-<img src="../images/volumen-05/media/image16.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-06/media/image16.png" style="max-width:100%;height:auto" />
 
 *Interior del Gimnasio de Sabrina.*
 
@@ -377,5 +379,4 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ---
 
-> [← Anterior](04-torre-pokemon-koga-y-zona-safari.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](06-islas-espuma-articuno-y-blaine.md)
-
+> [← Anterior](05-torre-pokemon-koga-y-zona-safari.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](07-islas-espuma-articuno-y-blaine.md)

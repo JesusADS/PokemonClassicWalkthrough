@@ -1,18 +1,18 @@
-> [← Anterior](06-islas-espuma-articuno-y-blaine.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](08-postgame-zapdos-mewtwo-y-mew.md)
+> [← Anterior](08-giovanni.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](10-postgame-zapdos-mewtwo-y-mew.md)
 
 **POKÉMON CLASSIC**
 
 **v1.5**
 
-**VOLUMEN 7**
+**VOLUMEN 9**
 
-**Giovanni, Calle Victoria y Liga Pokémon**
+**Calle Victoria y Liga Pokémon**
 
-Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
+Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
+
+> Consulta [Cómo usar la guía](../COMO-USAR-LA-GUIA.md) para conocer los símbolos, las mecánicas esenciales y el criterio de datos común a todos los volúmenes.
 
 # Contenido
-
-- Gimnasio de Ciudad Verde
 
 - Ruta 22 y combate contra el rival
 
@@ -24,58 +24,12 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - Alto Mando y Campeón
 
-| **CRITERIO DE DATOS** Los mapas, objetos, encuentros y entrenadores proceden de la guía inicial. Los equipos y niveles de Giovanni, Alto Mando y Campeón se basan en Pokémon Amarillo, porque la guía del hack no detalla sus plantillas. |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-# 🏆 GIMNASIO: Giovanni
-
-<img src="../images/volumen-07/media/image1.png" style="max-width:100%;height:auto" />
-
-*Interior del Gimnasio de Giovanni.*
-
-| **LEVEL CAP RECOMENDADO** 55. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|-----------------------------------------------------------------------------------------------------------------|
-
-| **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**       |
-|-------------|-----------|---------------|-----------------------------|
-| Dugtrio     | 50        | Tierra        | Muy rápido; ataques Tierra  |
-| Persian     | 53        | Normal        | Velocidad y golpes físicos  |
-| Nidoqueen   | 53        | Veneno/Tierra | Cobertura variada           |
-| Nidoking    | 55        | Veneno/Tierra | Ataque y cobertura elevados |
-| Rhydon      | 55        | Tierra/Roca   | Gran Ataque y Defensa       |
-
-## Entrenadores del gimnasio
-
-| **Entrenador**      | **Referencia** |
-|---------------------|----------------|
-| Rocker Cole         | Gimnasio       |
-| Black Belt Kiyo     | Gimnasio       |
-| Cooltrainer Samuel  | Gimnasio       |
-| Cooltrainer Yuji    | Gimnasio       |
-| Black Belt Atsushi  | Gimnasio       |
-| Rocker Jason        | Gimnasio       |
-| Cooltrainer Warren  | Gimnasio       |
-| Black Belt Takashi  | Gimnasio       |
-| Gym Leader Giovanni | Combate final  |
-
-## Plan de combate
-
-- Agua y Hielo cubren casi todo su equipo; Lapras es especialmente útil.
-
-- Planta funciona contra Dugtrio y Rhydon, pero Nidoqueen y Nidoking pueden tener cobertura peligrosa.
-
-- Persian no comparte la debilidad a Agua: usa un atacante físico resistente o movimientos de tipo Lucha.
-
-- Rhydon tiene una debilidad cuádruple a Agua y Planta; derríbalo rápidamente.
-
-- Mantén al equipo alrededor del nivel 55 si respetas el cap de Pokémon Amarillo.
-
-| **RECOMPENSA** Medalla Tierra, MT26 y Macho Brace en la posición donde estaba Giovanni. |
-|-----------------------------------------------------------------------------------------|
+| **CRITERIO DE DATOS** Los mapas, objetos, encuentros y entrenadores proceden de la guía inicial. Los equipos y niveles del Alto Mando y Campeón se basan en Pokémon Amarillo porque la guía del hack no detalla sus plantillas. |
+|---|
 
 # Ruta 22
 
-<img src="../images/volumen-07/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-09/media/image2.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 22.*
 
@@ -118,7 +72,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Ruta 23
 
-<img src="../images/volumen-07/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-09/media/image3.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 23 y controles de medallas.*
 
@@ -169,19 +123,19 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Calle Victoria
 
-<img src="../images/volumen-07/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-09/media/image4.png" style="max-width:100%;height:auto" />
 
 *Calle Victoria, planta 1.*
 
-<img src="../images/volumen-07/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-09/media/image5.png" style="max-width:100%;height:auto" />
 
 *Calle Victoria, planta 2.*
 
-<img src="../images/volumen-07/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-09/media/image6.png" style="max-width:100%;height:auto" />
 
 *Calle Victoria, planta 3.*
 
-<img src="../images/volumen-07/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-09/media/image7.png" style="max-width:100%;height:auto" />
 
 *Cueva lateral de Moltres.*
 
@@ -262,7 +216,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Meseta Añil
 
-<img src="../images/volumen-07/media/image8.png" style="max-width:100%;height:auto" />
+<img src="../images/volumen-09/media/image8.png" style="max-width:100%;height:auto" />
 
 *Exterior de la Meseta Añil.*
 
@@ -439,5 +393,4 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 ---
 
-> [← Anterior](06-islas-espuma-articuno-y-blaine.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](08-postgame-zapdos-mewtwo-y-mew.md)
-
+> [← Anterior](08-giovanni.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](10-postgame-zapdos-mewtwo-y-mew.md)

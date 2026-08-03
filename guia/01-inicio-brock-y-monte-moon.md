@@ -1,4 +1,4 @@
-> [← Anterior](../README.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](02-misty-y-lt-surge.md)
+> [← Anterior](../README.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](02-misty-y-cabo-celeste.md)
 
 **POKÉMON CLASSIC**
 
@@ -356,14 +356,20 @@ Interior del Gimnasio de Ciudad Plateada.
 
 # 🏆 Brock
 
-| Dato                          | Información                                                                                          |
-|-------------------------------|------------------------------------------------------------------------------------------------------|
-| Entrenadores                  | Camper Liam y Líder Brock                                                                            |
-| Equipo de Brock               | Geodude Nv. 10 · Onix Nv. 12                                                                         |
-| Level cap recomendado         | Nivel 12, tomando como referencia al Pokémon de mayor nivel de Brock en Pokémon Amarillo             |
-| Recompensa en Pokémon Classic | TM39                                                                                                 |
-| Rematch                       | Combate por Battle Points en el postgame                                                             |
-| Referencia usada              | Pokémon Amarillo para Pokémon y niveles; guía de Pokémon Classic para recompensas y cambios del hack |
+| **LEVEL CAP RECOMENDADO** 12. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
+|---------------------------------------------------------------------------------------------------------------|
+
+| **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**               |
+|-------------|-----------|---------------|--------------------------------------|
+| Geodude     | 10        | Roca/Tierra   | Gran Defensa física                  |
+| Onix        | 12        | Roca/Tierra   | Defensa y velocidad elevadas al inicio |
+
+| **Dato**                     | **Información**                                                                                      |
+|------------------------------|------------------------------------------------------------------------------------------------------|
+| Entrenadores                 | Camper Liam y Líder Brock                                                                            |
+| Recompensa en Pokémon Classic | TM39                                                                                                |
+| Rematch                      | Combate por Battle Points en el posjuego                                                             |
+| Referencia usada             | Pokémon Amarillo para Pokémon y niveles; guía de Pokémon Classic para recompensas y cambios del hack |
 
 <table>
 <colgroup>
@@ -701,4 +707,4 @@ Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
 
 ---
 
-> [← Anterior](../README.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](02-misty-y-lt-surge.md)
+> [← Anterior](../README.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](02-misty-y-cabo-celeste.md)
