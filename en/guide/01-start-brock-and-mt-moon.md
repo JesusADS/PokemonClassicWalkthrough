@@ -309,13 +309,13 @@ Viridian Forest. The map shows the main route, objects and trainers.
 
 ## Trainers
 
--Bug Catcher Rick
+- Bug Catcher Rick
 
 - Bug Catcher Doug
 
--Bug Catcher Anthony
+- Bug Catcher Anthony
 
--Bug Catcher Charlie
+- Bug Catcher Charlie
 
 - Bug Catcher Sammy
 

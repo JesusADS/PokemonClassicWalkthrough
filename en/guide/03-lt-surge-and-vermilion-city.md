@@ -95,7 +95,7 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 - Camper Ricky
 
--Picnicker Nancy
+- Picnicker Nancy
 
 - Bug Catcher Elijah
 
@@ -238,7 +238,7 @@ Route 11 is located east of Vermilion City. You can explore its land area now an
 - Youngster Dave
 - Youngster Dillon
 - Engineer Bernie
--Gambler Jasper
+- Gambler Jasper
 - Engineer Braxton
 - Gambler Darian
 - Youngster Yasu

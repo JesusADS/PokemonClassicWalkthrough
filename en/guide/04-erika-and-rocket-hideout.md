@@ -107,21 +107,21 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 - Picnicker Alicia
 
--Hiker Jeremy
+- Hiker Jeremy
 
 - Camper Chris
 
--Bug Catcher Brent
+- Bug Catcher Brent
 
 - Camper Drew
 
--Bug Catcher Conner
+- Bug Catcher Conner
 
--Hiker Brice
+- Hiker Brice
 
 - Picnicker Caitlin
 
--Hiker Alan
+- Hiker Alan
 
 ## ⚠ Before continuing
 
@@ -198,9 +198,9 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 - Pokemaniac Mark
 
--Picnicker Carol
+- Picnicker Carol
 
--Hiker Clark
+- Hiker Clark
 
 - Hiker Trent
 
