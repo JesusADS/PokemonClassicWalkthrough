@@ -1,7 +1,6 @@
-> [← Anterior](07-giovanni-calle-victoria-y-liga.md) · [Índice general](../README.md) · [Siguiente →](09-postgame-team-rocket-y-rematches.md)
+> [← Anterior](07-giovanni-calle-victoria-y-liga.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](09-postgame-team-rocket-y-rematches.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -35,7 +34,7 @@ CLASSIC**
 
 # Cedar y los objetos de posjuego
 
-| **OBJETIVO**                                                                             |
+| **🎯 OBJETIVO**                                                                             |
 |------------------------------------------------------------------------------------------|
 | Recoger las ayudas de captura y completar los encargos pendientes de la ayudante de Oak. |
 
@@ -51,7 +50,7 @@ CLASSIC**
 
 5.  Tras convertirte en Campeón, ya pueden habilitarse otros Pokémon como seguidores, no solo Pikachu.
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**     | **Localización**                   | **Prioridad**                   |
 |----------------|------------------------------------|---------------------------------|
@@ -73,7 +72,7 @@ CLASSIC**
 
 # Central de Energía y Zapdos
 
-| **OBJETIVO**                                                            |
+| **🎯 OBJETIVO**                                                            |
 |-------------------------------------------------------------------------|
 | Explorar la Central, recoger sus MT y capturar al legendario eléctrico. |
 
@@ -105,17 +104,17 @@ CLASSIC**
 | Electrode            | 2 encuentros estáticos disfrazados de objeto | Cuidado                  |
 | Zapdos               | Encuentro estático                           | Legendario prioritario   |
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**             | **Localización**                         | **Prioridad** |
 |------------------------|------------------------------------------|---------------|
 | Máxima Poción          | Poké Ball                                | Alta          |
-| Revestimiento Metálico | Objeto oculto                            | Alta          |
+| Revestimiento Metálico | 🔍 Objeto oculto                            | Alta          |
 | MT25                   | Great Ball                               | Muy alta      |
 | Elixir                 | Poké Ball                                | Alta          |
 | MT17                   | Poké Ball                                | Alta          |
 | Piedra Trueno          | Visible y otra oculta junto al generador | Alta          |
-| Elixir Máx.            | Objeto oculto                            | Muy alta      |
+| Elixir Máx.            | 🔍 Objeto oculto                            | Muy alta      |
 
 | **ANTES DE ZAPDOS**                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------------|
@@ -131,7 +130,7 @@ CLASSIC**
 
 # Ruta 24 y acceso a Cueva Celeste
 
-| **OBJETIVO**                                                                      |
+| **🎯 OBJETIVO**                                                                      |
 |-----------------------------------------------------------------------------------|
 | Revisar los eventos nuevos de la zona y entrar en la cueva más exigente de Kanto. |
 
@@ -161,7 +160,7 @@ CLASSIC**
 | Dratini     | 1% con Supercaña   | Muy raro          |
 | Abra        | 10% de día         | Opcional          |
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto** | **Localización**      | **Prioridad** |
 |------------|-----------------------|---------------|
@@ -191,7 +190,7 @@ CLASSIC**
 
 # Cueva Celeste y Mewtwo
 
-| **OBJETIVO**                                                               |
+| **🎯 OBJETIVO**                                                               |
 |----------------------------------------------------------------------------|
 | Atravesar las tres plantas, recoger todos los objetos y capturar a Mewtwo. |
 
@@ -236,19 +235,19 @@ CLASSIC**
 | Dratini     | 1-4% con Supercaña        | Raro                 |
 | Mewtwo      | Encuentro estático en B1F | Legendario principal |
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**     | **Localización**                  | **Prioridad** |
 |----------------|-----------------------------------|---------------|
-| Ultra Ball     | Oculta, 1F                        | Alta          |
+| Ultra Ball     | 🔍 Oculta, 1F                        | Alta          |
 | Nugget         | 1F                                | Media         |
 | Restaurar Todo | 1F y 2F                           | Muy alta      |
 | Elixir Máx.    | 1F                                | Muy alta      |
 | Ultra Ball     | 2F y B1F                          | Alta          |
 | PP Más         | 2F                                | Alta          |
 | Revivir Máx.   | B1F                               | Muy alta      |
-| Mewtwonita Y   | 2F, tras segunda victoria de Liga | Más adelante  |
-| Mewtwonita X   | 2F, tras segunda victoria de Liga | Más adelante  |
+| Mewtwonita Y   | 2F, tras segunda victoria de Liga | ↩ Más adelante  |
+| Mewtwonita X   | 2F, tras segunda victoria de Liga | ↩ Más adelante  |
 
 | **CAPTURA SEGURA**                                                                                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -264,7 +263,7 @@ CLASSIC**
 
 # Old Sea Map y Faraway Island
 
-| **OBJETIVO**                                                                       |
+| **🎯 OBJETIVO**                                                                       |
 |------------------------------------------------------------------------------------|
 | Usar el mapa antiguo de la Mansión Pokémon para llegar a la isla y capturar a Mew. |
 
@@ -298,7 +297,7 @@ CLASSIC**
 |-------------|-----------------------------------------|------------------------------------|
 | Mew         | Encuentro estático en la zona de hierba | Legendario / mítico imprescindible |
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**  | **Localización**                | **Prioridad**         |
 |-------------|---------------------------------|-----------------------|
@@ -326,7 +325,7 @@ CLASSIC**
 
 # Segunda Liga Pokémon
 
-| **OBJETIVO**                                                              |
+| **🎯 OBJETIVO**                                                              |
 |---------------------------------------------------------------------------|
 | Vencer de nuevo al Alto Mando y al Campeón para desbloquear el Mega Ring. |
 
@@ -344,7 +343,7 @@ CLASSIC**
 
 37. A partir de ese momento aparecen varias megapiedras invisibles o nuevos objetos repartidos por Kanto.
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto** | **Localización**                                      | **Prioridad**  |
 |------------|-------------------------------------------------------|----------------|
@@ -362,8 +361,7 @@ CLASSIC**
 
 **☐** Empezar la búsqueda de megapiedras
 
-
 ---
 
-> [← Anterior](07-giovanni-calle-victoria-y-liga.md) · [Índice general](../README.md) · [Siguiente →](09-postgame-team-rocket-y-rematches.md)
+> [← Anterior](07-giovanni-calle-victoria-y-liga.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](09-postgame-team-rocket-y-rematches.md)
 

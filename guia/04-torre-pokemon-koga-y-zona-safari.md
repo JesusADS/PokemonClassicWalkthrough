@@ -1,7 +1,6 @@
-> [← Anterior](03-erika-y-guarida-rocket.md) · [Índice general](../README.md) · [Siguiente →](05-silph-sabrina-y-ruta-ciclista.md)
+> [← Anterior](03-erika-y-guarida-rocket.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](05-silph-sabrina-y-ruta-ciclista.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -58,7 +57,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Torre Pokémon, planta 7.*
 
-| **OBJETIVO** Liberar la torre, rescatar al Sr. Fuji y conseguir la Poké Flauta. |
+| **🎯 OBJETIVO** Liberar la torre, rescatar al Sr. Fuji y conseguir la Poké Flauta. |
 |---------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -75,7 +74,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 6.  Rescata al Sr. Fuji y vuelve con él para recibir la Poké Flauta.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**                  |
 |---------------------|--------------------|---------------------------------------------|
@@ -83,14 +82,14 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Cubone              | 1-4% en 3F-6F      | Raro, buen atacante Tierra                  |
 | Haunter             | 1% en 3F-6F        | Captura excepcional si aparece              |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**                      | **Dónde / cómo**        | **Prioridad** |
 |---------------------------------|-------------------------|---------------|
 | MT42                            | NPC Cueball, 1F         | Alta          |
 | Cuerda Huida                    | Poké Ball, 3F           | Media         |
 | Elixir / Super Ball / Despertar | 4F                      | Media         |
-| Gran Hongo                      | Oculto, 5F              | Media         |
+| Gran Hongo                      | 🔍 Oculto, 5F              | Media         |
 | Amuleto Puro / Pepita           | 5F                      | Alta          |
 | Precisión X / Caramelo Raro     | 6F                      | Alta          |
 | Poké Flauta                     | Recompensa del Sr. Fuji | Obligatoria   |
@@ -110,7 +109,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **CAPTURA RECOMENDADA** Gastly aporta inmunidades útiles, movimientos de estado y una línea evolutiva muy potente. |
 |--------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir la Poké Flauta
 
@@ -124,7 +123,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa completo de la Ruta 12.*
 
-| **OBJETIVO** Despertar a Snorlax, conseguir la Supercaña y abrir el camino hacia Fucsia. |
+| **🎯 OBJETIVO** Despertar a Snorlax, conseguir la Supercaña y abrir el camino hacia Fucsia. |
 |------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -137,7 +136,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 10. Continúa hacia el sur y derrota a todos los entrenadores antes de entrar en la Ruta 13.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad**                       | **Valor para la aventura** |
 |---------------------|------------------------------------------|----------------------------|
@@ -146,14 +145,14 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Pinsir              | 1% día/noche                             | Muy raro                   |
 | Slowpoke / Slowbro  | Surf, más adelante                       | Buenos Agua/Psíquico       |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**    | **Dónde / cómo**     | **Prioridad** |
 |---------------|----------------------|---------------|
 | MT48          | Great Ball de objeto | Alta          |
-| Hiperpoción   | Oculta               | Media         |
+| Hiperpoción   | 🔍 Oculta               | Media         |
 | Hierro        | Poké Ball            | Media         |
-| Caramelo Raro | Oculto               | Alta          |
+| Caramelo Raro | 🔍 Oculto               | Alta          |
 | Supercaña     | Casa del pescador    | Muy alta      |
 
 ## Entrenadores
@@ -169,7 +168,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **ANTES DE LUCHAR CON SNORLAX** Guarda la partida y lleva varias Ultra Ball o Super Ball. Paralizarlo o dormirlo facilita mucho la captura. |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Capturar o derrotar a Snorlax
 
@@ -183,7 +182,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa de la Ruta 13.*
 
-| **OBJETIVO** Atravesar el laberinto de vallas y mantener el equipo al día de nivel. |
+| **🎯 OBJETIVO** Atravesar el laberinto de vallas y mantener el equipo al día de nivel. |
 |-------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -196,7 +195,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 14. Continúa hacia la Ruta 14.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo**    | **Disponibilidad** | **Valor para la aventura** |
 |------------------------|--------------------|----------------------------|
@@ -205,11 +204,11 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Gloom                  | 5% de noche        | Ahorra evolución de Oddish |
 | Pidgeotto / Weepinbell | Frecuentes         | Opcionales                 |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**                | **Dónde / cómo**  | **Prioridad** |
 |---------------------------|-------------------|---------------|
-| PP Máx.                   | Oculto            | Alta          |
+| PP Máx.                   | 🔍 Oculto            | Alta          |
 | Bayas Razz, Iapapa y Bluk | Parcelas de bayas | Baja          |
 
 ## Entrenadores
@@ -225,7 +224,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Biker Jared              | Tramo sur             |
 | Rocker Perry             | Salida                |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger el PP Máx.
 
@@ -239,7 +238,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa de la Ruta 14.*
 
-| **OBJETIVO** Continuar hacia Fucsia y recoger la Raíz Grande. |
+| **🎯 OBJETIVO** Continuar hacia Fucsia y recoger la Raíz Grande. |
 |---------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -252,7 +251,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 18. Continúa hacia la Ruta 15.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**              |
 |---------------------|--------------------|-----------------------------------------|
@@ -260,12 +259,12 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Venomoth            | 1% de noche        | Raro y ya evolucionado                  |
 | Weepinbell / Gloom  | 10% según horario  | Opcionales                              |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**  | **Dónde / cómo** | **Prioridad**                  |
 |-------------|------------------|--------------------------------|
 | Raíz Grande | Poké Ball        | Alta en estrategias de drenaje |
-| Baya Pinap  | Oculta           | Baja                           |
+| Baya Pinap  | 🔍 Oculta           | Baja                           |
 
 ## Entrenadores
 
@@ -276,7 +275,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Biker Lukas, Gerald, Malik e Isaac              | Mitad sur             |
 | Hex Maniac Camran                               | Final                 |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger Raíz Grande
 
@@ -288,7 +287,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa de la Ruta 15.*
 
-| **OBJETIVO** Llegar a Ciudad Fucsia y dejar preparado el futuro acceso al Repartir Exp. |
+| **🎯 OBJETIVO** Llegar a Ciudad Fucsia y dejar preparado el futuro acceso al Repartir Exp. |
 |-----------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -301,7 +300,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 22. Entra en Ciudad Fucsia y cura al equipo.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura** |
 |---------------------|--------------------|----------------------------|
@@ -309,12 +308,12 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Venomoth            | 1% de noche        | Raro                       |
 | Weepinbell / Gloom  | 10%                | Opcionales                 |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**          | **Dónde / cómo**                             | **Prioridad**  |
 |---------------------|----------------------------------------------|----------------|
 | MT18                | Great Ball de objeto                         | Alta           |
-| Repartir Exp.       | Cedar, 2F del puesto, después del gimnasio 6 | Volver después |
+| Repartir Exp.       | Cedar, 2F del puesto, después del gimnasio 6 | ↩ Volver después |
 | Bayas Mago y Magost | Parcelas                                     | Baja           |
 
 ## Entrenadores
@@ -333,7 +332,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **VOLVER MÁS TARDE** Tras derrotar a Sabrina, vuelve al puesto de control para recibir el Repartir Exp. |
 |---------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger MT18
 
@@ -347,7 +346,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa de Ciudad Fucsia.*
 
-| **OBJETIVO** Conseguir las cañas, preparar la Zona Safari y localizar la casa del Guarda. |
+| **🎯 OBJETIVO** Conseguir las cañas, preparar la Zona Safari y localizar la casa del Guarda. |
 |-------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -362,18 +361,18 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 27. Entra en la Zona Safari con espacio en la mochila y planifica una ruta hasta la Casa Secreta.
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**     | **Dónde / cómo**                              | **Prioridad** |
 |----------------|-----------------------------------------------|---------------|
-| Revivir Máximo | Oculto en las flores del patio cercado        | Alta          |
+| Revivir Máximo | 🔍 Oculto en las flores del patio cercado        | Alta          |
 | Caña Buena     | Casa del Gurú Pescador                        | Alta          |
 | MO Fuerza      | Casa del Guarda, tras devolver Dientes de Oro | Obligatoria   |
 
 | **TUTOR DE MOVIMIENTOS** La persona situada junto a Kangaskhan enseña Sustituto. |
 |----------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir la Caña Buena
 
@@ -399,7 +398,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Zona Safari: área oeste.*
 
-| **OBJETIVO** Conseguir Surf y los Dientes de Oro, además de recoger los objetos únicos. |
+| **🎯 OBJETIVO** Conseguir Surf y los Dientes de Oro, además de recoger los objetos únicos. |
 |-----------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -416,7 +415,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 33. Después de salir, devuelve los Dientes de Oro al Guarda de Fucsia para obtener Fuerza.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**             |
 |---------------------|--------------------|----------------------------------------|
@@ -427,7 +426,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Tauros              | 10% este/oeste     | Excelente atacante                     |
 | Dratini / Dragonair | Supercaña          | Muy raros y valiosos                   |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**                     | **Dónde / cómo**             | **Prioridad** |
 |--------------------------------|------------------------------|---------------|
@@ -443,7 +442,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **RUTA PRIORITARIA** En la primera visita prioriza Dientes de Oro y Surf. Las capturas raras pueden intentarse en visitas posteriores. |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir MO Surf
 
@@ -453,7 +452,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 - [ ] Recoger las MT11, MT47 y MT32
 
-# GIMNASIO: Koga
+# 🏆 GIMNASIO: Koga
 
 <img src="../images/volumen-04/media/image17.png" style="max-width:100%;height:auto" />
 
@@ -487,8 +486,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **SIGUIENTE VOLUMEN** Tras conseguir Surf y la Medalla Alma, puedes recorrer la Ruta Ciclista y después liberar Ciudad Azafrán y Silph S.A. |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
 
-
 ---
 
-> [← Anterior](03-erika-y-guarida-rocket.md) · [Índice general](../README.md) · [Siguiente →](05-silph-sabrina-y-ruta-ciclista.md)
+> [← Anterior](03-erika-y-guarida-rocket.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](05-silph-sabrina-y-ruta-ciclista.md)
 

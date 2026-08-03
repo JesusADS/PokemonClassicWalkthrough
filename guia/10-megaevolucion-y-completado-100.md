@@ -1,7 +1,6 @@
-> [← Anterior](09-postgame-team-rocket-y-rematches.md) · [Índice general](../README.md) · [Siguiente →](../README.md)
+> [← Anterior](09-postgame-team-rocket-y-rematches.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](../README.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -51,7 +50,7 @@ CLASSIC**
 
 # Ruta de megapiedras: norte y centro de Kanto
 
-| **OBJETIVO**                                                                                       |
+| **🎯 OBJETIVO**                                                                                       |
 |----------------------------------------------------------------------------------------------------|
 | Recoger las piedras de Bosque Verde, Ruta 2, Ciudad Celeste, Mt. Moon, Túnel Roca y Torre Pokémon. |
 
@@ -77,7 +76,7 @@ CLASSIC**
 
 6.  Vuela a Pueblo Lavanda y sube a 6F de Torre Pokémon para Gengarita.
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**    | **Localización**          | **Prioridad** |
 |---------------|---------------------------|---------------|
@@ -104,7 +103,7 @@ CLASSIC**
 
 # Ruta de megapiedras: sur y oeste de Kanto
 
-| **OBJETIVO**                                                        |
+| **🎯 OBJETIVO**                                                        |
 |---------------------------------------------------------------------|
 | Recoger las piedras de Zona Safari, Islas Espuma y Mansión Pokémon. |
 
@@ -138,7 +137,7 @@ CLASSIC**
 
 12. Recoge Charizardita X en 2F y Charizardita Y en 3F.
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**     | **Localización**   | **Prioridad** |
 |----------------|--------------------|---------------|
@@ -162,7 +161,7 @@ CLASSIC**
 
 # Ruta de megapiedras: Ciudad Azafrán y Cueva Celeste
 
-| **OBJETIVO**                               |
+| **🎯 OBJETIVO**                               |
 |--------------------------------------------|
 | Conseguir Alakazita y las dos Mewtwonitas. |
 
@@ -182,7 +181,7 @@ CLASSIC**
 
 17. Equipa la piedra correspondiente a Mewtwo según la forma que quieras usar.
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**   | **Localización**    | **Prioridad** |
 |--------------|---------------------|---------------|
@@ -258,8 +257,7 @@ CLASSIC**
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Con estos objetivos se cubre todo el contenido de historia, posjuego, legendarios, Mega Evolución y actividades extra que la guía original documenta con suficiente claridad. |
 
-
 ---
 
-> [← Anterior](09-postgame-team-rocket-y-rematches.md) · [Índice general](../README.md) · [Siguiente →](../README.md)
+> [← Anterior](09-postgame-team-rocket-y-rematches.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](../README.md)
 

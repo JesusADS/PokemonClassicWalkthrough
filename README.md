@@ -45,6 +45,8 @@ Cada volumen sigue el orden natural de la aventura y contiene:
 - equipos de líderes basados en Pokémon Amarillo cuando el hack no documenta cambios;
 - checklist antes de abandonar cada zona.
 
+Consulta [Cómo usar la guía](COMO-USAR-LA-GUIA.md) para conocer los símbolos, el criterio de datos, la estructura común y las mecánicas esenciales antes de empezar.
+
 ## Créditos y fuentes
 
 - **Pokémon Classic / PokeClassic:** proyecto original de danenders/LazyDev y mantenimientos posteriores acreditados en su documentación.

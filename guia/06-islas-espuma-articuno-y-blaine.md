@@ -1,7 +1,6 @@
-> [← Anterior](05-silph-sabrina-y-ruta-ciclista.md) · [Índice general](../README.md) · [Siguiente →](07-giovanni-calle-victoria-y-liga.md)
+> [← Anterior](05-silph-sabrina-y-ruta-ciclista.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](07-giovanni-calle-victoria-y-liga.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -36,7 +35,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Mapa completo de la Ruta 19.*
 
-| **OBJETIVO** Salir de Ciudad Fucsia por el sur y atravesar el primer tramo marítimo. |
+| **🎯 OBJETIVO** Salir de Ciudad Fucsia por el sur y atravesar el primer tramo marítimo. |
 |--------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -49,7 +48,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 4.  Continúa hacia el oeste hasta la Ruta 20 y la entrada de Islas Espuma.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo**    | **Disponibilidad**               | **Valor para la aventura**         |
 |------------------------|----------------------------------|------------------------------------|
@@ -74,7 +73,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Swimmer Axle            | Tramo final           |
 | Swimmer Anya            | Tramo final           |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Derrotar a los once entrenadores
 
@@ -86,7 +85,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Mapa de la Ruta 20.*
 
-| **OBJETIVO** Recorrer el mar y entrar en Islas Espuma. |
+| **🎯 OBJETIVO** Recorrer el mar y entrar en Islas Espuma. |
 |--------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -99,7 +98,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 8.  Entra en Islas Espuma; necesitarás Surf y Fuerza para completar el recorrido cómodamente.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo**    | **Disponibilidad**                | **Valor para la aventura** |
 |------------------------|-----------------------------------|----------------------------|
@@ -107,11 +106,11 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Tentacool / Tentacruel | Surf de noche                     | Opcionales                 |
 | Staryu                 | Supercaña, especialmente de noche | Muy recomendable           |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**    | **Dónde / cómo**                  | **Prioridad** |
 |---------------|-----------------------------------|---------------|
-| Polvo Estelar | Objeto oculto                     | Media         |
+| Polvo Estelar | 🔍 Objeto oculto                     | Media         |
 | Slowbronita   | Posjuego, tras el segundo Campeón | Posjuego      |
 
 ## Entrenadores
@@ -133,7 +132,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **NOTA DE LA FUENTE** Uno de los entrenadores aparece como “Camper Camper” en la guía original; se conserva la incertidumbre en lugar de inventar un nombre. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger el Polvo Estelar
 
@@ -163,7 +162,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Islas Espuma, sótano 4 y zona de Articuno.*
 
-| **OBJETIVO** Atravesar las cinco plantas, desviar la corriente y capturar a Articuno. |
+| **🎯 OBJETIVO** Atravesar las cinco plantas, desviar la corriente y capturar a Articuno. |
 |---------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -178,7 +177,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 13. Busca la salida occidental para continuar hacia Isla Canela.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**   |
 |---------------------|--------------------|------------------------------|
@@ -188,19 +187,19 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Dewgong             | 4-5% usando Surf   | Buen muro Agua/Hielo         |
 | Articuno            | Estático en B4F    | Legendario; prioridad máxima |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**   | **Dónde / cómo** | **Prioridad** |
 |--------------|------------------|---------------|
 | Antihielo    | 1F               | Media         |
-| Hielo Eterno | Oculto, 1F       | Alta          |
-| Icy Melt     | Oculto, B1F      | Alta          |
+| Hielo Eterno | 🔍 Oculto, 1F       | Alta          |
+| Icy Melt     | 🔍 Oculto, B1F      | Alta          |
 | Piedra Agua  | B1F              | Alta          |
 | Revivir      | B1F              | Media         |
 | Power Stone  | B2F              | Muy alta      |
 | Perla Grande | B2F              | Media         |
-| Pepita       | Oculta, B3F      | Media         |
-| Piedra Agua  | Oculta, B4F      | Alta          |
+| Pepita       | 🔍 Oculta, B3F      | Media         |
+| Piedra Agua  | 🔍 Oculta, B4F      | Alta          |
 | Ultra Ball   | B4F              | Alta          |
 | Gyaradosita  | Posjuego         | Posjuego      |
 
@@ -213,7 +212,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **ANTES DE ARTICUNO** Guarda la partida y lleva Ultra Ball, curas y un movimiento de estado. Articuno puede ser una pieza decisiva contra Lance. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Bloquear las corrientes
 
@@ -229,7 +228,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Mapa de Isla Canela.*
 
-| **OBJETIVO** Explorar la isla, recoger los objetos costeros y preparar el acceso al gimnasio. |
+| **🎯 OBJETIVO** Explorar la isla, recoger los objetos costeros y preparar el acceso al gimnasio. |
 |-----------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -244,7 +243,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 18. Después de completar la mansión, vuelve al gimnasio de Blaine.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad**      | **Valor para la aventura**    |
 |---------------------|-------------------------|-------------------------------|
@@ -253,7 +252,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Gyarados            | 1% usando Surf de noche | Raro                          |
 | Kingler / Seadra    | Supercaña               | Opcionales                    |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto** | **Dónde / cómo**          | **Prioridad** |
 |------------|---------------------------|---------------|
@@ -266,7 +265,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 |----------------|-----------------------|
 | Gambler Ryan   | Isla Canela           |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger Light Clay
 
@@ -292,7 +291,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Mansión Pokémon, sótano 1.*
 
-| **OBJETIVO** Explorar las cuatro plantas, reunir MT importantes y encontrar la llave del gimnasio. |
+| **🎯 OBJETIVO** Explorar las cuatro plantas, reunir MT importantes y encontrar la llave del gimnasio. |
 |----------------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -309,7 +308,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 24. Completa el recorrido y vuelve al gimnasio.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura** |
 |---------------------|--------------------|----------------------------|
@@ -319,7 +318,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Muk / Weezing       | 4% / 1%            | Resistentes                |
 | Ditto               | 1% en B1F          | Útil para crianza          |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**             | **Dónde / cómo** | **Prioridad** |
 |------------------------|------------------|---------------|
@@ -331,9 +330,9 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Carbón                 | 3F               | Alta          |
 | Máxima Poción          | 3F               | Alta          |
 | Hierro                 | 3F               | Media         |
-| Caramelo Raro          | Oculto, 3F       | Alta          |
+| Caramelo Raro          | 🔍 Oculto, 3F       | Alta          |
 | Restaurar Todo         | B1F              | Alta          |
-| Elixir                 | Oculto, B1F      | Alta          |
+| Elixir                 | 🔍 Oculto, B1F      | Alta          |
 | MT14                   | B1F              | Muy alta      |
 | MT22                   | B1F              | Muy alta      |
 | Old Sea Map            | Pared, B1F       | Importante    |
@@ -354,7 +353,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **OBJETOS CLAVE** No salgas sin revisar B1F: allí están MT14, MT22 y el Old Sea Map. |
 |--------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger MT14 y MT22
 
@@ -364,7 +363,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - [ ] Abrir el gimnasio
 
-# GIMNASIO: Blaine
+# 🏆 GIMNASIO: Blaine
 
 <img src="../images/volumen-06/media/image13.png" style="max-width:100%;height:auto" />
 
@@ -417,7 +416,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Ruta 21 Norte y acceso a Pueblo Paleta.*
 
-| **OBJETIVO** Regresar a Pueblo Paleta por mar y cerrar el circuito de Kanto. |
+| **🎯 OBJETIVO** Regresar a Pueblo Paleta por mar y cerrar el circuito de Kanto. |
 |------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -432,7 +431,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 29. Continúa hasta Pueblo Paleta y usa Vuelo para regresar a Ciudad Verde.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo**    | **Disponibilidad**   | **Valor para la aventura**                     |
 |------------------------|----------------------|------------------------------------------------|
@@ -441,11 +440,11 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Horsea / Seadra        | Surf de día          | Opcionales                                     |
 | Tentacool / Tentacruel | Surf de noche        | Opcionales                                     |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto** | **Dónde / cómo**      | **Prioridad** |
 |------------|-----------------------|---------------|
-| Perla      | Oculta, Ruta 21 Norte | Media         |
+| Perla      | 🔍 Oculta, Ruta 21 Norte | Media         |
 
 ## Entrenadores
 
@@ -463,7 +462,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Cooltrainer Anri        | Ruta 21 Norte                |
 | Swimmer Spencer         | Ruta 21 Norte                |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger la Perla oculta
 
@@ -476,8 +475,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **SIGUIENTE VOLUMEN** Con siete medallas, el Gimnasio de Ciudad Verde vuelve a estar abierto. Después llegará el camino final hacia la Liga Pokémon. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-
 ---
 
-> [← Anterior](05-silph-sabrina-y-ruta-ciclista.md) · [Índice general](../README.md) · [Siguiente →](07-giovanni-calle-victoria-y-liga.md)
+> [← Anterior](05-silph-sabrina-y-ruta-ciclista.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](07-giovanni-calle-victoria-y-liga.md)
 

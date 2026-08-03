@@ -1,7 +1,6 @@
-> [← Anterior](01-inicio-brock-y-monte-moon.md) · [Índice general](../README.md) · [Siguiente →](03-erika-y-guarida-rocket.md)
+> [← Anterior](01-inicio-brock-y-monte-moon.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](03-erika-y-guarida-rocket.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -40,7 +39,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Mapa de Ciudad Celeste extraído de la guía original.*
 
-| **OBJETIVO** Resolver los eventos de la ciudad, prepararte para Misty y abrir el camino hacia el norte. |
+| **🎯 OBJETIVO** Resolver los eventos de la ciudad, prepararte para Misty y abrir el camino hacia el norte. |
 |---------------------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -55,7 +54,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 5.  Cuando tengas mucha amistad con el Pokémon situado primero en el equipo, habla con la criadora del patio para recibir a Bulbasaur.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad**               | **Valor para la aventura**                             |
 |---------------------|----------------------------------|--------------------------------------------------------|
@@ -63,11 +62,11 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Dratini / Dragonair | Pesca avanzada, más adelante     | Muy raros; no merece retrasar la historia ahora        |
 | Goldeen / Poliwag   | Surf o pesca posterior           | Opcionales; no son necesarios para Misty               |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**    | **Dónde / cómo**                                     | **Prioridad** |
 |---------------|------------------------------------------------------|---------------|
-| Caramelo Raro | Oculto junto a la valla del patio de bayas           | Alta          |
+| Caramelo Raro | 🔍 Oculto junto a la valla del patio de bayas           | Alta          |
 | MT28 Excavar  | Derrota al miembro Rocket detrás de la casa vigilada | Muy alta      |
 | Bulbasaur     | Regalo por amistad alta                              | Muy alta      |
 | Venusaurita   | Solo tras completar dos veces Liga y Campeón         | Posjuego      |
@@ -82,7 +81,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **CONSEJO** No gastes Excavar a ciegas: además de ser un buen ataque de tipo Tierra, puede ayudarte a salir de algunas cuevas. |
 |--------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger el Caramelo Raro
 
@@ -90,7 +89,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 - [ ] Decidir si quieres usar a Bulbasaur
 
-# GIMNASIO: Misty
+# 🏆 GIMNASIO: Misty
 
 <img src="../images/volumen-02/media/image2.png" style="max-width:100%;height:auto" />
 
@@ -123,7 +122,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Ruta 24 y Puente Pepita.*
 
-| **OBJETIVO** Superar la cadena de entrenadores, derrotar al Rocket y ampliar el equipo. |
+| **🎯 OBJETIVO** Superar la cadena de entrenadores, derrotar al Rocket y ampliar el equipo. |
 |-----------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -140,7 +139,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 11. Recoge al Charmander estático cuando esté disponible.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo**            | **Disponibilidad** | **Valor para la aventura**                                             |
 |--------------------------------|--------------------|------------------------------------------------------------------------|
@@ -149,7 +148,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Charmander                     | Encuentro estático | Gran incorporación de tipo Fuego                                       |
 | Pidgeotto / Weepinbell / Gloom | Muy raros          | Captura de comodidad, no imprescindible                                |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto** | **Dónde / cómo**              | **Prioridad** |
 |------------|-------------------------------|---------------|
@@ -170,7 +169,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Rocket Grunt      | Evento Rocket                 |
 | Jessie y James    | Combate doble                 |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Superar todo el Puente Pepita
 
@@ -184,7 +183,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Ruta 25 y camino hacia la casa de Bill.*
 
-| **OBJETIVO** Ayudar a Bill y conseguir el acceso a la S.S. Anne. |
+| **🎯 OBJETIVO** Ayudar a Bill y conseguir el acceso a la S.S. Anne. |
 |------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -199,7 +198,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 16. Regresa a Ciudad Celeste; ya puedes dirigirte al sur.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo**        | **Disponibilidad**       | **Valor para la aventura**                    |
 |----------------------------|--------------------------|-----------------------------------------------|
@@ -207,14 +206,14 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Bellsprout / Oddish        | Comunes según hora       | Buenas opciones de tipo Planta                |
 | Venonat / Gloom / Venomoth | Nocturnos, algunos raros | Opcionales                                    |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**   | **Dónde / cómo** | **Prioridad**                 |
 |--------------|------------------|-------------------------------|
-| Elixir       | Oculto           | Media                         |
-| Baya Aranja  | Oculta           | Baja                          |
-| Baya Bluk    | Oculta           | Baja                          |
-| Éter         | Oculto           | Media                         |
+| Elixir       | 🔍 Oculto           | Media                         |
+| Baya Aranja  | 🔍 Oculta           | Baja                          |
+| Baya Bluk    | 🔍 Oculta           | Baja                          |
+| Éter         | 🔍 Oculto           | Media                         |
 | Orbe Tóxico  | Poké Ball        | Alta para estrategias futuras |
 | Ticket Barco | Casa de Bill     | Obligatoria                   |
 | DexNAV       | Casa de Bill     | Obligatoria                   |
@@ -222,7 +221,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **DEXNAV** Úsalo para localizar especies ya vistas y buscar mejores IV, habilidades o encuentros ocultos. |
 |-----------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir Ticket Barco
 
@@ -240,7 +239,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Ruta 6: tramo final hasta Ciudad Carmín.*
 
-| **OBJETIVO** Atravesar el paso subterráneo y llegar a Ciudad Carmín. |
+| **🎯 OBJETIVO** Atravesar el paso subterráneo y llegar a Ciudad Carmín. |
 |----------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -255,7 +254,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 21. Derrota a los seis entrenadores y entra en Ciudad Carmín.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**                                     |
 |---------------------|--------------------|----------------------------------------------------------------|
@@ -264,13 +263,13 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Jigglypuff          | 10% aprox.         | Buen soporte, pero no imprescindible                           |
 | Pidgeotto           | Raro               | Atajo para obtener un volador evolucionado                     |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**             | **Dónde / cómo**   | **Prioridad** |
 |------------------------|--------------------|---------------|
 | Bayas reductoras de EV | Parcelas de Ruta 5 | Media         |
-| Baya Zidra             | Oculta en Ruta 6   | Alta          |
-| Caramelo Raro          | Oculto en Ruta 6   | Alta          |
+| Baya Zidra             | 🔍 Oculta en Ruta 6   | Alta          |
+| Caramelo Raro          | 🔍 Oculto en Ruta 6   | Alta          |
 
 ## Entrenadores
 
@@ -286,7 +285,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 - Camper Jeff
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger el Caramelo Raro
 
@@ -298,7 +297,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Mapa de Ciudad Carmín.*
 
-| **OBJETIVO** Preparar la visita a la S.S. Anne y obtener objetos clave. |
+| **🎯 OBJETIVO** Preparar la visita a la S.S. Anne y obtener objetos clave. |
 |-------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -313,7 +312,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 26. Tras ganar la tercera medalla, vuelve para recibir a Squirtle.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo**      | **Disponibilidad**           | **Valor para la aventura**                                 |
 |--------------------------|------------------------------|------------------------------------------------------------|
@@ -321,16 +320,16 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Magikarp                 | Caña Vieja                   | Gyarados merece la inversión si quieres un atacante físico |
 | Horsea / Staryu / Krabby | Con mejores cañas            | Opciones posteriores                                       |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**  | **Dónde / cómo**                     | **Prioridad**          |
 |-------------|--------------------------------------|------------------------|
 | Vale Bici   | Club de Fans Pokémon                 | Obligatoria / muy alta |
 | Caña Vieja  | Casa del pescador                    | Media                  |
-| Máx. Éter   | Oculto en la costa                   | Alta                   |
+| Máx. Éter   | 🔍 Oculto en la costa                   | Alta                   |
 | Blastoisita | Posjuego tras segunda victoria final | Posjuego               |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir Vale Bici
 
@@ -364,7 +363,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *S.S. Anne: camarote del capitán y tramo final.*
 
-| **OBJETIVO** Explorar el barco por completo, vencer al rival y conseguir Corte. |
+| **🎯 OBJETIVO** Explorar el barco por completo, vencer al rival y conseguir Corte. |
 |---------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -381,11 +380,11 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 32. Habla con el capitán mareado para conseguir la MO01 Corte. No abandones el barco hasta haber recogido todo.
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**                  | **Dónde / cómo**       | **Prioridad** |
 |-----------------------------|------------------------|---------------|
-| Hiperpoción                 | Oculta, corredor B1F   | Alta          |
+| Hiperpoción                 | 🔍 Oculta, corredor B1F   | Alta          |
 | Super Ball                  | Cocina                 | Media         |
 | Bayas Atania, Zreza y Meloc | Papeleras de la cocina | Media         |
 | MT31                        | Habitación 2, planta 1 | Alta          |
@@ -415,7 +414,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **AVISO** La S.S. Anne deja de estar disponible al completar el evento. Recoge todos los objetos antes de entregar el objetivo final y salir. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger ambas MT
 
@@ -423,7 +422,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 - [ ] Conseguir Corte
 
-# GIMNASIO: Lt. Surge
+# 🏆 GIMNASIO: Lt. Surge
 
 <img src="../images/volumen-02/media/image14.png" style="max-width:100%;height:auto" />
 
@@ -455,7 +454,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Mapa completo de la Cueva Diglett.*
 
-| **OBJETIVO** Conseguir una opción de tipo Tierra y abrir atajos hacia zonas anteriores. |
+| **🎯 OBJETIVO** Conseguir una opción de tipo Tierra y abrir atajos hacia zonas anteriores. |
 |-----------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -468,14 +467,14 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 36. Cruza la cueva para regresar a la zona oriental de la Ruta 2 y explorar accesos que antes estaban bloqueados.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad**                    | **Valor para la aventura**                                      |
 |---------------------|---------------------------------------|-----------------------------------------------------------------|
 | Diglett             | Muy común, niveles 1-20 según la zona | La mejor respuesta inmediata contra Lt. Surge                   |
 | Dugtrio             | 1-4%                                  | Muy potente, aunque puede estar por encima del resto del equipo |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto** | **Dónde / cómo**             | **Prioridad** |
 |------------|------------------------------|---------------|
@@ -484,7 +483,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **CIERRE DEL VOLUMEN** Con Corte y tres medallas, el siguiente objetivo es avanzar por las rutas 9 y 10, atravesar el Túnel Roca y llegar a Pueblo Lavanda. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Tener Corte
 
@@ -492,8 +491,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 - [ ] Recibir a Squirtle en Ciudad Carmín
 
-
 ---
 
-> [← Anterior](01-inicio-brock-y-monte-moon.md) · [Índice general](../README.md) · [Siguiente →](03-erika-y-guarida-rocket.md)
+> [← Anterior](01-inicio-brock-y-monte-moon.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](03-erika-y-guarida-rocket.md)
 

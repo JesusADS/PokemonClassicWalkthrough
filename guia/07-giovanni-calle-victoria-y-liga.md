@@ -1,7 +1,6 @@
-> [← Anterior](06-islas-espuma-articuno-y-blaine.md) · [Índice general](../README.md) · [Siguiente →](08-postgame-zapdos-mewtwo-y-mew.md)
+> [← Anterior](06-islas-espuma-articuno-y-blaine.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](08-postgame-zapdos-mewtwo-y-mew.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -28,7 +27,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **CRITERIO DE DATOS** Los mapas, objetos, encuentros y entrenadores proceden de la guía inicial. Los equipos y niveles de Giovanni, Alto Mando y Campeón se basan en Pokémon Amarillo, porque la guía del hack no detalla sus plantillas. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-# GIMNASIO: Giovanni
+# 🏆 GIMNASIO: Giovanni
 
 <img src="../images/volumen-07/media/image1.png" style="max-width:100%;height:auto" />
 
@@ -80,7 +79,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Mapa de la Ruta 22.*
 
-| **OBJETIVO** Superar el último combate obligatorio contra el rival y dirigirte a la Liga. |
+| **🎯 OBJETIVO** Superar el último combate obligatorio contra el rival y dirigirte a la Liga. |
 |-------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -93,7 +92,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 4.  Tras vencerlo, continúa hacia el acceso de la Ruta 23.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**           |
 |---------------------|--------------------|--------------------------------------|
@@ -111,7 +110,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **EQUIPO DEL RIVAL** La evolución de Eevee depende de los dos primeros combates: Vaporeon si pierdes el primero; Flareon si ganas el primero y pierdes u omites el segundo; Jolteon si ganas ambos. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Derrotar al rival
 
@@ -123,7 +122,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Mapa de la Ruta 23 y controles de medallas.*
 
-| **OBJETIVO** Atravesar los controles de medallas y recoger los objetos ocultos antes de Calle Victoria. |
+| **🎯 OBJETIVO** Atravesar los controles de medallas y recoger los objetos ocultos antes de Calle Victoria. |
 |---------------------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -138,7 +137,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 9.  Entra en Calle Victoria con Fuerza, Surf y suficientes curas.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo**          | **Disponibilidad**        | **Valor para la aventura**   |
 |------------------------------|---------------------------|------------------------------|
@@ -147,20 +146,20 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Dratini                      | 1-4% con Supercaña de día | Muy raro                     |
 | Gyarados                     | 15% con Supercaña de día  | Potente si aún no tienes uno |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**     | **Dónde / cómo** | **Prioridad** |
 |----------------|------------------|---------------|
-| Baya Leppa     | Oculta           | Alta          |
-| Éter Máx.      | Oculto           | Alta          |
-| Baya Aspear    | Oculta           | Media         |
-| Restaurar Todo | Oculto           | Muy alta      |
-| Baya Zidra     | Oculta           | Alta          |
-| Baya Ziuela    | Oculta           | Muy alta      |
-| Elixir Máx.    | Oculto           | Muy alta      |
+| Baya Leppa     | 🔍 Oculta           | Alta          |
+| Éter Máx.      | 🔍 Oculto           | Alta          |
+| Baya Aspear    | 🔍 Oculta           | Media         |
+| Restaurar Todo | 🔍 Oculto           | Muy alta      |
+| Baya Zidra     | 🔍 Oculta           | Alta          |
+| Baya Ziuela    | 🔍 Oculta           | Muy alta      |
+| Elixir Máx.    | 🔍 Oculto           | Muy alta      |
 | MT10           | Great Ball       | Alta          |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger Restaurar Todo y Elixir Máx.
 
@@ -186,7 +185,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Cueva lateral de Moltres.*
 
-| **OBJETIVO** Resolver los puzles de rocas, capturar a Moltres y alcanzar la Meseta Añil. |
+| **🎯 OBJETIVO** Resolver los puzles de rocas, capturar a Moltres y alcanzar la Meseta Añil. |
 |------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -203,7 +202,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 15. Sal por el extremo norte hacia la Meseta Añil.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura** |
 |---------------------|--------------------|----------------------------|
@@ -212,13 +211,13 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Sandslash           | Rock Smash         | Raro                       |
 | Moltres             | Encuentro estático | Legendario; prioridad alta |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**          | **Dónde / cómo** | **Prioridad** |
 |---------------------|------------------|---------------|
 | Heat Rock           | Cueva de Moltres | Alta          |
-| Ultra Ball          | Oculta, 1F       | Alta          |
-| Restaurar Todo      | Oculto, 1F       | Muy alta      |
+| Ultra Ball          | 🔍 Oculta, 1F       | Alta          |
+| Restaurar Todo      | 🔍 Oculto, 1F       | Muy alta      |
 | MT02                | 1F               | Muy alta      |
 | MT37                | 2F               | Alta          |
 | Cura Total          | 2F               | Media         |
@@ -253,7 +252,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **NOTA DE LA FUENTE** La guía original deja pendiente confirmar si Ray y Tyra forman un combate doble; se conserva esa advertencia. |
 |-------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Capturar o derrotar a Moltres
 
@@ -267,7 +266,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Exterior de la Meseta Añil.*
 
-| **OBJETIVO** Preparar el equipo y comprar todo lo necesario antes del Alto Mando. |
+| **🎯 OBJETIVO** Preparar el equipo y comprar todo lo necesario antes del Alto Mando. |
 |-----------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -282,7 +281,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 20. Guarda la partida antes de entrar.
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**   | **Dónde / cómo**                       | **Prioridad** |
 |--------------|----------------------------------------|---------------|
@@ -294,7 +293,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **SUMINISTROS** Compra más de lo que crees necesario: los cinco combates se realizan seguidos. |
 |------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Equipo al menos en torno a nivel 58
 
@@ -304,7 +303,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - [ ] Guardar la partida
 
-# ALTO MANDO 1: Lorelei
+# 🏆 ALTO MANDO 1: Lorelei
 
 | **NIVEL MÁXIMO DEL RIVAL** 56 |
 |-------------------------------|
@@ -329,7 +328,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - Guarda PP de los movimientos Hielo para Lance.
 
-# ALTO MANDO 2: Bruno
+# 🏆 ALTO MANDO 2: Bruno
 
 | **NIVEL MÁXIMO DEL RIVAL** 58 |
 |-------------------------------|
@@ -352,7 +351,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - No dependas solo de Pokémon Volador frágiles; Hitmonchan puede disponer de cobertura.
 
-# ALTO MANDO 3: Agatha
+# 🏆 ALTO MANDO 3: Agatha
 
 | **NIVEL MÁXIMO DEL RIVAL** 60 |
 |-------------------------------|
@@ -375,7 +374,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - Derrota al Gengar final rápidamente antes de que encadene Hipnosis y confusión.
 
-# ALTO MANDO 4: Lance
+# 🏆 ALTO MANDO 4: Lance
 
 | **NIVEL MÁXIMO DEL RIVAL** 62 |
 |-------------------------------|
@@ -400,7 +399,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - Lapras o Articuno pueden ser decisivos, pero vigila los ataques Eléctricos de cobertura.
 
-# CAMPEÓN: Rival
+# 🏆 CAMPEÓN: Rival
 
 | **LEVEL CAP FINAL** 65. La evolución de Eevee depende de tus dos primeros combates contra el rival. |
 |-----------------------------------------------------------------------------------------------------|
@@ -438,8 +437,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | **FINAL DE LA HISTORIA PRINCIPAL** Tras vencer al Campeón entrarás en el Hall of Fame. El posjuego abre nuevas misiones, rematches, Cueva Celeste, Mega Evolución y contenido de Islas Lejanas. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-
 ---
 
-> [← Anterior](06-islas-espuma-articuno-y-blaine.md) · [Índice general](../README.md) · [Siguiente →](08-postgame-zapdos-mewtwo-y-mew.md)
+> [← Anterior](06-islas-espuma-articuno-y-blaine.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](08-postgame-zapdos-mewtwo-y-mew.md)
 

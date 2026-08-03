@@ -1,7 +1,6 @@
-> [← Anterior](02-misty-y-lt-surge.md) · [Índice general](../README.md) · [Siguiente →](04-torre-pokemon-koga-y-zona-safari.md)
+> [← Anterior](02-misty-y-lt-surge.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](04-torre-pokemon-koga-y-zona-safari.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -36,7 +35,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Preparativos
 
-| **OBJETIVO** Usar Corte para recoger pendientes y dejar listo el equipo para una sección larga de entrenadores y cueva. |
+| **🎯 OBJETIVO** Usar Corte para recoger pendientes y dejar listo el equipo para una sección larga de entrenadores y cueva. |
 |-------------------------------------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -52,7 +51,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **NIVEL ORIENTATIVO** Empieza la Ruta 9 cerca del nivel 24-26 y procura salir del Túnel Roca alrededor del 28-30. |
 |-------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Comprar suministros
 
@@ -66,7 +65,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Mapa de la Ruta 9.*
 
-| **OBJETIVO** Abrir el camino hacia el Túnel Roca y aprovechar la alta densidad de entrenadores. |
+| **🎯 OBJETIVO** Abrir el camino hacia el Túnel Roca y aprovechar la alta densidad de entrenadores. |
 |-------------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -81,7 +80,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 9.  Continúa hacia la Ruta 10.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**                               |
 |---------------------|--------------------|----------------------------------------------------------|
@@ -90,15 +89,15 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Raticate            | Frecuente de noche | Fuerte a corto plazo                                     |
 | Fearow              | 1% de día          | Buen volador físico                                      |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**    | **Dónde / cómo** | **Prioridad** |
 |---------------|------------------|---------------|
-| Éter          | Oculto           | Media         |
+| Éter          | 🔍 Oculto           | Media         |
 | MT40          | Poké Ball        | Alta          |
 | Antiquemar    | Poké Ball        | Media         |
-| Baya Atania   | Oculta           | Baja          |
-| Caramelo Raro | Oculto           | Alta          |
+| Baya Atania   | 🔍 Oculta           | Baja          |
+| Caramelo Raro | 🔍 Oculto           | Alta          |
 
 ## Entrenadores
 
@@ -120,7 +119,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 - Hiker Alan
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger MT40
 
@@ -134,7 +133,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Ruta 10 completa, incluida la entrada al Túnel Roca.*
 
-| **OBJETIVO** Prepararte justo antes del Túnel Roca y recoger objetos muy valiosos. |
+| **🎯 OBJETIVO** Prepararte justo antes del Túnel Roca y recoger objetos muy valiosos. |
 |------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -151,7 +150,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 15. Entra en el Túnel Roca con el equipo curado.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**          |
 |---------------------|--------------------|-------------------------------------|
@@ -160,12 +159,12 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Dratini             | 1% con Surf de día | Demasiado raro para detenerse ahora |
 | Nidoran             | 10%                | Alternativa si aún no tienes uno    |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**     | **Dónde / cómo**                       | **Prioridad**         |
 |----------------|----------------------------------------|-----------------------|
-| Superpoción    | Oculta                                 | Media                 |
-| Máx. Éter      | Oculto                                 | Alta                  |
+| Superpoción    | 🔍 Oculta                                 | Media                 |
+| Máx. Éter      | 🔍 Oculto                                 | Alta                  |
 | Bola Luminosa  | Poké Ball                              | Muy alta para Pikachu |
 | Piedra Eterna  | Cedar, Centro Pokémon, tras Gimnasio 3 | Alta                  |
 | Baya aleatoria | NPC diario                             | Media                 |
@@ -187,7 +186,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **PIKACHU** Comprueba si la Bola Luminosa funciona como objeto equipado en tu versión; si es así, puede aumentar enormemente su potencia. |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir Bola Luminosa
 
@@ -205,7 +204,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Túnel Roca, sótano 1.*
 
-| **OBJETIVO** Cruzar la cueva, recoger la Piedra Poder y llegar a Pueblo Lavanda. |
+| **🎯 OBJETIVO** Cruzar la cueva, recoger la Piedra Poder y llegar a Pueblo Lavanda. |
 |----------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -222,7 +221,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 21. Busca la salida sur hacia la Ruta 10 inferior y Pueblo Lavanda.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**                                |
 |---------------------|--------------------|-----------------------------------------------------------|
@@ -233,7 +232,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Charmander          | 4%                 | Captura prioritaria si no tienes uno                      |
 | Graveler            | Golpe Roca         | Puede ahorrar evolución                                   |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**    | **Dónde / cómo** | **Prioridad**                                                    |
 |---------------|------------------|------------------------------------------------------------------|
@@ -254,7 +253,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **PIEDRA PODER** Guárdala hasta decidir qué evolución por intercambio quieres priorizar, como Kadabra, Machoke, Graveler o Haunter. |
 |-------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Recoger Piedra Poder
 
@@ -268,7 +267,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Mapa de Pueblo Lavanda.*
 
-| **OBJETIVO** Conocer el conflicto de la Torre Pokémon y preparar el desvío hacia Azulona. |
+| **🎯 OBJETIVO** Conocer el conflicto de la Torre Pokémon y preparar el desvío hacia Azulona. |
 |-------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -284,7 +283,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **BLOQUEO DE HISTORIA** La Torre Pokémon queda pendiente. El objeto necesario para identificar a los fantasmas se consigue al derrotar al Team Rocket en Ciudad Azulona. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Activar el evento de la Torre
 
@@ -296,7 +295,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Mapa de la Ruta 8.*
 
-| **OBJETIVO** Atravesar la ruta de entrenadores y acceder al paso subterráneo. |
+| **🎯 OBJETIVO** Atravesar la ruta de entrenadores y acceder al paso subterráneo. |
 |-------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -309,7 +308,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 29. Como la puerta de Azafrán sigue bloqueada, usa el paso subterráneo que lleva a la Ruta 7.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad**       | **Valor para la aventura**                |
 |---------------------|--------------------------|-------------------------------------------|
@@ -318,13 +317,13 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Abra / Kadabra      | Abra común; Kadabra 1-4% | Gran tipo Psíquico                        |
 | Jigglypuff          | Hasta 20% de noche       | Soporte opcional                          |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto** | **Dónde / cómo** | **Prioridad** |
 |------------|------------------|---------------|
-| Baya Leppa | Oculta           | Media         |
-| Baya Lum   | Oculta           | Alta          |
-| Baya Rawst | Oculta           | Baja          |
+| Baya Leppa | 🔍 Oculta           | Media         |
+| Baya Lum   | 🔍 Oculta           | Alta          |
+| Baya Rawst | 🔍 Oculta           | Baja          |
 
 ## Entrenadores
 
@@ -343,7 +342,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Gambler Stan      | Ruta 8                |
 | Pokemaniac Aidan  | Ruta 8                |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Capturar Growlithe o Vulpix si te interesa
 
@@ -357,7 +356,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Mapa de la Ruta 7.*
 
-| **OBJETIVO** Entrar en Ciudad Azulona y conseguir una última captura antes de la ciudad. |
+| **🎯 OBJETIVO** Entrar en Ciudad Azulona y conseguir una última captura antes de la ciudad. |
 |------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -368,7 +367,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 32. Entra en Ciudad Azulona.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**          |
 |---------------------|--------------------|-------------------------------------|
@@ -377,14 +376,14 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Abra                | Hasta 10%          | Buen último intento para capturarlo |
 | Pidgeotto           | 1-5%               | Volador evolucionado                |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**  | **Dónde / cómo** | **Prioridad** |
 |-------------|------------------|---------------|
-| Baya Wepear | Oculta           | Baja          |
+| Baya Wepear | 🔍 Oculta           | Baja          |
 | Baya Leppa  | Parcela          | Media         |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Entrar en Azulona con hueco libre en la mochila
 
@@ -394,7 +393,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Mapa de Ciudad Azulona.*
 
-| **OBJETIVO** Conseguir objetos clave, explorar los grandes almacenes y descubrir la actividad Rocket. |
+| **🎯 OBJETIVO** Conseguir objetos clave, explorar los grandes almacenes y descubrir la actividad Rocket. |
 |-------------------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -411,12 +410,12 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 38. Antes o después de la guarida, desafía el Gimnasio de Erika según el nivel de tu equipo.
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**              | **Dónde / cómo**           | **Prioridad**              |
 |-------------------------|----------------------------|----------------------------|
 | Éter                    | Poké Ball                  | Media                      |
-| PP Más                  | Oculto tras árbol de Corte | Alta                       |
+| PP Más                  | 🔍 Oculto tras árbol de Corte | Alta                       |
 | Monedero                | Hombre del restaurante     | Obligatoria para el casino |
 | Bolsa de Pruebas Rocket | Evento de ciudad/casino    | Obligatoria                |
 | Té                      | Ciudad Azulona             | Muy alta                   |
@@ -424,7 +423,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **COMPRAS** Prioriza piedras evolutivas para los Pokémon que ya tengas preparados. No evoluciones demasiado pronto si perderías movimientos importantes por nivel. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir Monedero
 
@@ -452,7 +451,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Guarida Rocket, planta B4F.*
 
-| **OBJETIVO** Derrotar a Giovanni, obtener el visor necesario y saquear las MT exclusivas. |
+| **🎯 OBJETIVO** Derrotar a Giovanni, obtener el visor necesario y saquear las MT exclusivas. |
 |-------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -469,19 +468,19 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 44. Derrota a Giovanni y consigue el objeto de historia necesario para regresar a la Torre Pokémon.
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**         | **Dónde / cómo**    | **Prioridad** |
 |--------------------|---------------------|---------------|
 | MT13 y MT23        | Ladrones Rocket B1F | Muy alta      |
 | Cuerda Huida       | B1F                 | Alta          |
 | Hiperpoción        | B1F                 | Alta          |
-| PP Más             | Oculto en planta    | Alta          |
+| PP Más             | 🔍 Oculto en planta    | Alta          |
 | MT24               | Ladrón B2F          | Muy alta      |
 | Piedra Lunar       | B2F                 | Muy alta      |
 | MT12               | B2F                 | Alta          |
 | MT30               | Ladrón B3F          | Muy alta      |
-| Pepita             | Oculta B3F          | Media         |
+| Pepita             | 🔍 Oculta B3F          | Media         |
 | Caramelo Raro      | B3F                 | Alta          |
 | Gafas Negras       | B3F                 | Alta          |
 | MT21               | B3F                 | Alta          |
@@ -504,7 +503,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **AVISO** La guarida contiene muchas MT que no conviene perder. Recorre cada planta antes de abandonar el edificio. |
 |---------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir Llave Ascensor
 
@@ -512,7 +511,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 - [ ] Derrotar a Giovanni
 
-# GIMNASIO: Erika
+# 🏆 GIMNASIO: Erika
 
 <img src="../images/volumen-03/media/image13.png" style="max-width:100%;height:auto" />
 
@@ -545,8 +544,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | **SIGUIENTE VOLUMEN** Con el visor de Giovanni, regresa a Pueblo Lavanda para completar la Torre Pokémon. Después podrás avanzar hacia Fucsia y continuar con la historia. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-
 ---
 
-> [← Anterior](02-misty-y-lt-surge.md) · [Índice general](../README.md) · [Siguiente →](04-torre-pokemon-koga-y-zona-safari.md)
+> [← Anterior](02-misty-y-lt-surge.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](04-torre-pokemon-koga-y-zona-safari.md)
 

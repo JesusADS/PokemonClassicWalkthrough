@@ -1,7 +1,6 @@
-> [← Anterior](04-torre-pokemon-koga-y-zona-safari.md) · [Índice general](../README.md) · [Siguiente →](06-islas-espuma-articuno-y-blaine.md)
+> [← Anterior](04-torre-pokemon-koga-y-zona-safari.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](06-islas-espuma-articuno-y-blaine.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -32,7 +31,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa de la Ruta 16.*
 
-| **OBJETIVO** Conseguir Vuelo, despertar al segundo Snorlax y acceder a la Ruta Ciclista. |
+| **🎯 OBJETIVO** Conseguir Vuelo, despertar al segundo Snorlax y acceder a la Ruta Ciclista. |
 |------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -47,7 +46,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 5.  Derrota a los entrenadores y entra en la Ruta 17 con una bicicleta.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**                    |
 |---------------------|--------------------|-----------------------------------------------|
@@ -55,7 +54,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Doduo               | 5-20%              | Buen Pokémon Volador físico                   |
 | Muk                 | 1-4% de noche      | Raro y resistente                             |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**     | **Dónde / cómo**                               | **Prioridad** |
 |----------------|------------------------------------------------|---------------|
@@ -70,7 +69,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | School Kids Lea y Jed                        | Combate doble         |
 | Biker Lao, Koji, Hideo, Luke, Ruben y Camron | Tramo principal       |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir MO Vuelo
 
@@ -84,7 +83,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa de la Ruta 17 y Ruta Ciclista.*
 
-| **OBJETIVO** Descender por la Ruta Ciclista recogiendo todos los objetos ocultos. |
+| **🎯 OBJETIVO** Descender por la Ruta Ciclista recogiendo todos los objetos ocultos. |
 |-----------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -97,7 +96,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 9.  Derrota a los diez moteros antes de llegar a la Ruta 18.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura** |
 |---------------------|--------------------|----------------------------|
@@ -106,15 +105,15 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Eevee               | 1% de día          | Muy raro                   |
 | Muk                 | 1-4% de noche      | Raro                       |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**     | **Dónde / cómo** | **Prioridad** |
 |----------------|------------------|---------------|
-| Restaurar Todo | Oculto           | Alta          |
-| PP Máx.        | Oculto           | Alta          |
-| Caramelo Raro  | Oculto           | Alta          |
-| Revivir Máximo | Oculto           | Alta          |
-| Elixir         | Oculto           | Media         |
+| Restaurar Todo | 🔍 Oculto           | Alta          |
+| PP Máx.        | 🔍 Oculto           | Alta          |
+| Caramelo Raro  | 🔍 Oculto           | Alta          |
+| Revivir Máximo | 🔍 Oculto           | Alta          |
+| Elixir         | 🔍 Oculto           | Media         |
 
 ## Entrenadores
 
@@ -126,7 +125,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **DEXNAV** La guía original advierte que el DexNAV no funciona en la Ruta Ciclista. |
 |-------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Encontrar los cinco objetos ocultos
 
@@ -138,7 +137,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa de la Ruta 18.*
 
-| **OBJETIVO** Completar la salida de la Ruta Ciclista y conectar con Ciudad Fucsia. |
+| **🎯 OBJETIVO** Completar la salida de la Ruta Ciclista y conectar con Ciudad Fucsia. |
 |------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -151,7 +150,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 13. Usa Vuelo para regresar a Ciudad Azulona o Lavanda y entrar en Ciudad Azafrán por un puesto de guardia.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura** |
 |---------------------|--------------------|----------------------------|
@@ -168,7 +167,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Birdkeeper Jacob  | Ruta 18               |
 | Birdkeeper Ramiro | Ruta 18               |
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Derrotar a los tres entrenadores
 
@@ -180,7 +179,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Mapa de Ciudad Azafrán.*
 
-| **OBJETIVO** Explorar la ciudad, superar el dojo y prepararte para el asalto a Silph S.A. |
+| **🎯 OBJETIVO** Explorar la ciudad, superar el dojo y prepararte para el asalto a Silph S.A. |
 |-------------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -197,14 +196,14 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 19. A continuación entra en Silph S.A., ocupada por el Team Rocket.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**                   |
 |---------------------|--------------------|----------------------------------------------|
 | Hitmonlee           | Regalo del Dojo    | Atacante físico rápido                       |
 | Hitmonchan          | Regalo del Dojo    | Más versátil; el juego permite obtener ambos |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**             | **Dónde / cómo**                               | **Prioridad** |
 |------------------------|------------------------------------------------|---------------|
@@ -214,7 +213,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **DOJO Y EV** La guía indica que el Dojo puede utilizarse para entrenar EV; lleva Agua Fresca para restaurar a sus entrenadores. |
 |----------------------------------------------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Completar el Dojo
 
@@ -268,7 +267,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Silph S.A., planta 11.*
 
-| **OBJETIVO** Conseguir la Llave Magnética, liberar el edificio y derrotar a Giovanni. |
+| **🎯 OBJETIVO** Conseguir la Llave Magnética, liberar el edificio y derrotar a Giovanni. |
 |---------------------------------------------------------------------------------------|
 
 ## Recorrido recomendado
@@ -287,17 +286,17 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 26. Habla con el presidente para recibir la Master Ball.
 
-## Pokémon y capturas recomendadas
+## ⭐ Pokémon y capturas recomendadas
 
 | **Pokémon / grupo** | **Disponibilidad** | **Valor para la aventura**             |
 |---------------------|--------------------|----------------------------------------|
 | Lapras              | Regalo, 7F         | Prioridad máxima: Agua/Hielo excelente |
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**                                                 | **Dónde / cómo** | **Prioridad**    |
 |------------------------------------------------------------|------------------|------------------|
-| Ultra Ball                                                 | Oculta, 2F       | Media            |
+| Ultra Ball                                                 | 🔍 Oculta, 2F       | Media            |
 | Proteína / Hiperpoción                                     | 3F               | Media            |
 | Hierro / MT41 / Cura Total / Cuerda Huida / Revivir Máximo | 4F               | Alta             |
 | Proteína / Elixir / Llave Magnética / MT01                 | 5F               | Muy alta         |
@@ -330,7 +329,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **REGALO IMPRESCINDIBLE** Lapras es uno de los mejores Pokémon para el tramo final y la Liga. |
 |-----------------------------------------------------------------------------------------------|
 
-## Antes de continuar
+## ⚠ Antes de continuar
 
 - [ ] Conseguir Llave Magnética
 
@@ -340,7 +339,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 - [ ] Conseguir Master Ball
 
-# GIMNASIO: Sabrina
+# 🏆 GIMNASIO: Sabrina
 
 <img src="../images/volumen-05/media/image16.png" style="max-width:100%;height:auto" />
 
@@ -376,8 +375,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | **SIGUIENTE VOLUMEN** El siguiente tramo llevará a las rutas marítimas, Islas Espuma, Isla Canela, Mansión Pokémon y el gimnasio de Blaine. |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
 
-
 ---
 
-> [← Anterior](04-torre-pokemon-koga-y-zona-safari.md) · [Índice general](../README.md) · [Siguiente →](06-islas-espuma-articuno-y-blaine.md)
+> [← Anterior](04-torre-pokemon-koga-y-zona-safari.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](06-islas-espuma-articuno-y-blaine.md)
 

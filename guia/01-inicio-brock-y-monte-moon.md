@@ -1,12 +1,8 @@
-> [← Anterior](../README.md) · [Índice general](../README.md) · [Siguiente →](02-misty-y-lt-surge.md)
+> [← Anterior](../README.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](02-misty-y-lt-surge.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
-
-| **GUÍA COMPLETA EN ESPAÑOL** |
-|------------------------------|
 
 **VOLUMEN 1**
 
@@ -14,147 +10,33 @@ CLASSIC**
 
 Recorrido paso a paso • Mapas • Objetos • Pokémon • Entrenadores • Checklists
 
-<table>
-<colgroup>
-<col style="max-width:100%;height:auto" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>📘 Edición de trabajo<br />
-Esta edición prioriza el recorrido y los datos confirmados en la guía de Pokémon Classic. Cuando el hack no detalla un equipo, se usa Pokémon Amarillo como referencia, ya que Classic replica su aventura; cualquier diferencia propia del hack se mantiene según la documentación original.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+> Consulta [Cómo usar la guía](../COMO-USAR-LA-GUIA.md) para conocer los símbolos, las mecánicas esenciales y el criterio de datos común a todos los volúmenes.
 
-| **PLANTILLA MAESTRA DE LA COLECCIÓN** |
-|---------------------------------------|
+# Contenido
 
-# Cómo leer la guía
+- Pueblo Paleta — inicio, PC y entrega del paquete
 
-| **Símbolo** | **Significado**         | **Uso**                                    |
-|-------------|-------------------------|--------------------------------------------|
-| 🎯          | Objetivo                | Acción necesaria para avanzar              |
-| 💎          | Objeto importante       | Objeto único, MT, piedra o recurso valioso |
-| 🔍          | Oculto                  | Objeto que no se ve como Poké Ball         |
-| ⭐          | Recomendación editorial | Captura o decisión especialmente útil      |
-| ⚠           | Aviso                   | Combate, desvío o punto fácil de olvidar   |
-| 🏆          | Jefe o gimnasio         | Preparación y recompensa                   |
-| ↩           | Volver después          | Contenido que exige una MO u otro progreso |
+- Ruta 1 y Ciudad Verde — Primer trayecto y recados de Oak
 
-<table>
-<colgroup>
-<col style="max-width:100%;height:auto" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>✅ Datos confirmados vs. recomendaciones</strong></p>
-<p>Las listas de objetos, encuentros, mapas y nombres de entrenadores proceden de la guía fuente. Las recomendaciones de equipo y orden de visita son una reorganización editorial para hacerla jugable paso a paso.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+- Ruta 22 — Capturas tempranas y combates del rival
 
-## Ficha estándar de zona
+- Ruta 2 y Bosque Verde — Acceso a Ciudad Plateada
 
-- Mapa y objetivo principal
+- Ciudad Plateada y Brock — Primera medalla
 
-- Recorrido numerado
+- Ruta 3 — Camino al Monte Moon
 
-- Pokémon disponibles y capturas recomendadas
+- Monte Moon — Fósil, objetos y Team Rocket
 
-- Objetos visibles, ocultos y contenido para más adelante
+- Ruta 4 y Ciudad Celeste — Salida de la cueva y cierre del volumen
 
-- Entrenadores y checklist de salida
-
-## Ficha estándar de gimnasio
-
-- Nivel máximo confirmado o aviso de que la fuente no lo documenta
-
-- Equipo confirmado; nunca se inventan niveles o movimientos
-
-- Plan de preparación basado en los Pokémon disponibles
-
-- Recompensa y checklist posterior
-
-| **CONTENIDO DEL VOLUMEN 1** |
-|-----------------------------|
-
-**1. Antes de empezar** — Mecánicas esenciales de Pokémon Classic
-
-**2. Pueblo Paleta** — Inicio, PC y entrega del paquete
-
-**3. Ruta 1 y Ciudad Verde** — Primer trayecto y recados de Oak
-
-**4. Ruta 22** — Capturas tempranas y combates del rival
-
-**5. Ruta 2 y Bosque Verde** — Acceso a Ciudad Plateada
-
-**6. Ciudad Plateada y Brock** — Primera medalla
-
-**7. Ruta 3** — Camino al Monte Moon
-
-**8. Monte Moon** — Fósil, objetos y Team Rocket
-
-**9. Ruta 4 y Ciudad Celeste** — Salida de la cueva y cierre del volumen
-
-| **1 \| ANTES DE EMPEZAR** |
-|---------------------------|
-
-# Lo esencial de este hack
-
-- Es una reinterpretación de Pokémon Amarillo construida sobre Pokémon Esmeralda, con una historia ampliada del Team Rocket.
-
-- El Repartir Exp. funciona al estilo de la sexta generación.
-
-- El DexNav permite buscar Pokémon ya vistos, consultar disponibilidad según la hora y detectar encuentros ocultos.
-
-- Para acercarte a un Pokémon oculto debes avanzar despacio manteniendo pulsado A; si corres, puede huir.
-
-- Las MO se pueden usar al tener el objeto y la medalla correspondiente.
-
-- La segunda planta de los Centros Pokémon incluye tutor de movimientos, borrador y tienda de entrenadores.
-
-- Pikachu compañero es especial, no evoluciona y tiene estadísticas mejoradas.
-
-<table>
-<colgroup>
-<col style="max-width:100%;height:auto" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>⭐ Consejo de partida</strong></p>
-<p>Revisa el PC de tu habitación antes de salir. La guía fuente indica que tu padre dejó regalos allí.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="max-width:100%;height:auto" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>ℹ Sobre los porcentajes</strong></p>
-<p>La fuente combina porcentajes por franjas y horarios. Cuando aparece “10-20 %”, se conserva exactamente así; no se reinterpretan los slots internos.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-| **2 \| PUEBLO PALETA** |
-|------------------------|
+# Pueblo Paleta
 
 <img src="../images/volumen-01/media/image1.png" style="max-width:100%;height:auto" />
 
 Mapa de Pueblo Paleta extraído de la guía original.
 
-# Objetivo
+## 🎯 Objetivo
 
 <table>
 <colgroup>
@@ -184,7 +66,7 @@ Mapa de Pueblo Paleta extraído de la guía original.
 
 **6.** Vuelve a dirigirte a Ciudad Verde. A partir de aquí ya puedes comprar Poké Balls y empezar las capturas.
 
-## Objetos y recompensas
+## 💎 Objetos y recompensas
 
 | **Objeto**                | **Cómo se obtiene**               | **Importancia**      |
 |---------------------------|-----------------------------------|----------------------|
@@ -201,14 +83,11 @@ Mapa de Pueblo Paleta extraído de la guía original.
 
 - [ ] Tienes Pokédex y Poké Balls.
 
-| **3 \| RUTA 1 Y CIUDAD VERDE** |
-|--------------------------------|
+# Ruta 1
 
 <img src="../images/volumen-01/media/image2.png" style="max-width:100%;height:auto" />
 
 Ruta 1: conecta Pueblo Paleta con Ciudad Verde.
-
-# Ruta 1
 
 **1.** Habla con el NPC cercano a la salida de Pueblo Paleta para recibir una Poción.
 
@@ -237,7 +116,7 @@ Ruta 1: conecta Pueblo Paleta con Ciudad Verde.
 </tbody>
 </table>
 
-## Objetos confirmados
+## 💎 Objetos confirmados
 
 - Poción — entregada por un NPC cerca de la salida de Pueblo Paleta.
 
@@ -245,11 +124,11 @@ Ruta 1: conecta Pueblo Paleta con Ciudad Verde.
 
 - Baya Pecha — cultivo.
 
+# Ciudad Verde
+
 <img src="../images/volumen-01/media/image3.png" style="max-width:100%;height:auto" />
 
 Ciudad Verde. La zona de agua y el tutor de Dream Eater se aprovechan más adelante.
-
-# Ciudad Verde
 
 **1.** En tu primera visita, entra en la tienda y recoge el Paquete de Oak.
 
@@ -281,14 +160,13 @@ Ciudad Verde. La zona de agua y el tutor de Dream Eater se aprovechan más adela
 </tbody>
 </table>
 
-| **4 \| RUTA 22** |
-|------------------|
+# Ruta 22
 
 <img src="../images/volumen-01/media/image4.png" style="max-width:100%;height:auto" />
 
 Ruta 22, al oeste de Ciudad Verde.
 
-# Por qué debes venir ahora
+## ⭐ Por qué debes venir ahora
 
 <table>
 <colgroup>
@@ -342,9 +220,6 @@ Ruta 22, al oeste de Ciudad Verde.
 
 - [ ] Compraste Antídotos antes del Bosque Verde.
 
-| **5 \| RUTA 2 Y BOSQUE VERDE** |
-|--------------------------------|
-
 # Ruta 2 — tramo sur
 
 <img src="../images/volumen-01/media/image5.png" style="max-width:100%;height:auto" />
@@ -380,11 +255,11 @@ Ruta 2 completa. En esta etapa solo podrás recorrer los tramos conectados por e
 </tbody>
 </table>
 
+# Bosque Verde
+
 <img src="../images/volumen-01/media/image6.png" style="max-width:100%;height:auto" />
 
 Bosque Verde. El mapa muestra el recorrido principal, objetos y entrenadores.
-
-# Bosque Verde
 
 **1.** Al entrar, revisa la zona izquierda del primer árbol: hay un Antídoto oculto.
 
@@ -407,12 +282,12 @@ Bosque Verde. El mapa muestra el recorrido principal, objetos y entrenadores.
 
 | **Objeto**   | **Tipo**                           |
 |--------------|------------------------------------|
-| Antídoto     | Oculto, izquierda del primer árbol |
-| Miracle Seed | Oculto                             |
+| Antídoto     | 🔍 Oculto, izquierda del primer árbol |
+| Miracle Seed | 🔍 Oculto                             |
 | Poké Ball    | Visible                            |
 | Poción x2    | Visibles                           |
 | Antídoto     | Visible                            |
-| Poción       | Oculta frente al último entrenador |
+| Poción       | 🔍 Oculta frente al último entrenador |
 | Beedrillita  | Solo postgame                      |
 
 ## Entrenadores
@@ -447,8 +322,7 @@ Bosque Verde. El mapa muestra el recorrido principal, objetos y entrenadores.
 
 - [ ] Sales con el equipo curado y varias Pociones.
 
-| **6 \| CIUDAD PLATEADA Y BROCK** |
-|----------------------------------|
+# Ciudad Plateada y Brock
 
 <img src="../images/volumen-01/media/image7.png" style="max-width:100%;height:auto" />
 
@@ -471,7 +345,7 @@ Ciudad Plateada. El gimnasio está en la zona norte y el museo en la parte super
 | Poké Ball oculta             | Hierba clara de la esquina superior derecha          |
 | Baya aleatoria               | Ayudando al dueño de Slowpoke                        |
 | Old Amber                    | Museo de Ciudad Plateada                             |
-| Fósil Helix o Dome del museo | Más adelante, tras volver con noticias de Aerodactyl |
+| Fósil Helix o Dome del museo | ↩ Más adelante, tras volver con noticias de Aerodactyl |
 
 | **🏆 GIMNASIO DE CIUDAD PLATEADA** |
 |------------------------------------|
@@ -480,7 +354,7 @@ Ciudad Plateada. El gimnasio está en la zona norte y el museo en la parte super
 
 Interior del Gimnasio de Ciudad Plateada.
 
-# Brock
+# 🏆 Brock
 
 | Dato                          | Información                                                                                          |
 |-------------------------------|------------------------------------------------------------------------------------------------------|
@@ -537,8 +411,7 @@ La guía de Pokémon Classic no publica el equipo completo de Brock. Como el hac
 
 - [ ] Curaste y abasteciste al equipo antes de Ruta 3.
 
-| **7 \| RUTA 3** |
-|-----------------|
+# Ruta 3
 
 <img src="../images/volumen-01/media/image9.png" style="max-width:100%;height:auto" />
 
@@ -586,8 +459,7 @@ Ruta 3: recorrido lineal hacia la entrada del Monte Moon.
 </tbody>
 </table>
 
-| **8 \| MONTE MOON** |
-|---------------------|
+# Monte Moon
 
 <img src="../images/volumen-01/media/image10.png" style="max-width:100%;height:auto" />
 
@@ -601,7 +473,7 @@ Monte Moon, sótano 1: pequeños corredores conectados desde la planta principal
 
 Monte Moon, sótano 2: zona de Rocket y fósiles.
 
-# Objetivo principal
+## 🎯 Objetivo principal
 
 <table>
 <colgroup>
@@ -689,9 +561,6 @@ Monte Moon, sótano 2: zona de Rocket y fósiles.
 
 - [ ] Derrotaste a Jessie y James.
 
-| **9 \| RUTA 4 Y CIUDAD CELESTE** |
-|----------------------------------|
-
 # Ruta 4 — salida del Monte Moon
 
 **1.** Al salir de la cueva, registra primero los objetos antes de saltar desniveles que puedan impedirte volver atrás.
@@ -706,10 +575,10 @@ Monte Moon, sótano 2: zona de Rocket y fósiles.
 
 | **Objeto/servicio** | **Localización**   |
 |---------------------|--------------------|
-| Great Ball          | Oculta             |
-| Razz Berry          | Oculta             |
+| Great Ball          | 🔍 Oculta             |
+| Razz Berry          | 🔍 Oculta             |
 | TM05                | Great Ball visible |
-| Persim Berry        | Oculta             |
+| Persim Berry        | 🔍 Oculta             |
 | Tutor Mega Punch    | Ruta 4             |
 | Tutor Mega Kick     | Ruta 4             |
 
@@ -756,7 +625,7 @@ Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
 | Caramelo Raro oculto   | Disponible en el patio de bayas, junto a la valla        |
 | TM28 Dig               | Evento Rocket de Ciudad Celeste                          |
 | Venusaurita            | Solo después de completar por segunda vez Liga y Campeón |
-| Encuentros acuáticos   | Más adelante con cañas/Surf                              |
+| Encuentros acuáticos   | ↩ Más adelante con cañas/Surf                              |
 
 <table>
 <colgroup>
@@ -775,7 +644,7 @@ Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
 | **RESUMEN RÁPIDO DEL VOLUMEN 1** |
 |----------------------------------|
 
-# Capturas especialmente recomendables
+# ⭐ Capturas especialmente recomendables
 
 | **Pokémon**         | **Dónde**           | **Por qué**                                   |
 |---------------------|---------------------|-----------------------------------------------|
@@ -786,7 +655,7 @@ Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
 | Sandshrew           | Ruta 3 / Monte Moon | Tipo Tierra temprano                          |
 | Clefairy            | Monte Moon, 1 %     | Raro; aprovecha las Piedras Luna              |
 
-# Objetos que no conviene perder
+# 💎 Objetos que no conviene perder
 
 - Regalos del PC en Pueblo Paleta
 
@@ -830,8 +699,6 @@ Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
 </tbody>
 </table>
 
-
 ---
 
-> [← Anterior](../README.md) · [Índice general](../README.md) · [Siguiente →](02-misty-y-lt-surge.md)
-
+> [← Anterior](../README.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](02-misty-y-lt-surge.md)

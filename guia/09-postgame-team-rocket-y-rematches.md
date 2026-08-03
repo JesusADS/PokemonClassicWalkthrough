@@ -1,7 +1,6 @@
-> [← Anterior](08-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Siguiente →](10-megaevolucion-y-completado-100.md)
+> [← Anterior](08-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](10-megaevolucion-y-completado-100.md)
 
-**POKÉMON  
-CLASSIC**
+**POKÉMON CLASSIC**
 
 **v1.5**
 
@@ -23,7 +22,7 @@ CLASSIC**
 
 # Segunda toma de Silph S.A.
 
-| **OBJETIVO**                                                                                     |
+| **🎯 OBJETIVO**                                                                                     |
 |--------------------------------------------------------------------------------------------------|
 | Regresar al edificio para completar el epílogo de Team Rocket y desbloquear combates repetibles. |
 
@@ -47,7 +46,7 @@ CLASSIC**
 
 7.  La guía registra una Master Ball como recompensa diaria por derrotar al presidente de Silph en 11F.
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**  | **Localización**                                  | **Prioridad** |
 |-------------|---------------------------------------------------|---------------|
@@ -111,7 +110,7 @@ CLASSIC**
 
 # Battle Tower
 
-| **OBJETIVO**                                                         |
+| **🎯 OBJETIVO**                                                         |
 |----------------------------------------------------------------------|
 | Visitar la torre reutilizada y gastar los Battle Points conseguidos. |
 
@@ -133,7 +132,7 @@ CLASSIC**
 
 13. La guía no enumera el inventario completo ni los precios, por lo que conviene revisarlos directamente en tu versión del juego.
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**               | **Localización**        | **Prioridad** |
 |--------------------------|-------------------------|---------------|
@@ -210,7 +209,7 @@ CLASSIC**
 
 # Entrenadores especiales y actividades extra
 
-| **OBJETIVO**                                                         |
+| **🎯 OBJETIVO**                                                         |
 |----------------------------------------------------------------------|
 | Completar los desafíos secundarios que la guía distribuye por Kanto. |
 
@@ -228,7 +227,7 @@ CLASSIC**
 
 19. Usa el DexNAV para buscar Pokémon raros, habilidades e IV altos durante las tareas diarias.
 
-## Objetos importantes
+## 💎 Objetos importantes
 
 | **Objeto**             | **Localización**                            | **Prioridad**     |
 |------------------------|---------------------------------------------|-------------------|
@@ -255,8 +254,7 @@ CLASSIC**
 
 **☐** Completar evento de Kairi
 
-
 ---
 
-> [← Anterior](08-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Siguiente →](10-megaevolucion-y-completado-100.md)
+> [← Anterior](08-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](10-megaevolucion-y-completado-100.md)
 
