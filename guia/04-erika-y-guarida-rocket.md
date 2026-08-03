@@ -264,6 +264,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Piedra Poder  | B1F              | Muy alta; sirve para evoluciones que antes requerían intercambio |
 | Máx. Éter     | B1F              | Alta                                                             |
 | Aerodactylita | B1F, posjuego    | Posjuego                                                         |
+| Tutor Avalancha | Túnel Roca     | Opcional; tutor de campo                                         |
 
 ## Entrenadores
 
@@ -452,6 +453,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Monedero                | Hombre del restaurante     | Obligatoria para el casino |
 | Bolsa de Pruebas Rocket | Evento de ciudad/casino    | Obligatoria                |
 | Té                      | Ciudad Azulona             | Muy alta                   |
+| Tutor Amortiguador      | Casa al otro lado del estanque | Opcional                |
 
 | **COMPRAS** Prioriza piedras evolutivas para los Pokémon que ya tengas preparados. No evoluciones demasiado pronto si perderías movimientos importantes por nivel. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|

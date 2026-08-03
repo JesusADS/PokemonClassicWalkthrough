@@ -47,6 +47,12 @@ Cada volumen sigue el orden natural de la aventura y contiene:
 
 Consulta [Cómo usar la guía](COMO-USAR-LA-GUIA.md) para conocer los símbolos, el criterio de datos, la estructura común y las mecánicas esenciales antes de empezar.
 
+### Referencias rápidas
+
+- [Índices de consulta](INDICES-DE-CONSULTA.md): líderes, level caps, Cedar, tutores, regalos y legendarios.
+- [Evoluciones especiales](EVOLUCIONES-ESPECIALES.md): Piedra Poder, intercambios y objetos evolutivos.
+- [Preguntas frecuentes](PREGUNTAS-FRECUENTES.md): IV/EV, seguidores, MO, Battle Tower y otras mecánicas.
+
 ## Créditos y fuentes
 
 - **Pokémon Classic / PokeClassic:** proyecto original de danenders/LazyDev y colaboradores.
@@ -54,6 +60,8 @@ Consulta [Cómo usar la guía](COMO-USAR-LA-GUIA.md) para conocer los símbolos,
 - **Fuente principal:** [*Pokémon Classic v1.5 Player Help*](https://docs.google.com/document/d/1CgjsJv4SF-VK1vLopfYuuvAegb52fZagV3xsaCeyat8/edit?tab=t.0).
 - **Edición en español:** reorganización comunitaria en formato walkthrough.
 - **Pokémon Amarillo:** utilizado como referencia para equipos y niveles de líderes cuando la documentación del hack no especifica una modificación.
+
+Los créditos ampliados y la relación mantenida de colaboradores pueden consultarse en la sección **Credits** de la [documentación original](https://docs.google.com/document/d/1CgjsJv4SF-VK1vLopfYuuvAegb52fZagV3xsaCeyat8/edit?tab=t.0) y en el [repositorio del juego](https://github.com/DaniRainbow/pokeclassic). Esta guía conserva una atribución resumida porque su finalidad es acompañar el recorrido del juego.
 
 Consulta también [NOTICE.md](NOTICE.md) antes de reutilizar o redistribuir imágenes y contenido de terceros.
 

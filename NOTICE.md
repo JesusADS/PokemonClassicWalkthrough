@@ -8,3 +8,5 @@ Esta guía es un proyecto comunitario no oficial.
 - El texto editorial en español reorganiza la información para facilitar el recorrido del juego.
 
 Antes de reutilizar imágenes o publicar derivados, revisa las condiciones y permisos de los titulares originales.
+
+La lista ampliada y actualizada de colaboradores se mantiene en la sección **Credits** de la [documentación original](https://docs.google.com/document/d/1CgjsJv4SF-VK1vLopfYuuvAegb52fZagV3xsaCeyat8/edit?tab=t.0) y en el [repositorio de Pokémon Classic](https://github.com/DaniRainbow/pokeclassic). No se reproduce íntegramente aquí para evitar que una copia resumida quede desactualizada.

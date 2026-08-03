@@ -407,23 +407,9 @@ La guía de Pokémon Classic no publica el equipo completo de Brock. Como el hac
 
 - No dependas exclusivamente de Pikachu: sus ataques eléctricos no son una buena respuesta contra combinaciones Roca/Tierra.
 
-- Entra con el equipo cerca del nivel de los entrenadores del gimnasio; como la fuente no da un cap, observa el nivel de Camper Liam y evita sobreentrenar si estás jugando con reglas propias.
+- Si aplicas un límite de nivel, usa el nivel 12 de Onix como referencia. Es un valor heredado de Pokémon Amarillo, no un cap publicado por la documentación de Pokémon Classic.
 
 - Guarda antes de Brock y lleva varias Pociones.
-
-<table>
-<colgroup>
-<col style="max-width:100%;height:auto" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>ℹ Nivel orientativo, no oficial</strong></p>
-<p>Como referencia práctica de preparación puedes apuntar a un equipo alrededor de nivel 13-15, pero esto es una recomendación editorial y NO un level cap confirmado por la fuente.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
 
 - [ ] Venciste a Camper Liam.
 

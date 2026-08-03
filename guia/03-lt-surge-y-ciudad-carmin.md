@@ -172,7 +172,32 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 # Ruta 11 · Desvío opcional
 
-La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes visitarla durante esta parte de la aventura, aunque necesitarás volver más adelante para completar sus encuentros acuáticos.
+La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes explorar ahora su zona terrestre y volver más adelante para completar los encuentros acuáticos y recoger el Buscobjetos.
+
+| **🎯 OBJETIVO** Explorar la ruta, combatir contra sus entrenadores y dejar anotada la futura visita a Cedar. |
+|----------------------------------------------------------------------------------------------------------|
+
+## Recorrido recomendado
+
+11. Sal de Ciudad Carmín por el este y recoge Despertar, Defensa X y Super Ball.
+
+12. Busca la Cuerda Huida oculta y revisa los cultivos de bayas.
+
+13. Derrota a los diez entrenadores antes de regresar a Ciudad Carmín.
+
+14. Tras conseguir la cuarta medalla, vuelve al segundo piso del puesto de control y habla con Cedar para recibir el Buscobjetos.
+
+## ⭐ Pokémon y capturas recomendadas
+
+| Pokémon | Día | Noche | Valor para la aventura |
+|---|---|---|---|
+| Pidgey | 10-20 % | 10 % | Alternativa Volador ya conocida |
+| Pidgeotto | 4-20 % | 10 % | Permite ahorrar entrenamiento respecto a Pidgey |
+| Ekans | 10 % | — | Opción Veneno física |
+| Drowzee | 10 % | 4-20 % | Buena opción Psíquico antes de Sabrina |
+| Rattata | 1-10 % | 1-20 % | Poco prioritario a estas alturas |
+| Raticate | 1 % | 1-10 % | Evolución disponible directamente |
+| Sandshrew | — | 10 % | Tipo Tierra útil contra Lt. Surge |
 
 ## ↩ Encuentros acuáticos
 
@@ -191,6 +216,38 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes visitarla durante esta
 | Krabby | 🎣 Supercaña | Día, 40 %; noche, 15-40 % |
 | Horsea | 🎣 Supercaña | Día, 1-4 % |
 | Tentacool | 🎣 Supercaña | Noche, 1-4 % |
+
+## 💎 Objetos y recompensas
+
+| Objeto | Dónde / cómo | Prioridad |
+|---|---|---|
+| Despertar | Poké Ball visible | Media |
+| Defensa X | Poké Ball visible | Baja |
+| Cuerda Huida | 🔍 Objeto oculto | Media |
+| Super Ball | Poké Ball visible | Media |
+| Buscobjetos | ↩ Cedar, puesto de control 2F, después del cuarto gimnasio | Muy alta |
+| Baya Zreza | Cultivo | Baja |
+| Baya Zidra | Cultivo | Alta |
+
+## Entrenadores
+
+- Gambler Hugo
+- Youngster Eddie
+- Youngster Dave
+- Youngster Dillon
+- Engineer Bernie
+- Gambler Jasper
+- Engineer Braxton
+- Gambler Darian
+- Youngster Yasu
+- Gambler Dirk
+
+## ⚠ Antes de continuar
+
+- [ ] Recoger los cuatro objetos de la ruta
+- [ ] Derrotar a los diez entrenadores
+- [ ] Volver por el Buscobjetos después de la cuarta medalla
+- [ ] Recordar el fugitivo Rocket disponible en el posjuego
 
 # S.S. Anne
 
@@ -223,17 +280,17 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes visitarla durante esta
 
 ## Recorrido recomendado
 
-11. Explora primero las habitaciones de las plantas inferiores y derrota a los entrenadores para ganar experiencia.
+15. Explora primero las habitaciones de las plantas inferiores y derrota a los entrenadores para ganar experiencia.
 
-12. Revisa la cocina: hay tres bayas en las papeleras y una Super Ball.
+16. Revisa la cocina: hay tres bayas en las papeleras y una Super Ball.
 
-13. Recoge las MT31 y MT44, además de Polvo Estelar, Ataque X, Éter y Superpoción.
+17. Recoge las MT31 y MT44, además de Polvo Estelar, Ataque X, Éter y Superpoción.
 
-14. Descansa cuando sea necesario antes de subir al corredor de la segunda planta.
+18. Descansa cuando sea necesario antes de subir al corredor de la segunda planta.
 
-15. Derrota al rival.
+19. Derrota al rival.
 
-16. Habla con el capitán mareado para conseguir la MO01 Corte. No abandones el barco hasta haber recogido todo.
+20. Habla con el capitán mareado para conseguir la MO01 Corte. No abandones el barco hasta haber recogido todo.
 
 ## ↩ Encuentros acuáticos
 
@@ -331,13 +388,13 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes visitarla durante esta
 
 ## Recorrido recomendado
 
-17. Entra desde las afueras de Ciudad Carmín después de conseguir Corte.
+21. Entra desde las afueras de Ciudad Carmín después de conseguir Corte.
 
-18. Captura un Diglett; Dugtrio es raro, pero puede aparecer ya evolucionado.
+22. Captura un Diglett; Dugtrio es raro, pero puede aparecer ya evolucionado.
 
-19. Recoge la Roca Suave.
+23. Recoge la Roca Suave.
 
-20. Cruza la cueva para regresar a la zona oriental de la Ruta 2 y explorar accesos que antes estaban bloqueados.
+24. Cruza la cueva para regresar a la zona oriental de la Ruta 2 y explorar accesos que antes estaban bloqueados.
 
 ## ⭐ Pokémon y capturas recomendadas
 

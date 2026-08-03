@@ -46,10 +46,19 @@ Cuando *Pokémon Classic* no detalla el equipo de un líder, se usa *Pokémon Am
 - Es una reinterpretación de *Pokémon Amarillo* construida sobre *Pokémon Esmeralda*, con una historia ampliada del Team Rocket.
 - El Repartir Exp. funciona al estilo de la sexta generación.
 - El DexNav permite buscar Pokémon ya vistos, consultar su disponibilidad según la hora y detectar encuentros ocultos.
+- El DexNav muestra una valoración de IV de 0 a 3 estrellas y, para especies ya capturadas, puede mostrar su habilidad.
 - Para acercarte a un Pokémon oculto debes avanzar despacio manteniendo pulsado A; si corres, puede huir.
+- Puedes consultar los IV y EV desde la vista de estadísticas del resumen del Pokémon; pulsa A para alternar la información mostrada.
 - Las MO se pueden usar al tener el objeto y la medalla correspondiente.
+- Excavar puede utilizarse fuera de combate si tienes su MT; Teletransporte requiere un Pokémon Psíquico compatible.
 - La segunda planta de los Centros Pokémon incluye tutor de movimientos, borrador y tienda de entrenadores.
 - Pikachu compañero es especial, no evoluciona y tiene estadísticas mejoradas.
+- Las evoluciones finales pueden aprender también los movimientos por nivel de sus etapas anteriores.
+- En casa puedes cambiar la apariencia del protagonista entre cinco categorías.
+- Los objetos clave registrados se asignan a L o R y puedes usar varios objetos de campo sin cerrar el menú.
+- La Etiqueta Limpia tiene un efecto mejorado respecto a los juegos originales.
+
+Consulta también [Evoluciones especiales](EVOLUCIONES-ESPECIALES.md), [Preguntas frecuentes](PREGUNTAS-FRECUENTES.md) e [Índices de consulta](INDICES-DE-CONSULTA.md).
 
 > [!TIP]
 > Revisa el PC de tu habitación antes de salir. La guía fuente indica que tu padre dejó regalos allí.

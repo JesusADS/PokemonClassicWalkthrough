@@ -10,3 +10,10 @@
 - [Volumen 10 - Postgame: Zapdos, Mewtwo y Mew](guia/10-postgame-zapdos-mewtwo-y-mew.md) - Legendarios y segundo desafío de Liga
 - [Volumen 11 - Postgame: Team Rocket y rematches](guia/11-postgame-team-rocket-y-rematches.md) - Actividades repetibles
 - [Volumen 12 - Mega Evolución y 100 %](guia/12-megaevolucion-y-completado-100.md) - Finalización completa
+
+## Referencias generales
+
+- [Cómo usar la guía](COMO-USAR-LA-GUIA.md) - Símbolos, criterios y mecánicas esenciales
+- [Índices de consulta](INDICES-DE-CONSULTA.md) - Level caps, Cedar, tutores, regalos y legendarios
+- [Evoluciones especiales](EVOLUCIONES-ESPECIALES.md) - Piedra Poder, intercambios y objetos evolutivos
+- [Preguntas frecuentes](PREGUNTAS-FRECUENTES.md) - IV/EV, seguidores, MO y Battle Tower
