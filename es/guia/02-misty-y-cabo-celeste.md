@@ -1,4 +1,6 @@
-> [← Anterior](01-inicio-brock-y-monte-moon.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](03-lt-surge-y-ciudad-carmin.md)
+﻿> [← Anterior](01-inicio-brock-y-monte-moon.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](03-lt-surge-y-ciudad-carmin.md)
+
+[Español] · [English](../../en/guide/02-misty-and-cerulean-cape.md)
 
 **POKÉMON CLASSIC**
 
@@ -27,7 +29,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 # Ciudad Celeste
 
-<img src="../images/volumen-02/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-02/media/image1.png" style="max-width:100%;height:auto" />
 
 *Mapa de Ciudad Celeste extraído de la guía original.*
 
@@ -101,7 +103,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 # 🏆 GIMNASIO: Misty
 
-<img src="../images/volumen-02/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-02/media/image2.png" style="max-width:100%;height:auto" />
 
 *Interior del Gimnasio de Ciudad Celeste.*
 
@@ -128,7 +130,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 # Ruta 24 · Puente Pepita
 
-<img src="../images/volumen-02/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-02/media/image3.png" style="max-width:100%;height:auto" />
 
 *Ruta 24 y Puente Pepita.*
 
@@ -206,7 +208,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 # Ruta 25 · Casa de Bill
 
-<img src="../images/volumen-02/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-02/media/image4.png" style="max-width:100%;height:auto" />
 
 *Ruta 25 y camino hacia la casa de Bill.*
 

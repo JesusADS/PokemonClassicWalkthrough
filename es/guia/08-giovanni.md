@@ -1,4 +1,6 @@
-> [← Anterior](07-islas-espuma-articuno-y-blaine.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](09-calle-victoria-y-liga.md)
+﻿> [← Anterior](07-islas-espuma-articuno-y-blaine.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](09-calle-victoria-y-liga.md)
+
+[Español] · [English](../../en/guide/08-giovanni.md)
 
 **POKÉMON CLASSIC**
 
@@ -25,7 +27,7 @@ Gimnasio • Equipo • Entrenadores • Estrategia • Octava medalla
 
 # 🏆 GIMNASIO: Giovanni
 
-<img src="../images/volumen-08/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-08/media/image1.png" style="max-width:100%;height:auto" />
 
 *Interior del Gimnasio de Giovanni.*
 

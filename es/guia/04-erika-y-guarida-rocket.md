@@ -1,4 +1,6 @@
-> [← Anterior](03-lt-surge-y-ciudad-carmin.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](05-torre-pokemon-koga-y-zona-safari.md)
+﻿> [← Anterior](03-lt-surge-y-ciudad-carmin.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](05-torre-pokemon-koga-y-zona-safari.md)
+
+[Español] · [English](../../en/guide/04-erika-and-rocket-hideout.md)
 
 **POKÉMON CLASSIC**
 
@@ -63,7 +65,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Ruta 9
 
-<img src="../images/volumen-04/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image1.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 9.*
 
@@ -131,7 +133,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Ruta 10
 
-<img src="../images/volumen-04/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image2.png" style="max-width:100%;height:auto" />
 
 *Ruta 10 completa, incluida la entrada al Túnel Roca.*
 
@@ -217,11 +219,11 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Túnel Roca
 
-<img src="../images/volumen-04/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image3.png" style="max-width:100%;height:auto" />
 
 *Túnel Roca, planta 1.*
 
-<img src="../images/volumen-04/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image4.png" style="max-width:100%;height:auto" />
 
 *Túnel Roca, sótano 1.*
 
@@ -285,7 +287,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Pueblo Lavanda
 
-<img src="../images/volumen-04/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image5.png" style="max-width:100%;height:auto" />
 
 *Mapa de Pueblo Lavanda.*
 
@@ -313,7 +315,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Ruta 8
 
-<img src="../images/volumen-04/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image6.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 8.*
 
@@ -374,7 +376,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Ruta 7
 
-<img src="../images/volumen-04/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image7.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 7.*
 
@@ -411,7 +413,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Ciudad Azulona
 
-<img src="../images/volumen-04/media/image8.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image8.png" style="max-width:100%;height:auto" />
 
 *Mapa de Ciudad Azulona.*
 
@@ -470,19 +472,19 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # Guarida Rocket
 
-<img src="../images/volumen-04/media/image9.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image9.png" style="max-width:100%;height:auto" />
 
 *Guarida Rocket, planta B1F.*
 
-<img src="../images/volumen-04/media/image10.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image10.png" style="max-width:100%;height:auto" />
 
 *Guarida Rocket, planta B2F.*
 
-<img src="../images/volumen-04/media/image11.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image11.png" style="max-width:100%;height:auto" />
 
 *Guarida Rocket, planta B3F.*
 
-<img src="../images/volumen-04/media/image12.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image12.png" style="max-width:100%;height:auto" />
 
 *Guarida Rocket, planta B4F.*
 
@@ -548,7 +550,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 # 🏆 GIMNASIO: Erika
 
-<img src="../images/volumen-04/media/image13.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-04/media/image13.png" style="max-width:100%;height:auto" />
 
 *Interior del Gimnasio de Ciudad Azulona.*
 

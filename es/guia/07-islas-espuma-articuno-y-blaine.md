@@ -1,4 +1,6 @@
-> [← Anterior](06-silph-sabrina-y-ruta-ciclista.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](08-giovanni.md)
+﻿> [← Anterior](06-silph-sabrina-y-ruta-ciclista.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](08-giovanni.md)
+
+[Español] · [English](../../en/guide/07-seafoam-islands-articuno-and-blaine.md)
 
 **POKÉMON CLASSIC**
 
@@ -33,7 +35,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Ruta 19
 
-<img src="../images/volumen-07/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image1.png" style="max-width:100%;height:auto" />
 
 *Mapa completo de la Ruta 19.*
 
@@ -100,7 +102,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Ruta 20
 
-<img src="../images/volumen-07/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image2.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 20.*
 
@@ -178,23 +180,23 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Islas Espuma
 
-<img src="../images/volumen-07/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image3.png" style="max-width:100%;height:auto" />
 
 *Islas Espuma, planta 1.*
 
-<img src="../images/volumen-07/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image4.png" style="max-width:100%;height:auto" />
 
 *Islas Espuma, sótano 1.*
 
-<img src="../images/volumen-07/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image5.png" style="max-width:100%;height:auto" />
 
 *Islas Espuma, sótano 2.*
 
-<img src="../images/volumen-07/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image6.png" style="max-width:100%;height:auto" />
 
 *Islas Espuma, sótano 3.*
 
-<img src="../images/volumen-07/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image7.png" style="max-width:100%;height:auto" />
 
 *Islas Espuma, sótano 4 y zona de Articuno.*
 
@@ -273,7 +275,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Isla Canela
 
-<img src="../images/volumen-07/media/image8.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image8.png" style="max-width:100%;height:auto" />
 
 *Mapa de Isla Canela.*
 
@@ -348,19 +350,19 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Mansión Pokémon
 
-<img src="../images/volumen-07/media/image9.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image9.png" style="max-width:100%;height:auto" />
 
 *Mansión Pokémon, planta 1.*
 
-<img src="../images/volumen-07/media/image10.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image10.png" style="max-width:100%;height:auto" />
 
 *Mansión Pokémon, planta 2.*
 
-<img src="../images/volumen-07/media/image11.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image11.png" style="max-width:100%;height:auto" />
 
 *Mansión Pokémon, planta 3.*
 
-<img src="../images/volumen-07/media/image12.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image12.png" style="max-width:100%;height:auto" />
 
 *Mansión Pokémon, sótano 1.*
 
@@ -438,7 +440,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # 🏆 GIMNASIO: Blaine
 
-<img src="../images/volumen-07/media/image13.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image13.png" style="max-width:100%;height:auto" />
 
 *Interior del Gimnasio de Blaine.*
 
@@ -481,11 +483,11 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 # Ruta 21
 
-<img src="../images/volumen-07/media/image14.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image14.png" style="max-width:100%;height:auto" />
 
 *Ruta 21 Sur.*
 
-<img src="../images/volumen-07/media/image15.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-07/media/image15.png" style="max-width:100%;height:auto" />
 
 *Ruta 21 Norte y acceso a Pueblo Paleta.*
 

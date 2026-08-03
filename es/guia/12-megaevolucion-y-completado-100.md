@@ -1,4 +1,6 @@
-> [← Anterior](11-postgame-team-rocket-y-rematches.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](../README.md)
+﻿> [← Anterior](11-postgame-team-rocket-y-rematches.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](../README.md)
+
+[Español] · [English](../../en/guide/12-mega-evolution-and-100-percent.md)
 
 **POKÉMON CLASSIC**
 
@@ -56,11 +58,11 @@
 |----------------------------------------------------------------------------------------------------|
 | Recoger las piedras de Bosque Verde, Ruta 2, Ciudad Celeste, Mt. Moon, Túnel Roca y Torre Pokémon. |
 
-<img src="../images/volumen-12/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-12/media/image1.png" style="max-width:100%;height:auto" />
 
 *Túnel Roca, una de las plantas con acceso a B1F.*
 
-<img src="../images/volumen-12/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-12/media/image2.png" style="max-width:100%;height:auto" />
 
 *Túnel Roca, segunda planta del recorrido.*
 
@@ -109,19 +111,19 @@
 |---------------------------------------------------------------------|
 | Recoger las piedras de Zona Safari, Islas Espuma y Mansión Pokémon. |
 
-<img src="../images/volumen-12/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-12/media/image3.png" style="max-width:100%;height:auto" />
 
 *Zona Safari: área central.*
 
-<img src="../images/volumen-12/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-12/media/image4.png" style="max-width:100%;height:auto" />
 
 *Zona Safari: área este.*
 
-<img src="../images/volumen-12/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-12/media/image5.png" style="max-width:100%;height:auto" />
 
 *Mansión Pokémon, planta 1.*
 
-<img src="../images/volumen-12/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-12/media/image6.png" style="max-width:100%;height:auto" />
 
 *Mansión Pokémon, planta 2.*
 
@@ -167,7 +169,7 @@
 |--------------------------------------------|
 | Conseguir Alakazita y las dos Mewtwonitas. |
 
-<img src="../images/volumen-12/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-12/media/image7.png" style="max-width:100%;height:auto" />
 
 *Cueva Celeste 2F, donde aparecen ambas Mewtwonitas.*
 

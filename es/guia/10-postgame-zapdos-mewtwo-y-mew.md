@@ -1,4 +1,6 @@
-> [← Anterior](09-calle-victoria-y-liga.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](11-postgame-team-rocket-y-rematches.md)
+﻿> [← Anterior](09-calle-victoria-y-liga.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](11-postgame-team-rocket-y-rematches.md)
+
+[Español] · [English](../../en/guide/10-postgame-zapdos-mewtwo-and-mew.md)
 
 **POKÉMON CLASSIC**
 
@@ -78,7 +80,7 @@
 |-------------------------------------------------------------------------|
 | Explorar la Central, recoger sus MT y capturar al legendario eléctrico. |
 
-<img src="../images/volumen-10/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-10/media/image1.png" style="max-width:100%;height:auto" />
 
 *Mapa original de la Central de Energía.*
 
@@ -136,7 +138,7 @@
 |-----------------------------------------------------------------------------------|
 | Revisar los eventos nuevos de la zona y entrar en la cueva más exigente de Kanto. |
 
-<img src="../images/volumen-10/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-10/media/image2.png" style="max-width:100%;height:auto" />
 
 *Mapa original de la Ruta 24.*
 
@@ -213,15 +215,15 @@
 |----------------------------------------------------------------------------|
 | Atravesar las tres plantas, recoger todos los objetos y capturar a Mewtwo. |
 
-<img src="../images/volumen-10/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-10/media/image3.png" style="max-width:100%;height:auto" />
 
 *Cueva Celeste, planta 1.*
 
-<img src="../images/volumen-10/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-10/media/image4.png" style="max-width:100%;height:auto" />
 
 *Cueva Celeste, planta 2.*
 
-<img src="../images/volumen-10/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-10/media/image5.png" style="max-width:100%;height:auto" />
 
 *Cueva Celeste, sótano B1F.*
 
@@ -300,11 +302,11 @@
 |------------------------------------------------------------------------------------|
 | Usar el mapa antiguo de la Mansión Pokémon para llegar a la isla y capturar a Mew. |
 
-<img src="../images/volumen-10/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-10/media/image6.png" style="max-width:100%;height:auto" />
 
 *Faraway Island: muelle y acceso al bosque.*
 
-<img src="../images/volumen-10/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-10/media/image7.png" style="max-width:100%;height:auto" />
 
 *Faraway Island: zona del encuentro con Mew.*
 

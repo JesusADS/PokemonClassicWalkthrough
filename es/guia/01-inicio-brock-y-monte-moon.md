@@ -1,4 +1,6 @@
-> [← Anterior](../README.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](02-misty-y-cabo-celeste.md)
+﻿> [← Anterior](../README.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](02-misty-y-cabo-celeste.md)
+
+[Español] · [English](../../en/guide/01-start-brock-and-mt-moon.md)
 
 **POKÉMON CLASSIC**
 
@@ -32,7 +34,7 @@ Recorrido paso a paso • Mapas • Objetos • Pokémon • Entrenadores • Ch
 
 # Pueblo Paleta
 
-<img src="../images/volumen-01/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image1.png" style="max-width:100%;height:auto" />
 
 Mapa de Pueblo Paleta extraído de la guía original.
 
@@ -85,7 +87,7 @@ Mapa de Pueblo Paleta extraído de la guía original.
 
 # Ruta 1
 
-<img src="../images/volumen-01/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image2.png" style="max-width:100%;height:auto" />
 
 Ruta 1: conecta Pueblo Paleta con Ciudad Verde.
 
@@ -126,7 +128,7 @@ Ruta 1: conecta Pueblo Paleta con Ciudad Verde.
 
 # Ciudad Verde
 
-<img src="../images/volumen-01/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image3.png" style="max-width:100%;height:auto" />
 
 Ciudad Verde. La zona de agua y el tutor de Dream Eater se aprovechan más adelante.
 
@@ -178,7 +180,7 @@ Ciudad Verde. La zona de agua y el tutor de Dream Eater se aprovechan más adela
 
 # Ruta 22
 
-<img src="../images/volumen-01/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image4.png" style="max-width:100%;height:auto" />
 
 Ruta 22, al oeste de Ciudad Verde.
 
@@ -238,7 +240,7 @@ Ruta 22, al oeste de Ciudad Verde.
 
 # Ruta 2 — tramo sur
 
-<img src="../images/volumen-01/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image5.png" style="max-width:100%;height:auto" />
 
 Ruta 2 completa. En esta etapa solo podrás recorrer los tramos conectados por el Bosque Verde.
 
@@ -273,7 +275,7 @@ Ruta 2 completa. En esta etapa solo podrás recorrer los tramos conectados por e
 
 # Bosque Verde
 
-<img src="../images/volumen-01/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image6.png" style="max-width:100%;height:auto" />
 
 Bosque Verde. El mapa muestra el recorrido principal, objetos y entrenadores.
 
@@ -340,7 +342,7 @@ Bosque Verde. El mapa muestra el recorrido principal, objetos y entrenadores.
 
 # Ciudad Plateada y Brock
 
-<img src="../images/volumen-01/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image7.png" style="max-width:100%;height:auto" />
 
 Ciudad Plateada. El gimnasio está en la zona norte y el museo en la parte superior.
 
@@ -366,7 +368,7 @@ Ciudad Plateada. El gimnasio está en la zona norte y el museo en la parte super
 | **🏆 GIMNASIO DE CIUDAD PLATEADA** |
 |------------------------------------|
 
-<img src="../images/volumen-01/media/image8.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image8.png" style="max-width:100%;height:auto" />
 
 Interior del Gimnasio de Ciudad Plateada.
 
@@ -421,7 +423,7 @@ La guía de Pokémon Classic no publica el equipo completo de Brock. Como el hac
 
 # Ruta 3
 
-<img src="../images/volumen-01/media/image9.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image9.png" style="max-width:100%;height:auto" />
 
 Ruta 3: recorrido lineal hacia la entrada del Monte Moon.
 
@@ -469,15 +471,15 @@ Ruta 3: recorrido lineal hacia la entrada del Monte Moon.
 
 # Monte Moon
 
-<img src="../images/volumen-01/media/image10.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image10.png" style="max-width:100%;height:auto" />
 
 Monte Moon, planta 1.
 
-<img src="../images/volumen-01/media/image11.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image11.png" style="max-width:100%;height:auto" />
 
 Monte Moon, sótano 1: pequeños corredores conectados desde la planta principal.
 
-<img src="../images/volumen-01/media/image12.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image12.png" style="max-width:100%;height:auto" />
 
 Monte Moon, sótano 2: zona de Rocket y fósiles.
 
@@ -612,7 +614,7 @@ Monte Moon, sótano 2: zona de Rocket y fósiles.
 </tbody>
 </table>
 
-<img src="../images/volumen-01/media/image13.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-01/media/image13.png" style="max-width:100%;height:auto" />
 
 Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
 

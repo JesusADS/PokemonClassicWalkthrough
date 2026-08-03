@@ -1,4 +1,6 @@
-> [← Anterior](02-misty-y-cabo-celeste.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](04-erika-y-guarida-rocket.md)
+﻿> [← Anterior](02-misty-y-cabo-celeste.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](04-erika-y-guarida-rocket.md)
+
+[Español] · [English](../../en/guide/03-lt-surge-and-vermilion-city.md)
 
 **POKÉMON CLASSIC**
 
@@ -31,11 +33,11 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 # Rutas 5 y 6
 
-<img src="../images/volumen-03/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image5.png" style="max-width:100%;height:auto" />
 
 *Ruta 5: salida sur de Ciudad Celeste y acceso al paso subterráneo.*
 
-<img src="../images/volumen-03/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image6.png" style="max-width:100%;height:auto" />
 
 *Ruta 6: tramo final hasta Ciudad Carmín.*
 
@@ -109,7 +111,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 # Ciudad Carmín
 
-<img src="../images/volumen-03/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image7.png" style="max-width:100%;height:auto" />
 
 *Mapa de Ciudad Carmín.*
 
@@ -251,27 +253,27 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes explorar ahora su zona
 
 # S.S. Anne
 
-<img src="../images/volumen-03/media/image8.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image8.png" style="max-width:100%;height:auto" />
 
 *S.S. Anne: cubierta principal.*
 
-<img src="../images/volumen-03/media/image9.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image9.png" style="max-width:100%;height:auto" />
 
 *S.S. Anne: planta de acceso.*
 
-<img src="../images/volumen-03/media/image10.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image10.png" style="max-width:100%;height:auto" />
 
 *S.S. Anne: pasillos y camarotes.*
 
-<img src="../images/volumen-03/media/image11.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image11.png" style="max-width:100%;height:auto" />
 
 *S.S. Anne: cubierta exterior.*
 
-<img src="../images/volumen-03/media/image12.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image12.png" style="max-width:100%;height:auto" />
 
 *S.S. Anne: zona interior adicional.*
 
-<img src="../images/volumen-03/media/image13.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image13.png" style="max-width:100%;height:auto" />
 
 *S.S. Anne: camarote del capitán y tramo final.*
 
@@ -353,7 +355,7 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes explorar ahora su zona
 
 # 🏆 GIMNASIO: Lt. Surge
 
-<img src="../images/volumen-03/media/image14.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image14.png" style="max-width:100%;height:auto" />
 
 *Interior del Gimnasio de Ciudad Carmín.*
 
@@ -379,7 +381,7 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes explorar ahora su zona
 
 # Cueva Diglett
 
-<img src="../images/volumen-03/media/image15.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-03/media/image15.png" style="max-width:100%;height:auto" />
 
 *Mapa completo de la Cueva Diglett.*
 

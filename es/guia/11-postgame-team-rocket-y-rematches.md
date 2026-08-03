@@ -1,4 +1,6 @@
-> [← Anterior](10-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](12-megaevolucion-y-completado-100.md)
+﻿> [← Anterior](10-postgame-zapdos-mewtwo-y-mew.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](12-megaevolucion-y-completado-100.md)
+
+[Español] · [English](../../en/guide/11-postgame-team-rocket-and-rematches.md)
 
 **POKÉMON CLASSIC**
 
@@ -28,7 +30,7 @@
 |--------------------------------------------------------------------------------------------------|
 | Regresar al edificio para completar el epílogo de Team Rocket y desbloquear combates repetibles. |
 
-<img src="../images/volumen-11/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-11/media/image1.png" style="max-width:100%;height:auto" />
 
 *Silph S.A., una de las plantas principales del edificio.*
 
@@ -116,7 +118,7 @@
 |----------------------------------------------------------------------|
 | Visitar la torre reutilizada y gastar los Battle Points conseguidos. |
 
-<img src="../images/volumen-11/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-11/media/image2.png" style="max-width:100%;height:auto" />
 
 *Exterior original de la Battle Tower.*
 

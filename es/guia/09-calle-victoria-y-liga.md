@@ -1,4 +1,6 @@
-> [← Anterior](08-giovanni.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](10-postgame-zapdos-mewtwo-y-mew.md)
+﻿> [← Anterior](08-giovanni.md) · [Índice general](../README.md) · [Cómo usar](../COMO-USAR-LA-GUIA.md) · [Siguiente →](10-postgame-zapdos-mewtwo-y-mew.md)
+
+[Español] · [English](../../en/guide/09-victory-road-and-pokemon-league.md)
 
 **POKÉMON CLASSIC**
 
@@ -29,7 +31,7 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 # Ruta 22
 
-<img src="../images/volumen-09/media/image2.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-09/media/image2.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 22.*
 
@@ -88,7 +90,7 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 # Ruta 23
 
-<img src="../images/volumen-09/media/image3.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-09/media/image3.png" style="max-width:100%;height:auto" />
 
 *Mapa de la Ruta 23 y controles de medallas.*
 
@@ -157,19 +159,19 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 # Calle Victoria
 
-<img src="../images/volumen-09/media/image4.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-09/media/image4.png" style="max-width:100%;height:auto" />
 
 *Calle Victoria, planta 1.*
 
-<img src="../images/volumen-09/media/image5.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-09/media/image5.png" style="max-width:100%;height:auto" />
 
 *Calle Victoria, planta 2.*
 
-<img src="../images/volumen-09/media/image6.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-09/media/image6.png" style="max-width:100%;height:auto" />
 
 *Calle Victoria, planta 3.*
 
-<img src="../images/volumen-09/media/image7.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-09/media/image7.png" style="max-width:100%;height:auto" />
 
 *Cueva lateral de Moltres.*
 
@@ -250,7 +252,7 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 # Meseta Añil
 
-<img src="../images/volumen-09/media/image8.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-09/media/image8.png" style="max-width:100%;height:auto" />
 
 *Exterior de la Meseta Añil.*
 
