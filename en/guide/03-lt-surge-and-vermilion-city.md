@@ -28,7 +28,7 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 - Diglett's Cave
 
-| **DATA CRITERIA** Specific items, encounters, and events come from the Pokémon Classic v1.5 guide. Lt. Surge's gear is taken from Pokémon Yellow, unless the hack indicates a change. |
+| **DATA CRITERIA** Specific items, encounters, and events come from the Pokémon Classic v1.5 guide. Lt. Surge's team was checked against the game's internal data. |
 |---|
 
 # Routes 5 and 6
@@ -353,12 +353,14 @@ Route 11 is located east of Vermilion City. You can explore its land area now an
 
 *Interior of Vermilion City's Gym.*
 
-| **RECOMMENDED LEVEL CAP** 28. The highest level Pokémon on Pokémon Yellow's team is taken as a reference. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **RECOMMENDED LEVEL CAP** 24. The highest-level Pokémon on the Pokémon Classic v1.5 team is used as the reference. |
+|---------------------------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Main hazard** |
-|-------------|-----------|-----------|----------------------------------------|
-| Raichu | 28 | Electric | High speed and strong electrical damage |
+|-------------|-----------|----------|-----------------|
+| Voltorb | 21 | Electric | Sonic Boom, Screech and Shock Wave |
+| Pikachu | 18 | Electric | Thunder Wave, Double Team and Shock Wave |
+| Raichu | 24 | Electric | Bulkier; repeats Pikachu's strategy |
 
 ## Gym trainers
 

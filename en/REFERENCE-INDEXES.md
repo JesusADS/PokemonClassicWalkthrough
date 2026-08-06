@@ -1,19 +1,19 @@
 ﻿# Reference indexes
 
-This page brings together references that appear spread across several volumes. Level caps and leader teams come from *Pokémon Yellow* when the *Pokémon Classic* documentation does not publish its own template.
+This page brings together references that appear spread across several volumes. Level caps and Gym Leader teams were checked against *Pokémon Classic v1.5*'s internal trainer data.
 
 ## Level caps and Gym Leaders
 
 | Badge | Leader | Recommended level cap | Guide |
 |---|---|---:|---|
-| Boulder | Brock | 12 | [Volume 1](guide/01-start-brock-and-mt-moon.md) |
+| Boulder | Brock | 14 | [Volume 1](guide/01-start-brock-and-mt-moon.md) |
 | Cascade | Misty | 21 | [Volume 2](guide/02-misty-and-cerulean-cape.md) |
-| Thunder | Lt. Surge | 28 | [Volume 3](guide/03-lt-surge-and-vermilion-city.md) |
-| Rainbow | Erika | 32 | [Volume 4](guide/04-erika-and-rocket-hideout.md) |
-| Soul | Koga | 50 | [Volume 5](guide/05-pokemon-tower-koga-and-safari-zone.md) |
-| Marsh | Sabrina | 50 | [Volume 6](guide/06-silph-sabrina-and-cycling-road.md) |
-| Volcano | Blaine | 54 | [Volume 7](guide/07-seafoam-islands-articuno-and-blaine.md) |
-| Earth | Giovanni | 55 | [Volume 8](guide/08-giovanni.md) |
+| Thunder | Lt. Surge | 24 | [Volume 3](guide/03-lt-surge-and-vermilion-city.md) |
+| Rainbow | Erika | 29 | [Volume 4](guide/04-erika-and-rocket-hideout.md) |
+| Soul | Koga | 43 | [Volume 5](guide/05-pokemon-tower-koga-and-safari-zone.md) |
+| Marsh | Sabrina | 43 | [Volume 6](guide/06-silph-sabrina-and-cycling-road.md) |
+| Volcano | Blaine | 47 | [Volume 7](guide/07-seafoam-islands-articuno-and-blaine.md) |
+| Earth | Giovanni | 50 | [Volume 8](guide/08-giovanni.md) |
 | League | Champion | 65 | [Volume 9](guide/09-victory-road-and-pokemon-league.md) |
 
 ## Items delivered by Cedar

@@ -22,7 +22,7 @@ Gym • Team • Coaches • Strategy • Eighth Badge
 
 - Preparation and reward
 
-| **DATA CRITERIA** Trainers and rewards come from the starter guide. Giovanni's equipment and levels are based on Pokémon Yellow because the hack guide does not detail his roster. |
+| **DATA CRITERIA** Trainers and rewards come from the starter guide. Giovanni's exact team and levels come from Pokémon Classic v1.5's internal trainer data. |
 |---|
 
 # 🏆 GYM: Giovanni
@@ -31,16 +31,16 @@ Gym • Team • Coaches • Strategy • Eighth Badge
 
 *Interior of Giovanni's Gym.*
 
-| **RECOMMENDED LEVEL CAP** 55. The highest level Pokémon on Pokémon Yellow's team is taken as a reference. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **RECOMMENDED LEVEL CAP** 50. This matches the highest level on Giovanni's Pokémon Classic v1.5 team. |
+|------------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Main hazard** |
 |-------------|--------|---------------|--------------------------|
-| Dugtrio | 50 | Earth | Very fast; Earth attacks |
-| Persian | 53 | Normal | Speed ​​and physical hits |
-| Nidoqueen | 53 | Poison/Earth | Varied coverage |
-| Nidoking | 55 | Poison/Earth | High Attack and Cover |
-| Rhydon | 55 | Earth/Rock | Great Attack and Defense |
+| Rhyhorn | 45 | Ground/Rock | Take Down, Rock Blast, Scary Face and Earthquake |
+| Dugtrio | 42 | Ground | Slash, Sand Tomb, Mud-Slap and Earthquake |
+| Nidoqueen | 44 | Poison/Ground | Body Slam, Double Kick, Poison Sting and Earthquake |
+| Nidoking | 45 | Poison/Ground | Thrash, Double Kick, Poison Sting and Earthquake |
+| Rhyhorn | 50 | Ground/Rock | Take Down, Rock Blast, Scary Face and Earthquake |
 
 ## Gym trainers
 
@@ -54,19 +54,16 @@ Gym • Team • Coaches • Strategy • Eighth Badge
 | Rocker Jason | Gym | Rhyhorn Lv. 43 |
 | Cooltrainer Warren | Gym | Marowak Lv. 37 · Marowak Lv. 37 · Rhyhorn Lv. 38 · Nidorina Lv. 39 · Nidoqueen Lv. 39 |
 | Black Belt Takashi | Gym | Machoke Lv. 38 · Machop Lv. 38 · Machoke Lv. 38 |
-| Gym Leader Giovanni | Final combat | Rhyhorn Lv. 45 · Dugtrio Lv. 42 · Nidoqueen Lv. 44 · Nidoking Lv. 45 · Rhyhorn Lv. 50 |
 
 ## Combat plan
 
-- Water and Ice cover almost all of your equipment; Lapras is especially useful.
+- Water and Ice cover almost all of his team; Lapras is especially useful.
 
-- Plant works against Dugtrio and Rhydon, but Nidoqueen and Nidoking can have dangerous cover.
+- Grass works against Dugtrio and both Rhyhorn, but Nidoqueen and Nidoking can have dangerous coverage.
 
-- Persian does not share the weakness to Water: use a resistant physical attacker or Fighting-type moves.
+- Both Rhyhorn have a quadruple weakness to Water and Grass; take them down quickly.
 
-- Rhydon has a quadruple weakness to Water and Grass; take it down quickly.
-
-- Keep the team around level 55 if you respect Pokémon Yellow's cap.
+- Keep the team around level 50 to respect Pokémon Classic v1.5's cap.
 
 | **REWARD** Earth Badge, TM26 and Macho Brace in the position where Giovanni was. |
 |------------------------------------------------------------------------------------------|

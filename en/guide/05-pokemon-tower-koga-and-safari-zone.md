@@ -28,7 +28,7 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 - Koga Gym
 
-| **DATA CRITERIA** Maps, items, encounters and trainers come from the Pokémon Classic v1.5 starter guide. The Koga team uses Pokémon Yellow levels because the hack document does not detail their template. |
+| **DATA CRITERIA** Maps, items, encounters and trainers come from the Pokémon Classic v1.5 starter guide. Koga's exact team and levels come from Pokémon Classic v1.5's internal trainer data. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Pokémon Tower
@@ -523,15 +523,15 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 *Interior of Koga's Gym.*
 
-| **RECOMMENDED LEVEL CAP** 50. The highest level Pokémon on Pokémon Yellow's team is taken as a reference. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **RECOMMENDED LEVEL CAP** 43. This matches the highest level on Koga's Pokémon Classic v1.5 team. |
+|---------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Main hazard** |
 |-------------|--------|--------------|---------------------------------|
-| Venonat | 44 | Bug/Poison | Toxic and Sleepy |
-| Venonat | 46 | Bug/Poison | Psychoray and Supersonic |
-| Venonat | 48 | Bug/Poison | Psychic and Sleeping Aid |
-| Venomoth | 50 | Bug/Poison | Psychic, Toxic and Double Team |
+| Koffing | 37 | Poison | Self-Destruct, Sludge and Toxic |
+| Muk | 39 | Poison | Minimize, Acid Armor and Toxic |
+| Koffing | 37 | Poison | Self-Destruct, Sludge and Toxic |
+| Weezing | 43 | Poison | Sludge, Smokescreen and Toxic |
 
 ## Gym trainers
 
@@ -546,15 +546,15 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Combat plan
 
-- The level jump is big: prepare the team around level 50 if you respect Pokémon Yellow's cap.
+- Prepare the team around level 43 to respect Pokémon Classic v1.5's cap.
 
-- Psychic attacks are the most direct option against all your Pokémon.
+- Psychic attacks are the most direct option against all his Pokémon.
 
-- Fire and Flying type attacks work well for Bug type, but be careful with Psychic.
+- Be ready for Koffing's Self-Destruct and prevent Muk from stacking Minimize.
 
-- Carry Antidotes, Awaken and Restore All to neutralize Toxic and Sleeping.
+- Carry Antidotes and Full Restores to neutralize Toxic.
 
-- Venomoth can stack Double Team: he attacks forcefully before his evasion increases too much.
+- Use accurate attacks or status effects before Muk raises its evasion too far.
 
 | **REWARD** Soul Badge and TM06 from Pokémon Classic. |
 |----------------------------------------------------|

@@ -26,7 +26,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 - Gimnasio de Sabrina
 
-| **CRITERIO DE DATOS** Los mapas, objetos y entrenadores específicos proceden de la guía inicial de Pokémon Classic v1.5. El equipo de Sabrina usa Pokémon Amarillo, ya que la fuente del hack solo identifica a la líder y su MT. |
+| **CRITERIO DE DATOS** Los mapas, objetos y entrenadores específicos proceden de la guía inicial de Pokémon Classic v1.5. El equipo de Sabrina se ha contrastado con los datos internos del juego. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Ruta 16
@@ -349,14 +349,15 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Interior del Gimnasio de Sabrina.*
 
-| **LEVEL CAP RECOMENDADO** 50. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **LEVEL CAP RECOMENDADO** 43. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Classic v1.5. |
+|----------------------------------------------------------------------------------------------------------------------|
 
-| **Pokémon** | **Nivel** | **Tipo** | **Peligro principal**                            |
-|-------------|-----------|----------|--------------------------------------------------|
-| Abra        | 50        | Psíquico | Destello y Teletransporte; no ataca directamente |
-| Kadabra     | 50        | Psíquico | Psíquico, Recuperación y Cinético                |
-| Alakazam    | 50        | Psíquico | Muy rápido; Psíquico, Reflejo y Recuperación     |
+| **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**                         |
+|-------------|-----------|---------------|-----------------------------------------------|
+| Kadabra     | 38        | Psíquico      | Psicorrayo, Reflejo, Premonición y Paz Mental |
+| Mr. Mime    | 37        | Psíquico/Hada | Barrera, Relevo y Paz Mental                  |
+| Venomoth    | 38        | Bicho/Veneno  | Psicorrayo, Supersónico y cobertura variada   |
+| Alakazam    | 43        | Psíquico      | Psíquico, Recuperación y Paz Mental            |
 
 ## Entrenadores del gimnasio
 
@@ -372,11 +373,11 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Plan de combate
 
-- Los tres Pokémon tienen Defensa física baja: utiliza ataques físicos fuertes y de tipo neutral.
+- Kadabra, Mr. Mime y Alakazam tienen Defensa física modesta: presiónalos con ataques físicos fuertes.
 
-- Abra es una oportunidad para preparar mejoras de estadísticas o curar, ya que no dispone de ataque directo en Pokémon Amarillo.
+- No concedas turnos gratis: Kadabra, Mr. Mime y Alakazam pueden reforzarse, y Mr. Mime puede transferir mejoras con Relevo.
 
-- Kadabra y Alakazam son muy rápidos y golpean fuerte por el lado especial.
+- Venomoth rompe el patrón Psíquico del equipo; Fuego, Volador, Roca o Psíquico son buenas respuestas contra él.
 
 - Evita Pokémon de tipo Lucha o Veneno; reciben daño supereficaz de Psíquico.
 

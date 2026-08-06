@@ -28,7 +28,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 - Gimnasio de Koga
 
-| **CRITERIO DE DATOS** Los mapas, objetos, encuentros y entrenadores proceden de la guía inicial de Pokémon Classic v1.5. El equipo de Koga usa los niveles de Pokémon Amarillo porque el documento del hack no detalla su plantilla. |
+| **CRITERIO DE DATOS** Los mapas, objetos, encuentros y entrenadores proceden de la guía inicial de Pokémon Classic v1.5. El equipo de Koga se ha contrastado con los datos internos del juego. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Torre Pokémon
@@ -525,15 +525,15 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 *Interior del Gimnasio de Koga.*
 
-| **LEVEL CAP RECOMENDADO** 50. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **LEVEL CAP RECOMENDADO** 43. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Classic v1.5. |
+|----------------------------------------------------------------------------------------------------------------------|
 
-| **Pokémon** | **Nivel** | **Tipo**     | **Peligro principal**           |
-|-------------|-----------|--------------|---------------------------------|
-| Venonat     | 44        | Bicho/Veneno | Tóxico y Somnífero              |
-| Venonat     | 46        | Bicho/Veneno | Psicorrayo y Supersónico        |
-| Venonat     | 48        | Bicho/Veneno | Psíquico y Somnífero            |
-| Venomoth    | 50        | Bicho/Veneno | Psíquico, Tóxico y Doble Equipo |
+| **Pokémon** | **Nivel** | **Tipo** | **Peligro principal**                    |
+|-------------|-----------|----------|------------------------------------------|
+| Koffing     | 37        | Veneno   | Tóxico, Pantalla de Humo y Autodestrucción |
+| Muk         | 39        | Veneno   | Reducción, Armadura Ácida y Tóxico       |
+| Koffing     | 37        | Veneno   | Segundo usuario de Tóxico y Autodestrucción |
+| Weezing     | 43        | Veneno   | Mucha resistencia, Tóxico y Pantalla de Humo |
 
 ## Entrenadores del gimnasio
 
@@ -548,15 +548,15 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Plan de combate
 
-- El salto de nivel es grande: prepara al equipo cerca del nivel 50 si respetas el cap de Pokémon Amarillo.
+- Prepara al equipo cerca del nivel 43 si aplicas el level cap de Pokémon Classic v1.5.
 
 - Los ataques Psíquico son la opción más directa contra todos sus Pokémon.
 
-- Los ataques de tipo Fuego y Volador funcionan bien por el tipo Bicho, pero cuidado con Psíquico.
+- Evita alargar los combates: los dos Koffing pueden usar Autodestrucción y Muk puede aumentar su evasión con Reducción.
 
-- Lleva Antídotos, Despertar y Restaurar Todo para neutralizar Tóxico y Somnífero.
+- Lleva Antídotos y Restaurar Todo para neutralizar Tóxico.
 
-- Venomoth puede acumular Doble Equipo: ataca con contundencia antes de que aumente demasiado su evasión.
+- Muk puede acumular Reducción: ataca con contundencia antes de que aumente demasiado su evasión.
 
 | **RECOMPENSA** Medalla Alma y MT06 de Pokémon Classic. |
 |--------------------------------------------------------|

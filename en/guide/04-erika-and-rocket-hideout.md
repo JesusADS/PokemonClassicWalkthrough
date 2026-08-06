@@ -544,14 +544,14 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 *Interior of Celadon City's Gym.*
 
-| **RECOMMENDED LEVEL CAP** 32. The highest level Pokémon on Pokémon Yellow's team is taken as a reference. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **RECOMMENDED LEVEL CAP** 29. This matches the highest level on Erika's Pokémon Classic v1.5 team. |
+|----------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Main hazard** |
 |-------------|------------|---------------|-------------------------------|
-| Tangela | 30 | Plant | High Defense and status movements |
-| Weepinbell | 32 | Plant/Poison | States and attacks Plant |
-| Gloom | 32 | Plant/Poison | Sleeping pill, poison and resistance |
+| Victreebel | 29 | Grass/Poison | Stun Spore, Poison Powder and Giga Drain |
+| Tangela | 24 | Grass | Ingrain, Poison Powder and Giga Drain |
+| Vileplume | 29 | Grass/Poison | Sleep Powder, Stun Spore and Giga Drain |
 
 ## Gym trainers
 
@@ -573,7 +573,7 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 - Carry Antidotes and Awakening or Lum Berries: the biggest danger is status changes.
 
-- Avoid relying on Water, Earth or Plant attacks.
+- Avoid relying on Water, Ground or Grass attacks.
 
 - Defeat the seven gym trainers to gain experience before Erika.
 

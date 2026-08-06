@@ -1,19 +1,19 @@
 # Índices de consulta
 
-Esta página reúne referencias que aparecen repartidas entre varios volúmenes. Los level caps y equipos de líderes proceden de *Pokémon Amarillo* cuando la documentación de *Pokémon Classic* no publica una plantilla propia.
+Esta página reúne referencias que aparecen repartidas entre varios volúmenes. Los level caps y equipos de líderes se han contrastado con los datos internos de *Pokémon Classic v1.5*.
 
 ## Level caps y líderes
 
 | Medalla | Líder | Level cap recomendado | Guía |
 |---|---|---:|---|
-| Roca | Brock | 12 | [Volumen 1](guia/01-inicio-brock-y-monte-moon.md) |
+| Roca | Brock | 14 | [Volumen 1](guia/01-inicio-brock-y-monte-moon.md) |
 | Cascada | Misty | 21 | [Volumen 2](guia/02-misty-y-cabo-celeste.md) |
-| Trueno | Lt. Surge | 28 | [Volumen 3](guia/03-lt-surge-y-ciudad-carmin.md) |
-| Arcoíris | Erika | 32 | [Volumen 4](guia/04-erika-y-guarida-rocket.md) |
-| Alma | Koga | 50 | [Volumen 5](guia/05-torre-pokemon-koga-y-zona-safari.md) |
-| Pantano | Sabrina | 50 | [Volumen 6](guia/06-silph-sabrina-y-ruta-ciclista.md) |
-| Volcán | Blaine | 54 | [Volumen 7](guia/07-islas-espuma-articuno-y-blaine.md) |
-| Tierra | Giovanni | 55 | [Volumen 8](guia/08-giovanni.md) |
+| Trueno | Lt. Surge | 24 | [Volumen 3](guia/03-lt-surge-y-ciudad-carmin.md) |
+| Arcoíris | Erika | 29 | [Volumen 4](guia/04-erika-y-guarida-rocket.md) |
+| Alma | Koga | 43 | [Volumen 5](guia/05-torre-pokemon-koga-y-zona-safari.md) |
+| Pantano | Sabrina | 43 | [Volumen 6](guia/06-silph-sabrina-y-ruta-ciclista.md) |
+| Volcán | Blaine | 47 | [Volumen 7](guia/07-islas-espuma-articuno-y-blaine.md) |
+| Tierra | Giovanni | 50 | [Volumen 8](guia/08-giovanni.md) |
 | Liga | Campeón | 65 | [Volumen 9](guia/09-calle-victoria-y-liga.md) |
 
 ## Objetos entregados por Cedar

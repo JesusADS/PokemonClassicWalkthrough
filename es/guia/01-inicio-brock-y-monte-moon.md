@@ -368,13 +368,13 @@ Interior del Gimnasio de Ciudad Plateada.
 
 # 🏆 Brock
 
-| **LEVEL CAP RECOMENDADO** 12. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|---------------------------------------------------------------------------------------------------------------|
+| **LEVEL CAP RECOMENDADO** 14. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Classic v1.5. |
+|--------------------------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**               |
 |-------------|-----------|---------------|--------------------------------------|
-| Geodude     | 10        | Roca/Tierra   | Gran Defensa física                  |
-| Onix        | 12        | Roca/Tierra   | Defensa y velocidad elevadas al inicio |
+| Geodude     | 12        | Roca/Tierra   | Gran Defensa física y Rizo Defensa   |
+| Onix        | 14        | Roca/Tierra   | Tumba Rocas reduce la Velocidad      |
 
 ## Entrenadores del gimnasio
 
@@ -387,7 +387,7 @@ Interior del Gimnasio de Ciudad Plateada.
 | Entrenadores                 | Camper Liam y Líder Brock                                                                            |
 | Recompensa en Pokémon Classic | TM39                                                                                                |
 | Rematch                      | Combate por Battle Points en el posjuego                                                             |
-| Referencia usada             | Pokémon Amarillo para Pokémon y niveles; guía de Pokémon Classic para recompensas y cambios del hack |
+| Referencia usada             | Datos internos de Pokémon Classic v1.5 para equipo y niveles; documentación del hack para recompensas |
 
 <table>
 <colgroup>
@@ -396,7 +396,7 @@ Interior del Gimnasio de Ciudad Plateada.
 <thead>
 <tr class="header">
 <th>ℹ Referencia de combate<br />
-La guía de Pokémon Classic no publica el equipo completo de Brock. Como el hack reproduce Pokémon Amarillo, esta guía usa como referencia a Geodude Nv. 10 y Onix Nv. 12. El level cap recomendado es 12. Las recompensas y cambios se mantienen según la documentación específica de Pokémon Classic.</th>
+El equipo se ha contrastado con los datos internos de Pokémon Classic v1.5: Geodude Nv. 12 y Onix Nv. 14. El level cap recomendado es 14.</th>
 </tr>
 </thead>
 <tbody>
@@ -409,7 +409,7 @@ La guía de Pokémon Classic no publica el equipo completo de Brock. Como el hac
 
 - No dependas exclusivamente de Pikachu: sus ataques eléctricos no son una buena respuesta contra combinaciones Roca/Tierra.
 
-- Si aplicas un límite de nivel, usa el nivel 12 de Onix como referencia. Es un valor heredado de Pokémon Amarillo, no un cap publicado por la documentación de Pokémon Classic.
+- Si aplicas un límite de nivel, usa el nivel 14 de Onix como referencia.
 
 - Guarda antes de Brock y lleva varias Pociones.
 
@@ -707,7 +707,7 @@ Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
 | Team Rocket en Monte Moon | Derrotado                                                                            |
 | Fósil                     | Elegido                                                                              |
 | Ciudad Celeste            | Alcanzada                                                                            |
-| Datos exactos de Brock    | Geodude Nv. 10 y Onix Nv. 12; level cap recomendado 12 (referencia Pokémon Amarillo) |
+| Datos exactos de Brock    | Geodude Nv. 12 y Onix Nv. 14; level cap recomendado 14 según Pokémon Classic v1.5 |
 
 <table>
 <colgroup>

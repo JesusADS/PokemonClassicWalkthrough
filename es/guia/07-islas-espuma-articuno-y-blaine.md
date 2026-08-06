@@ -30,7 +30,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - Ruta 21 y regreso a Pueblo Paleta
 
-| **CRITERIO DE DATOS** Los mapas, encuentros, objetos y entrenadores se extraen de la guía inicial. El equipo y niveles de Blaine siguen Pokémon Amarillo, porque la fuente del hack solo especifica sus entrenadores y la MT38. |
+| **CRITERIO DE DATOS** Los mapas, encuentros, objetos y entrenadores se extraen de la guía inicial. El equipo de Blaine se ha contrastado con los datos internos de Pokémon Classic v1.5. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Ruta 19
@@ -444,14 +444,15 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 *Interior del Gimnasio de Blaine.*
 
-| **LEVEL CAP RECOMENDADO** 54. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **LEVEL CAP RECOMENDADO** 47. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Classic v1.5. |
+|----------------------------------------------------------------------------------------------------------------------|
 
-| **Pokémon** | **Nivel** | **Tipo** | **Peligro principal**                    |
-|-------------|-----------|----------|------------------------------------------|
-| Ninetales   | 48        | Fuego    | Confusión, quemaduras y ataques de Fuego |
-| Rapidash    | 50        | Fuego    | Velocidad alta y Fire Spin               |
-| Arcanine    | 54        | Fuego    | Ataque elevado y cobertura potente       |
+| **Pokémon** | **Nivel** | **Tipo** | **Peligro principal**                         |
+|-------------|-----------|----------|-----------------------------------------------|
+| Growlithe   | 42        | Fuego    | Mordisco, Rugido, Derribo y Llamarada         |
+| Ponyta      | 40        | Fuego    | Pisotón, Bote, Giro Fuego y Llamarada          |
+| Rapidash    | 42        | Fuego    | Gran Velocidad, Giro Fuego y Llamarada         |
+| Arcanine    | 47        | Fuego    | Ataque elevado, Derribo y Llamarada            |
 
 ## Entrenadores del gimnasio
 
@@ -464,7 +465,6 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 | Scientist Derek   | Recorrido del gimnasio | Rapidash Nv. 41 |
 | Burglar Dusty     | Recorrido del gimnasio | Vulpix Nv. 37 · Growlithe Nv. 37 |
 | Scientist Zac     | Antes de Blaine        | Growlithe Nv. 37 · Vulpix Nv. 37 |
-| Gym Leader Blaine | Combate final          | Growlithe Nv. 42 · Ponyta Nv. 40 · Rapidash Nv. 42 · Arcanine Nv. 47 |
 
 ## Plan de combate
 
@@ -474,7 +474,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - Fire Spin puede inmovilizarte durante varios turnos: lleva curas suficientes y evita alargar el combate.
 
-- Arcanine es el mayor peligro. Reserva tu mejor atacante de Agua o Tierra para el final.
+- Arcanine es el mayor peligro y cierra el combate al nivel 47. Reserva tu mejor atacante de Agua o Tierra para el final.
 
 - No uses Pokémon de Planta, Bicho o Hielo salvo que sean claramente más rápidos y puedan asegurar el KO.
 

@@ -30,7 +30,7 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 - Route 21 and return to Pallet Town
 
-| **DATA CRITERIA** Maps, encounters, items and trainers are taken from the starter guide. Blaine's equipment and levels follow Pokémon Yellow, because the hack source only specifies his trainers and TM38. |
+| **DATA CRITERIA** Maps, encounters, items and trainers are taken from the starter guide. Blaine's exact team and levels come from Pokémon Classic v1.5's internal trainer data. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Route 19
@@ -442,14 +442,15 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 *Interior of Blaine's Gym.*
 
-| **RECOMMENDED LEVEL CAP** 54. The highest level Pokémon on Pokémon Yellow's team is taken as a reference. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **RECOMMENDED LEVEL CAP** 47. This matches the highest level on Blaine's Pokémon Classic v1.5 team. |
+|----------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Main hazard** |
 |-------------|-----------|----------|---------------------------------------|
-| Ninetales | 48 | Fire | Confusion, burns and Fire attacks |
-| Rapidash | 50 | Fire | High Speed ​​and Fire Spin |
-| Arcanine | 54 | Fire | High attack and powerful coverage |
+| Growlithe | 42 | Fire | Bite, Roar, Take Down and Fire Blast |
+| Ponyta | 40 | Fire | Stomp, Bounce, Fire Spin and Fire Blast |
+| Rapidash | 42 | Fire | Stomp, Bounce, Fire Spin and Fire Blast |
+| Arcanine | 47 | Fire | Bite, Roar, Take Down and Fire Blast |
 
 ## Gym trainers
 
@@ -462,7 +463,6 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 | Scientist Derek | Gym tour | Rapidash Lv. 41 |
 | Burglar Dusty | Gym tour | Vulpix Lv. 37 · Growlithe Lv. 37 |
 | Scientist Zac | Before Blaine | Growlithe Lv. 37 · Vulpix Lv. 37 |
-| Gym Leader Blaine | Final combat | Growlithe Lv. 42 · Ponyta Lv. 40 · Rapidash Lv. 42 · Arcanine Lv. 47 |
 
 ## Combat plan
 
@@ -472,7 +472,7 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 - Fire Spin can immobilize you for several turns: take enough heals and avoid prolonging the fight.
 
-- Arcanine is the biggest danger. Save your best Water or Earth attacker for last.
+- Arcanine Lv. 47 is the biggest danger. Save your best Water or Ground attacker for last.
 
 - Do not use Grass, Bug or Ice Pokémon unless they are clearly faster and can ensure the KO.
 

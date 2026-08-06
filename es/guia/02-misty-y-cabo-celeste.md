@@ -24,7 +24,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 - Ruta 25 y Bill
 
-| **CRITERIO DE DATOS** Los objetos, encuentros y eventos específicos proceden de la guía de Pokémon Classic v1.5. El equipo de Misty se toma de Pokémon Amarillo, salvo que el hack indique un cambio. |
+| **CRITERIO DE DATOS** Los objetos, encuentros y eventos específicos proceden de la guía de Pokémon Classic v1.5. El equipo de Misty se ha contrastado con los datos internos del juego. |
 |---|
 
 # Ciudad Celeste
@@ -107,8 +107,8 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 *Interior del Gimnasio de Ciudad Celeste.*
 
-| **LEVEL CAP RECOMENDADO** 21. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **LEVEL CAP RECOMENDADO** 21. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Classic v1.5. |
+|----------------------------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**               |
 |-------------|-----------|---------------|-------------------------------------|

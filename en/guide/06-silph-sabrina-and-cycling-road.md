@@ -26,7 +26,7 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 - Sabrina's Gym
 
-| **DATA CRITERIA** Specific maps, items, and trainers come from the Pokémon Classic v1.5 starter guide. Sabrina's team uses Pokémon Yellow, as the source of the hack only identifies the leader and her TM. |
+| **DATA CRITERIA** Specific maps, items, and trainers come from the Pokémon Classic v1.5 starter guide. Sabrina's exact team and levels come from Pokémon Classic v1.5's internal trainer data. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Route 16
@@ -348,14 +348,15 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 *Interior of Sabrina's Gym.*
 
-| **RECOMMENDED LEVEL CAP** 50. The highest level Pokémon on Pokémon Yellow's team is taken as a reference. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **RECOMMENDED LEVEL CAP** 43. This matches the highest level on Sabrina's Pokémon Classic v1.5 team. |
+|------------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Main hazard** |
 |-------------|-----------|----------|--------------------------------------------------|
-| Abra | 50 | Psychic | Flash and Teleport; does not attack directly |
-| Kadabra | 50 | Psychic | Psychic, Recovery and Kinetic |
-| Alakazam | 50 | Psychic | Very fast; Psychic, Reflection and Recovery |
+| Kadabra | 38 | Psychic | Psybeam, Reflect, Future Sight and Calm Mind |
+| Mr. Mime | 37 | Psychic/Fairy | Barrier, Psybeam, Baton Pass and Calm Mind |
+| Venomoth | 38 | Bug/Poison | Psybeam, Gust, Leech Life and Supersonic |
+| Alakazam | 43 | Psychic | Psychic, Recover, Future Sight and Calm Mind |
 
 ## Gym trainers
 
@@ -371,15 +372,15 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Combat plan
 
-- The three Pokémon have low Physical Defense: use strong physical attacks and neutral type.
+- Strong physical attacks can exploit the lower physical bulk of most of her team.
 
-- Abra is an opportunity to prepare stat boosts or heal, since there is no direct attack in Pokémon Yellow.
+- Do not give Kadabra, Mr. Mime or Alakazam time to stack Calm Mind.
 
-- Kadabra and Alakazam are very fast and hit hard on the special side.
+- Kadabra and Alakazam are fast and hit hard on the special side; paralysis or sleep can control them.
 
-- Avoid Fighting or Poison type Pokémon; They take super effective damage from Psychic.
+- Avoid Fighting- and Poison-type Pokémon, which take super effective damage from Psychic attacks.
 
-- Paralysis, sleep, or a fast attacker help control Alakazam before he uses Reflect and Recovery.
+- Venomoth is not Psychic-type, so use Fire, Flying, Rock or Psychic attacks against it.
 
 | **REWARD** Marsh Badge and TM04 from Pokémon Classic. |
 |----------------------------------------------------------|

@@ -546,14 +546,14 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 *Interior del Gimnasio de Ciudad Azulona.*
 
-| **LEVEL CAP RECOMENDADO** 32. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **LEVEL CAP RECOMENDADO** 29. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Classic v1.5. |
+|----------------------------------------------------------------------------------------------------------------------|
 
-| **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**                |
-|-------------|-----------|---------------|--------------------------------------|
-| Tangela     | 30        | Planta        | Alta Defensa y movimientos de estado |
-| Weepinbell  | 32        | Planta/Veneno | Estados y ataques Planta             |
-| Gloom       | 32        | Planta/Veneno | Somnífero, veneno y resistencia      |
+| **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**                        |
+|-------------|-----------|---------------|----------------------------------------------|
+| Victreebel  | 29        | Planta/Veneno | Paralizador, Polvo Veneno y Gigadrenado      |
+| Tangela     | 24        | Planta        | Polvo Veneno, Arraigo y Gigadrenado          |
+| Vileplume   | 29        | Planta/Veneno | Somnífero, Paralizador y Gigadrenado          |
 
 ## Entrenadores del gimnasio
 

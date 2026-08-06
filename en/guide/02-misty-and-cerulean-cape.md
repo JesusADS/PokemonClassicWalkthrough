@@ -24,7 +24,7 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 - Route 25 and Bill
 
-| **DATA CRITERIA** Specific items, encounters, and events come from the Pokémon Classic v1.5 guide. Misty's gear is taken from Pokémon Yellow, unless the hack indicates a change. |
+| **DATA CRITERIA** Specific items, encounters, and events come from the Pokémon Classic v1.5 guide. Misty's team was checked against the game's internal data. |
 |---|
 
 # Cerulean City
@@ -107,8 +107,8 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 *Interior of Cerulean City's Gym.*
 
-| **RECOMMENDED LEVEL CAP** 21. The highest level Pokémon on Pokémon Yellow's team is taken as a reference. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **RECOMMENDED LEVEL CAP** 21. The highest-level Pokémon on the Pokémon Classic v1.5 team is used as the reference. |
+|---------------------------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Main hazard** |
 |-------------|------------|---------------|-------------------------------------|

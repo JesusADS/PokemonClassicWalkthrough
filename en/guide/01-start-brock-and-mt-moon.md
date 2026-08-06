@@ -367,13 +367,13 @@ Pewter City Gym Interior.
 
 # 🏆Brock
 
-| **RECOMMENDED LEVEL CAP** 12. The highest level Pokémon on Pokémon Yellow's team is taken as a reference. |
-|----------------------------------------------------------------------------------------------------------|
+| **RECOMMENDED LEVEL CAP** 14. The highest-level Pokémon on the Pokémon Classic v1.5 team is used as the reference. |
+|---------------------------------------------------------------------------------------------------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Main hazard** |
 |-------------|------------|---------------|-------------------------------|
-| Geodude | 10 | Rock/Earth | Great physical defense |
-| Onix | 12 | Rock/Earth | High defense and speed at the start |
+| Geodude | 12 | Rock/Ground | High physical Defense and Defense Curl |
+| Onix | 14 | Rock/Ground | Rock Tomb lowers Speed |
 
 ## Gym trainers
 
@@ -386,7 +386,7 @@ Pewter City Gym Interior.
 | Coaches | Camper Liam and Leader Brock |
 | Reward in Pokémon Classic | TM39 |
 | Rematch | Battle for Battle Points in the postgame |
-| Reference used | Pokémon Yellow for Pokémon and levels; Pokémon Classic guide for hack rewards and changes |
+| Reference used | Pokémon Classic v1.5 internal data for the team and levels; hack documentation for rewards |
 
 <table>
 <colgroup>
@@ -395,7 +395,7 @@ Pewter City Gym Interior.
 <thead>
 <tr class="header">
 <th>ℹ Combat reference<br />
-Pokémon Classic's guide does not publish Brock's complete equipment. Since the hack reproduces Pokémon Yellow, this guide uses Geodude Lv as a reference. 10 and Onix Lv. 12. The recommended level cap is 12. Rewards and changes are maintained according to the specific Pokémon Classic documentation.</th>
+The team was checked against Pokémon Classic v1.5's internal data: Geodude Lv. 12 and Onix Lv. 14. The recommended level cap is 14.</th>
 </tr>
 </thead>
 <tbody>
@@ -408,7 +408,7 @@ Pokémon Classic's guide does not publish Brock's complete equipment. Since the 
 
 - Don't rely exclusively on Pikachu: its electric attacks are not a good response against Rock/Ground combinations.
 
-- If you apply a level cap, use Onix level 12 as a reference. It is a value inherited from Pokémon Yellow, not a cap published by the Pokémon Classic documentation.
+- If you apply a level cap, use Onix's level 14 as the reference.
 
 - Save before Brock and take several Potions.
 
@@ -704,7 +704,7 @@ Cerulean City. Volume 2 will continue from this city.
 | Team Rocket on Mt. Moon | Defeated |
 | Fossil | Chosen |
 | Cerulean City | Reached |
-| Brock's exact data | Geodude Lv. 10 and Onix Lv. 12; recommended level cap 12 (reference Pokémon Yellow) |
+| Brock's exact data | Geodude Lv. 12 and Onix Lv. 14; recommended level cap 14 according to Pokémon Classic v1.5 |
 
 <table>
 <colgroup>

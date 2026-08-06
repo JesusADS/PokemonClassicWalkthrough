@@ -28,7 +28,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 - Cueva Diglett
 
-| **CRITERIO DE DATOS** Los objetos, encuentros y eventos específicos proceden de la guía de Pokémon Classic v1.5. El equipo de Lt. Surge se toma de Pokémon Amarillo, salvo que el hack indique un cambio. |
+| **CRITERIO DE DATOS** Los objetos, encuentros y eventos específicos proceden de la guía de Pokémon Classic v1.5. El equipo de Lt. Surge se ha contrastado con los datos internos del juego. |
 |---|
 
 # Rutas 5 y 6
@@ -354,12 +354,14 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes explorar ahora su zona
 
 *Interior del Gimnasio de Ciudad Carmín.*
 
-| **LEVEL CAP RECOMENDADO** 28. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **LEVEL CAP RECOMENDADO** 24. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Classic v1.5. |
+|----------------------------------------------------------------------------------------------------------------------|
 
-| **Pokémon** | **Nivel** | **Tipo**  | **Peligro principal**                  |
-|-------------|-----------|-----------|----------------------------------------|
-| Raichu      | 28        | Eléctrico | Gran velocidad y fuerte daño eléctrico |
+| **Pokémon** | **Nivel** | **Tipo**  | **Peligro principal**                         |
+|-------------|-----------|-----------|-----------------------------------------------|
+| Voltorb     | 21        | Eléctrico | Bomba Sónica, Chirrido y Onda Voltio          |
+| Pikachu     | 18        | Eléctrico | Onda Trueno, Doble Equipo y Onda Voltio       |
+| Raichu      | 24        | Eléctrico | Más resistente; repite la estrategia de Pikachu |
 
 ## Entrenadores del gimnasio
 

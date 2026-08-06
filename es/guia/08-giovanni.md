@@ -22,7 +22,7 @@ Gimnasio • Equipo • Entrenadores • Estrategia • Octava medalla
 
 - Preparación y recompensa
 
-| **CRITERIO DE DATOS** Los entrenadores y recompensas proceden de la guía inicial. El equipo y los niveles de Giovanni se basan en Pokémon Amarillo porque la guía del hack no detalla su plantilla. |
+| **CRITERIO DE DATOS** Los entrenadores y recompensas proceden de la guía inicial. El equipo de Giovanni se ha contrastado con los datos internos de Pokémon Classic v1.5. |
 |---|
 
 # 🏆 GIMNASIO: Giovanni
@@ -31,16 +31,16 @@ Gimnasio • Equipo • Entrenadores • Estrategia • Octava medalla
 
 *Interior del Gimnasio de Giovanni.*
 
-| **LEVEL CAP RECOMENDADO** 55. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Amarillo. |
-|-----------------------------------------------------------------------------------------------------------------|
+| **LEVEL CAP RECOMENDADO** 50. Se toma como referencia el Pokémon de mayor nivel del equipo de Pokémon Classic v1.5. |
+|----------------------------------------------------------------------------------------------------------------------|
 
-| **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**       |
-|-------------|-----------|---------------|-----------------------------|
-| Dugtrio     | 50        | Tierra        | Muy rápido; ataques Tierra  |
-| Persian     | 53        | Normal        | Velocidad y golpes físicos  |
-| Nidoqueen   | 53        | Veneno/Tierra | Cobertura variada           |
-| Nidoking    | 55        | Veneno/Tierra | Ataque y cobertura elevados |
-| Rhydon      | 55        | Tierra/Roca   | Gran Ataque y Defensa       |
+| **Pokémon** | **Nivel** | **Tipo**      | **Peligro principal**                         |
+|-------------|-----------|---------------|-----------------------------------------------|
+| Rhyhorn     | 45        | Tierra/Roca   | Pedrada, Cara Susto y Terremoto               |
+| Dugtrio     | 42        | Tierra        | Muy rápido; Bucle Arena y Terremoto           |
+| Nidoqueen   | 44        | Veneno/Tierra | Golpe Cuerpo, Doble Patada y Terremoto        |
+| Nidoking    | 45        | Veneno/Tierra | Golpe, Doble Patada y Terremoto               |
+| Rhyhorn     | 50        | Tierra/Roca   | Segundo Rhyhorn y Pokémon de mayor nivel      |
 
 ## Entrenadores del gimnasio
 
@@ -54,19 +54,18 @@ Gimnasio • Equipo • Entrenadores • Estrategia • Octava medalla
 | Rocker Jason        | Gimnasio       | Rhyhorn Nv. 43 |
 | Cooltrainer Warren  | Gimnasio       | Marowak Nv. 37 · Marowak Nv. 37 · Rhyhorn Nv. 38 · Nidorina Nv. 39 · Nidoqueen Nv. 39 |
 | Black Belt Takashi  | Gimnasio       | Machoke Nv. 38 · Machop Nv. 38 · Machoke Nv. 38 |
-| Gym Leader Giovanni | Combate final  | Rhyhorn Nv. 45 · Dugtrio Nv. 42 · Nidoqueen Nv. 44 · Nidoking Nv. 45 · Rhyhorn Nv. 50 |
 
 ## Plan de combate
 
 - Agua y Hielo cubren casi todo su equipo; Lapras es especialmente útil.
 
-- Planta funciona contra Dugtrio y Rhydon, pero Nidoqueen y Nidoking pueden tener cobertura peligrosa.
+- Planta funciona contra Dugtrio y los dos Rhyhorn, pero Nidoqueen y Nidoking pueden tener cobertura peligrosa.
 
-- Persian no comparte la debilidad a Agua: usa un atacante físico resistente o movimientos de tipo Lucha.
+- Los cinco miembros comparten debilidad a Agua; aprovecha Surf para mantener la presión durante todo el combate.
 
-- Rhydon tiene una debilidad cuádruple a Agua y Planta; derríbalo rápidamente.
+- Los dos Rhyhorn tienen una debilidad cuádruple a Agua y Planta; derríbalos rápidamente.
 
-- Mantén al equipo alrededor del nivel 55 si respetas el cap de Pokémon Amarillo.
+- Mantén al equipo alrededor del nivel 50 si respetas el cap de Pokémon Classic v1.5.
 
 | **RECOMPENSA** Medalla Tierra, MT26 y Macho Brace en la posición donde estaba Giovanni. |
 |-----------------------------------------------------------------------------------------|
