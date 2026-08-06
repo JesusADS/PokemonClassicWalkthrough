@@ -358,6 +358,18 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Kadabra     | 50        | Psíquico | Psíquico, Recuperación y Cinético                |
 | Alakazam    | 50        | Psíquico | Muy rápido; Psíquico, Reflejo y Recuperación     |
 
+## Entrenadores del gimnasio
+
+| **Entrenador** | **Equipo** |
+|---|---|
+| Psychic Johan | Kadabra Nv. 31 · Slowpoke Nv. 31 · Mr. Mime Nv. 31 · Kadabra Nv. 31 |
+| Psychic Tyron | Mr. Mime Nv. 34 · Kadabra Nv. 34 |
+| Psychic Cameron | Slowpoke Nv. 33 · Slowpoke Nv. 33 · Slowbro Nv. 33 |
+| Psychic Preston | Slowbro Nv. 38 |
+| Channeler Amanda | Gastly Nv. 34 · Haunter Nv. 34 |
+| Channeler Stacy | Haunter Nv. 38 |
+| Channeler Tasha | Gastly Nv. 33 · Gastly Nv. 33 · Haunter Nv. 33 |
+
 ## Plan de combate
 
 - Los tres Pokémon tienen Defensa física baja: utiliza ataques físicos fuertes y de tipo neutral.

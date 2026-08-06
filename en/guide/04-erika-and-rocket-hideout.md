@@ -553,6 +553,18 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 | Weepinbell | 32 | Plant/Poison | States and attacks Plant |
 | Gloom | 32 | Plant/Poison | Sleeping pill, poison and resistance |
 
+## Gym trainers
+
+| **Trainer** | **Team** |
+|---|---|
+| Lass Lisa | Oddish Lv. 23 · Gloom Lv. 23 |
+| Lass Kay | Bellsprout Lv. 23 · Weepinbell Lv. 23 |
+| Picnicker Tina | Bulbasaur Lv. 24 · Ivysaur Lv. 24 |
+| Beauty Bridget | Oddish Lv. 21 · Bellsprout Lv. 21 · Oddish Lv. 21 · Bellsprout Lv. 21 |
+| Beauty Tamia | Bellsprout Lv. 24 · Bellsprout Lv. 24 |
+| Beauty Lori | Exeggcute Lv. 24 |
+| Cooltrainer Mary | Bellsprout Lv. 22 · Oddish Lv. 22 · Weepinbell Lv. 22 · Gloom Lv. 22 · Ivysaur Lv. 22 |
+
 ## Combat plan
 
 - Charmander/Charmeleon, Growlithe/Arcanine or Vulpix/Ninetales make combat much easier.
@@ -563,7 +575,7 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 - Avoid relying on Water, Earth or Plant attacks.
 
-- Defeat the six gym trainers to gain experience before Erika.
+- Defeat the seven gym trainers to gain experience before Erika.
 
 | **REWARD** Rainbow Badge and TM19 from Pokémon Classic. |
 |---------------------------------------------------------------|

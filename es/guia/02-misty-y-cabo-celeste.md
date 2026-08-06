@@ -115,6 +115,13 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 | Staryu      | 18        | Agua          | Velocidad y ataques de Agua         |
 | Starmie     | 21        | Agua/Psíquico | Muy rápido y con estadísticas altas |
 
+## Entrenadores del gimnasio
+
+| **Entrenador** | **Equipo** |
+|---|---|
+| Picnicker Diana | Goldeen Nv. 19 |
+| Swimmer Luis | Horsea Nv. 16 · Shellder Nv. 16 |
+
 ## Plan de combate
 
 - Pikachu es la respuesta natural, pero evita llegar varios niveles por debajo de Starmie.

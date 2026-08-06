@@ -357,6 +357,18 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 | Kadabra | 50 | Psychic | Psychic, Recovery and Kinetic |
 | Alakazam | 50 | Psychic | Very fast; Psychic, Reflection and Recovery |
 
+## Gym trainers
+
+| **Trainer** | **Team** |
+|---|---|
+| Psychic Johan | Kadabra Lv. 31 · Slowpoke Lv. 31 · Mr. Mime Lv. 31 · Kadabra Lv. 31 |
+| Psychic Tyron | Mr. Mime Lv. 34 · Kadabra Lv. 34 |
+| Psychic Cameron | Slowpoke Lv. 33 · Slowpoke Lv. 33 · Slowbro Lv. 33 |
+| Psychic Preston | Slowbro Lv. 38 |
+| Channeler Amanda | Gastly Lv. 34 · Haunter Lv. 34 |
+| Channeler Stacy | Haunter Lv. 38 |
+| Channeler Tasha | Gastly Lv. 33 · Gastly Lv. 33 · Haunter Lv. 33 |
+
 ## Combat plan
 
 - The three Pokémon have low Physical Defense: use strong physical attacks and neutral type.

@@ -360,6 +360,14 @@ Route 11 is located east of Vermilion City. You can explore its land area now an
 |-------------|-----------|-----------|----------------------------------------|
 | Raichu | 28 | Electric | High speed and strong electrical damage |
 
+## Gym trainers
+
+| **Trainer** | **Team** |
+|---|---|
+| Sailor Dwayne | Pikachu Lv. 21 · Pikachu Lv. 21 |
+| Engineer Baily | Voltorb Lv. 21 · Magnemite Lv. 21 |
+| Gentleman Tucker | Pikachu Lv. 23 |
+
 ## Combat plan
 
 - Capture Diglett or Dugtrio in the nearby cave: the Ground type is immune to Electric attacks.

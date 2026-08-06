@@ -533,6 +533,17 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 | Venonat | 48 | Bug/Poison | Psychic and Sleeping Aid |
 | Venomoth | 50 | Bug/Poison | Psychic, Toxic and Double Team |
 
+## Gym trainers
+
+| **Trainer** | **Team** |
+|---|---|
+| Tamer Phil | Sandslash Lv. 34 · Arbok Lv. 34 |
+| Tamer Edgar | Arbok Lv. 33 · Sandslash Lv. 33 · Arbok Lv. 33 |
+| Juggler Kayden | Hypno Lv. 38 |
+| Juggler Nate | Drowzee Lv. 34 · Kadabra Lv. 34 |
+| Juggler Kirk | Drowzee Lv. 31 · Drowzee Lv. 31 · Kadabra Lv. 31 · Drowzee Lv. 31 |
+| Juggler Shawn | Drowzee Lv. 34 · Hypno Lv. 34 |
+
 ## Combat plan
 
 - The level jump is big: prepare the team around level 50 if you respect Pokémon Yellow's cap.

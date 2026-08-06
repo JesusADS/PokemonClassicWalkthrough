@@ -555,6 +555,18 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 | Weepinbell  | 32        | Planta/Veneno | Estados y ataques Planta             |
 | Gloom       | 32        | Planta/Veneno | Somnífero, veneno y resistencia      |
 
+## Entrenadores del gimnasio
+
+| **Entrenador** | **Equipo** |
+|---|---|
+| Lass Lisa | Oddish Nv. 23 · Gloom Nv. 23 |
+| Lass Kay | Bellsprout Nv. 23 · Weepinbell Nv. 23 |
+| Picnicker Tina | Bulbasaur Nv. 24 · Ivysaur Nv. 24 |
+| Beauty Bridget | Oddish Nv. 21 · Bellsprout Nv. 21 · Oddish Nv. 21 · Bellsprout Nv. 21 |
+| Beauty Tamia | Bellsprout Nv. 24 · Bellsprout Nv. 24 |
+| Beauty Lori | Exeggcute Nv. 24 |
+| Cooltrainer Mary | Bellsprout Nv. 22 · Oddish Nv. 22 · Weepinbell Nv. 22 · Gloom Nv. 22 · Ivysaur Nv. 22 |
+
 ## Plan de combate
 
 - Charmander/Charmeleon, Growlithe/Arcanine o Vulpix/Ninetales facilitan mucho el combate.
@@ -565,7 +577,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 - Evita depender de ataques de Agua, Tierra o Planta.
 
-- Derrota a las seis entrenadoras del gimnasio para ganar experiencia antes de Erika.
+- Derrota a las siete entrenadoras del gimnasio para ganar experiencia antes de Erika.
 
 | **RECOMPENSA** Medalla Arcoíris y MT19 de Pokémon Classic. |
 |------------------------------------------------------------|

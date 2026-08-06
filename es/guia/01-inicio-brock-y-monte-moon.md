@@ -376,6 +376,12 @@ Interior del Gimnasio de Ciudad Plateada.
 | Geodude     | 10        | Roca/Tierra   | Gran Defensa física                  |
 | Onix        | 12        | Roca/Tierra   | Defensa y velocidad elevadas al inicio |
 
+## Entrenadores del gimnasio
+
+| **Entrenador** | **Equipo** |
+|---|---|
+| Camper Liam | Geodude Nv. 10 · Sandshrew Nv. 11 |
+
 | **Dato**                     | **Información**                                                                                      |
 |------------------------------|------------------------------------------------------------------------------------------------------|
 | Entrenadores                 | Camper Liam y Líder Brock                                                                            |

@@ -375,6 +375,12 @@ Pewter City Gym Interior.
 | Geodude | 10 | Rock/Earth | Great physical defense |
 | Onix | 12 | Rock/Earth | High defense and speed at the start |
 
+## Gym trainers
+
+| **Trainer** | **Team** |
+|---|---|
+| Camper Liam | Geodude Lv. 10 · Sandshrew Lv. 11 |
+
 | **Data** | **Information** |
 |----------------------------------|-----------------------------------------------------------------------------------------------------|
 | Coaches | Camper Liam and Leader Brock |

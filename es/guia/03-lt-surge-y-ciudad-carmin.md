@@ -361,6 +361,14 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes explorar ahora su zona
 |-------------|-----------|-----------|----------------------------------------|
 | Raichu      | 28        | Eléctrico | Gran velocidad y fuerte daño eléctrico |
 
+## Entrenadores del gimnasio
+
+| **Entrenador** | **Equipo** |
+|---|---|
+| Sailor Dwayne | Pikachu Nv. 21 · Pikachu Nv. 21 |
+| Engineer Baily | Voltorb Nv. 21 · Magnemite Nv. 21 |
+| Gentleman Tucker | Pikachu Nv. 23 |
+
 ## Plan de combate
 
 - Captura Diglett o Dugtrio en la cueva cercana: el tipo Tierra es inmune a los ataques Eléctricos.

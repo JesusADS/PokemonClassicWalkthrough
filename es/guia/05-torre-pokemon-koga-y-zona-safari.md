@@ -535,6 +535,17 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 | Venonat     | 48        | Bicho/Veneno | Psíquico y Somnífero            |
 | Venomoth    | 50        | Bicho/Veneno | Psíquico, Tóxico y Doble Equipo |
 
+## Entrenadores del gimnasio
+
+| **Entrenador** | **Equipo** |
+|---|---|
+| Tamer Phil | Sandslash Nv. 34 · Arbok Nv. 34 |
+| Tamer Edgar | Arbok Nv. 33 · Sandslash Nv. 33 · Arbok Nv. 33 |
+| Juggler Kayden | Hypno Nv. 38 |
+| Juggler Nate | Drowzee Nv. 34 · Kadabra Nv. 34 |
+| Juggler Kirk | Drowzee Nv. 31 · Drowzee Nv. 31 · Kadabra Nv. 31 · Drowzee Nv. 31 |
+| Juggler Shawn | Drowzee Nv. 34 · Hypno Nv. 34 |
+
 ## Plan de combate
 
 - El salto de nivel es grande: prepara al equipo cerca del nivel 50 si respetas el cap de Pokémon Amarillo.

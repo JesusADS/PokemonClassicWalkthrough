@@ -115,6 +115,13 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 | Staryu | 18 | Water | Speed ​​and Water attacks |
 | Starmie | 21 | Water/Psychic | Very fast and with high statistics |
 
+## Gym trainers
+
+| **Trainer** | **Team** |
+|---|---|
+| Picnicker Diana | Goldeen Lv. 19 |
+| Swimmer Luis | Horsea Lv. 16 · Shellder Lv. 16 |
+
 ## Combat plan
 
 - Pikachu is the natural response, but avoid going several levels below Starmie.
