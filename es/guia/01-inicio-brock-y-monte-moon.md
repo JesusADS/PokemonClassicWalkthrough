@@ -206,7 +206,7 @@ Ruta 22, al oeste de Ciudad Verde.
 
 **3.** Captura Nidoran♂ o Nidoran♀ si te interesa entrenar una evolución con gran cobertura durante toda la aventura.
 
-**4.** Cura y guarda antes de aproximarte a la zona del rival. La guía fuente no detalla los equipos, así que conviene entrar con varios Pokémon entrenados.
+**4.** Cura y guarda antes de aproximarte a la zona del rival. En la primera visita combate con Spearow Nv. 9 y Eevee Nv. 8.
 
 **5.** Tras explorar y combatir, regresa a Ciudad Verde; la Liga permanece bloqueada para esta fase.
 
@@ -218,19 +218,15 @@ Ruta 22, al oeste de Ciudad Verde.
 | Spearow     | 10 % de día              | Atacante volador temprano              |
 | Rattata     | 1-4 % día / 1-10 % noche | Prescindible si ya tienes alternativas |
 
-<table>
-<colgroup>
-<col style="max-width:100%;height:auto" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>⚠ Datos no publicados</strong></p>
-<p>La guía fuente solo identifica “Rival Optional” y “Rival Mandatory”; no incluye niveles, movimientos ni composición. Esta edición no los inventa.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+## Combate contra el rival · primera visita
+
+| Pokémon | Nivel | Tipo | Peligro principal |
+|---|---:|---|---|
+| Spearow | 9 | Normal/Volador | Velocidad y presión temprana con ataques de tipo Volador |
+| Eevee | 8 | Normal | Daño neutral consistente para este punto de la aventura |
+
+> [!NOTE]
+> El segundo combate registrado en esta ruta como `Rival Mandatory` continúa pendiente de verificación.
 
 - [ ] Capturaste al menos una respuesta para Brock.
 

@@ -205,7 +205,7 @@ Route 22, west of Viridian City.
 
 **3.** Capture Nidoran♂ or Nidoran♀ if you are interested in training an evolution with great coverage throughout the adventure.
 
-**4.** Heal and save before approaching the opponent's area. The source guide does not detail the teams, so it is advisable to enter with several trained Pokémon.
+**4.** Heal and save before approaching the rival's area. On the first visit, the rival uses a level 9 Spearow and a level 8 Eevee.
 
 **5.** After exploring and fighting, return to Viridian City; The League remains blocked for this phase.
 
@@ -217,19 +217,15 @@ Route 22, west of Viridian City.
 | Spearow | 10% day | Early Flying Attacker |
 | Rattata | 1-4% day / 1-10% night | Essential if you already have alternatives |
 
-<table>
-<colgroup>
-<col style="max-width:100%;height:auto" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>⚠ Unpublished data</strong></p>
-<p>The source guide only identifies “Rival Optional” and “Rival Mandatory”; It does not include levels, movements or composition. This edition does not invent them.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+## Rival battle · first visit
+
+| Pokémon | Level | Type | Main threat |
+|---|---:|---|---|
+| Spearow | 9 | Normal/Flying | Speed and early pressure from Flying-type attacks |
+| Eevee | 8 | Normal | Consistent neutral damage at this point in the adventure |
+
+> [!NOTE]
+> The second battle listed on this route as `Rival Mandatory` still requires verification.
 
 - [ ] You captured at least one response for Brock.
 
