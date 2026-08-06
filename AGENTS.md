@@ -13,9 +13,10 @@ Before changing content, read `README.md`, `NOTICE.md`, and the relevant files i
 
 ## Sources and factual accuracy
 
-The primary source is *Pokémon Classic v1.5 Player Help*. *Pokémon Yellow* is used only when the hack documentation does not specify a Gym Leader team or level.
+The primary source is *Pokémon Classic v1.5 Player Help*. For exact Trainer teams, levels, and moves omitted by that document, use the matching Pokémon Classic v1.5 internal trainer data from `DaniRainbow/pokeclassic`, especially `src/data/trainer_parties.h`. Use *Pokémon Yellow* only when neither Classic source provides the data.
 
 - Prefer documented Pokémon Classic data over inherited Pokémon Yellow data.
+- Treat Pokémon Classic v1.5 internal trainer data as authoritative over Pokémon Yellow for Trainer rosters, levels, and moves.
 - Clearly distinguish confirmed hack data, inherited reference data, and editorial recommendations.
 - Do not invent teams, levels, moves, items, encounters, events, or rewards.
 - Mark undocumented information as pending in-game verification.
@@ -48,6 +49,13 @@ Keep the existing twelve-volume organization and one Gym Leader per volume. Pres
 8. departure checklist;
 9. final navigation.
 
+## Gym and boss consistency
+
+- Keep the Gym Leader's exact team in the main boss table.
+- Keep the Gym Trainer table limited to the other Trainers; do not duplicate the leader there.
+- When a leader team or level cap changes, update both language volumes, the combat advice and source note, `es/INDICES-DE-CONSULTA.md`, and `en/REFERENCE-INDEXES.md`.
+- Search the repository for the previous team members and cap values so stale references do not survive elsewhere.
+
 ## Markdown conventions
 
 - Keep Markdown compatible with GitHub rendering.
@@ -74,6 +82,7 @@ Before handing off a change:
 - verify local Markdown links and image paths in `README.md`, `NOTICE.md`, `es/`, and `en/`;
 - check previous/index/next and language-switch navigation;
 - compare image and table counts between equivalent volumes when structure changes;
+- when Gym data changes, verify that the leader appears once, the secondary Trainer tables remain bilingual, and both reference indexes use the same cap;
 - search English files for malformed list markers with `rg -n "^-[^-\\s]" en --glob "*.md"`;
 - search for accidental local paths and untranslated Spanish terminology where relevant.
 
