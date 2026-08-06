@@ -68,10 +68,10 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**                               | **Zona / referencia** |
-|----------------------------------------------|-----------------------|
-| School Kids Lea y Jed                        | Combate doble         |
-| Biker Lao, Koji, Hideo, Luke, Ruben y Camron | Tramo principal       |
+| **Entrenador**                               | **Zona / referencia** | **Equipo** |
+|----------------------------------------------|-----------------------|---|
+| School Kids Lea y Jed                        | Combate doble         | Rapidash Nv. 29 · Ninetales Nv. 29 |
+| Biker Lao, Koji, Hideo, Luke, Ruben y Camron | Tramo principal       | **Hideo:** Arbok Nv. 33<br>**Luke:** Mankey Nv. 29 · Machop Nv. 29<br>**Camron:** Mankey Nv. 29 · Machop Nv. 29<br>**Lao:** Grimer Nv. 29 · Koffing Nv. 29<br>**Ruben:** Weezing Nv. 28 · Koffing Nv. 28 · Weezing Nv. 28<br>**Koji:** Machop Nv. 28 · Mankey Nv. 28 · Machop Nv. 28 |
 
 ## ⚠ Antes de continuar
 
@@ -121,10 +121,10 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**                              | **Zona / referencia** |
-|---------------------------------------------|-----------------------|
-| Biker Isaiah, Virgil, Raul, Billy y Nikolas | Mitad norte           |
-| Biker Jamal, Zeek, Corey, Jaxon y William   | Mitad sur             |
+| **Entrenador**                              | **Zona / referencia** | **Equipo** |
+|---------------------------------------------|-----------------------|---|
+| Biker Isaiah, Virgil, Raul, Billy y Nikolas | Mitad norte           | **Nikolas:** Voltorb Nv. 29 · Voltorb Nv. 29<br>**Raul:** Mankey Nv. 29 · Primeape Nv. 29<br>**Virgil:** Weezing Nv. 28 · Koffing Nv. 28 · Weezing Nv. 28<br>**Billy:** Muk Nv. 33<br>**Isaiah:** Machop Nv. 29 · Machamp Nv. 29 |
+| Biker Jamal, Zeek, Corey, Jaxon y William   | Mitad sur             | **Jaxon:** Weezing Nv. 29 · Muk Nv. 29<br>**Zeek:** Machoke Nv. 33<br>**William:** Koffing Nv. 25 · Weezing Nv. 25 · Koffing Nv. 25 · Koffing Nv. 25 · Weezing Nv. 25<br>**Corey:** Primeape Nv. 29 · Machoke Nv. 29<br>**Jamal:** Mankey Nv. 26 · Mankey Nv. 26 · Machamp Nv. 26 · Machop Nv. 26 |
 
 | **DEXNAV** La guía original advierte que el DexNAV no funciona en la Ruta Ciclista. |
 |-------------------------------------------------------------------------------------|
@@ -165,11 +165,11 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**    | **Zona / referencia** |
-|-------------------|-----------------------|
-| Birdkeeper Wilton | Ruta 18               |
-| Birdkeeper Jacob  | Ruta 18               |
-| Birdkeeper Ramiro | Ruta 18               |
+| **Entrenador**    | **Zona / referencia** | **Equipo** |
+|-------------------|-----------------------|---|
+| Birdkeeper Wilton | Ruta 18               | Spearow Nv. 29 · Fearow Nv. 29 |
+| Birdkeeper Jacob  | Ruta 18               | Spearow Nv. 26 · Spearow Nv. 26 · Fearow Nv. 26 · Spearow Nv. 26 |
+| Birdkeeper Ramiro | Ruta 18               | Dodrio Nv. 34 |
 
 ## ⚠ Antes de continuar
 
@@ -313,19 +313,19 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**                            | **Zona / referencia** |
-|-------------------------------------------|-----------------------|
-| Rocket Grunt ×2                           | 2F                    |
-| Scientist Jerry y Connor                  | 2F                    |
-| Rocket Grunt y Scientist Jose             | 3F                    |
-| Rocket Grunt ×2 y Scientist Rodney        | 4F                    |
-| Rocket Grunt ×3 y Scientist Beau          | 5F                    |
-| Rocket Grunt ×2 y Scientist Taylor        | 6F                    |
-| Rocket Grunt ×5, Rival y Scientist Joshua | 7F                    |
-| Rocket Grunt ×2 y Scientist Parker        | 8F                    |
-| Rocket Grunt ×2 y Scientist Ed            | 9F                    |
-| Rocket Grunt y Scientist Travis           | 10F                   |
-| Rocket Grunt ×2, Jessie y James, Giovanni | 11F                   |
+| **Entrenador**                            | **Zona / referencia** | **Equipo** |
+|-------------------------------------------|-----------------------|---|
+| Rocket Grunt ×2                           | 2F                    | **Recluta 1:** Cubone Nv. 29 · Zubat Nv. 29<br>**Recluta 2:** Golbat Nv. 25 · Zubat Nv. 25 · Zubat Nv. 25 · Raticate Nv. 25 · Zubat Nv. 25 |
+| Scientist Jerry y Connor                  | 2F                    | **Connor:** Grimer Nv. 26 · Weezing Nv. 26 · Koffing Nv. 26 · Weezing Nv. 26<br>**Jerry:** Magnemite Nv. 28 · Voltorb Nv. 28 · Magneton Nv. 28 |
+| Rocket Grunt y Scientist Jose             | 3F                    | **Recluta 1:** Raticate Nv. 28 · Hypno Nv. 28 · Raticate Nv. 28<br>**Jose:** Electrode Nv. 29 · Weezing Nv. 29 |
+| Rocket Grunt ×2 y Scientist Rodney        | 4F                    | **Recluta 1:** Machop Nv. 29 · Drowzee Nv. 29<br>**Recluta 2:** Ekans Nv. 28 · Zubat Nv. 28 · Cubone Nv. 28<br>**Rodney:** Electrode Nv. 33 |
+| Rocket Grunt ×3 y Scientist Beau          | 5F                    | **Recluta 1:** Arbok Nv. 33<br>**Recluta 2:** Hypno Nv. 33<br>**Recluta 3:** Machop Nv. 29 · Machoke Nv. 29<br>**Beau:** Magneton Nv. 26 · Koffing Nv. 26 · Weezing Nv. 26 · Magnemite Nv. 26 |
+| Rocket Grunt ×2 y Scientist Taylor        | 6F                    | **Recluta 1:** Zubat Nv. 28 · Zubat Nv. 28 · Golbat Nv. 28<br>**Recluta 2:** Raticate Nv. 26 · Arbok Nv. 26 · Koffing Nv. 26 · Golbat Nv. 26<br>**Taylor:** Voltorb Nv. 25 · Koffing Nv. 25 · Magneton Nv. 25 · Magnemite Nv. 25 · Koffing Nv. 25 |
+| Rocket Grunt ×4, Rival y Scientist Joshua | 7F                    | **Recluta 1:** Cubone Nv. 29 · Cubone Nv. 29<br>**Recluta 2:** Sandshrew Nv. 29 · Sandslash Nv. 29<br>**Recluta 3:** Raticate Nv. 26 · Zubat Nv. 26 · Golbat Nv. 26 · Rattata Nv. 26<br>**Recluta 4:** Weezing Nv. 28 · Golbat Nv. 28 · Koffing Nv. 28<br>**Joshua:** Electrode Nv. 29 · Muk Nv. 29<br>**Jolteon:** Sandslash Nv. 38 · Ninetales Nv. 35 · Cloyster Nv. 37 · Kadabra Nv. 35 · Jolteon Nv. 40<br>**Flareon:** Sandslash Nv. 38 · Magneton Nv. 37 · Cloyster Nv. 37 · Kadabra Nv. 35 · Flareon Nv. 40<br>**Vaporeon:** Sandslash Nv. 38 · Ninetales Nv. 37 · Magneton Nv. 35 · Kadabra Nv. 35 · Vaporeon Nv. 40 |
+| Rocket Grunt ×2 y Scientist Parker        | 8F                    | **Recluta 1:** Drowzee Nv. 28 · Grimer Nv. 28 · Machop Nv. 28<br>**Recluta 2:** Golbat Nv. 28 · Drowzee Nv. 28 · Hypno Nv. 28<br>**Parker:** Grimer Nv. 29 · Electrode Nv. 29 |
+| Rocket Grunt ×2 y Scientist Ed            | 9F                    | **Recluta 1:** Machoke Nv. 33<br>**Recluta 2:** Rattata Nv. 25 · Rattata Nv. 25 · Zubat Nv. 25 · Rattata Nv. 25 · Ekans Nv. 25<br>**Ed:** Voltorb Nv. 28 · Koffing Nv. 28 · Magneton Nv. 28 |
+| Rocket Grunt y Scientist Travis           | 10F                   | **Recluta 1:** Cubone Nv. 32 · Drowzee Nv. 32 · Marowak Nv. 32<br>**Travis:** Magnemite Nv. 29 · Koffing Nv. 29 |
+| Jessie y James y Giovanni | 11F                   | **Jessie y James:** Koffing Nv. 35 · Ekans Nv. 35 · Meowth Nv. 37 · Lickitung Nv. 37<br>**Giovanni:** Nidorino Nv. 37 · Kangaskhan Nv. 35 · Rhyhorn Nv. 37 · Nidoqueen Nv. 41 |
 
 | **OBJETO CRÍTICO** No abandones la planta 5 sin la Llave Magnética. |
 |---------------------------------------------------------------------|

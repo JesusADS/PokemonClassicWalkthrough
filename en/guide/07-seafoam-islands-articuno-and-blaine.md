@@ -80,19 +80,19 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|-------------------------|------------------------|
-| Tuber Richie | North zone |
-| Tuber Lizzie | North zone |
-| Swimmer Tony | Initial section |
-| Swimmer David | Central section |
-| Swimmer Douglas | Central section |
-| Swimmer Matthew | Central section |
-| Swimmer Lia and Tuber Luc | Double combat |
-| Swimmer Alice | Southern section |
-| Swimmer Connie | Southern section |
-| Swimmer Axle | Final section |
-| Swimmer Anya | Final section |
+| **Coach** | **Zone / reference** | **Team** |
+|-------------------------|------------------------|---|
+| Tuber Richie | North zone | Tentacool Lv. 30 · Shellder Lv. 30 |
+| Tuber Lizzie | North zone | Goldeen Lv. 29 · Horsea Lv. 29 · Staryu Lv. 29 |
+| Swimmer Tony | Initial section | Horsea Lv. 30 · Horsea Lv. 30 |
+| Swimmer David | Central section | Goldeen Lv. 29 · Shellder Lv. 29 · Seaking Lv. 29 |
+| Swimmer Douglas | Central section | Horsea Lv. 27 · Tentacool Lv. 27 · Tentacool Lv. 27 · Goldeen Lv. 27 |
+| Swimmer Matthew | Central section | Poliwag Lv. 30 · Poliwhirl Lv. 30 |
+| Swimmer Lia and Tuber Luc | Double combat | Goldeen Lv. 30 · Seaking Lv. 30 |
+| Swimmer Alice | Southern section | Goldeen Lv. 30 · Seaking Lv. 30 |
+| Swimmer Connie | Southern section | Staryu Lv. 29 · Staryu Lv. 29 · Staryu Lv. 29 |
+| Swimmer Axle | Final section | Tentacool Lv. 27 · Tentacool Lv. 27 · Staryu Lv. 27 · Horsea Lv. 27 · Tentacruel Lv. 27 |
+| Swimmer Anya | Final section | Poliwag Lv. 27 · Goldeen Lv. 27 · Seaking Lv. 27 · Goldeen Lv. 27 · Poliwag Lv. 27 |
 
 ## ⚠ Before continuing
 
@@ -152,22 +152,22 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 | Slowbronite | Postgame, after the second Champion | Postgame |
 
 ## Trainers
-| **Coach** | **Zone / reference** |
-|---------------------------------------|-----------------------|
-| Swimmer Barry | Eastern section |
-| Swimmer Darrin | Eastern section |
-| Swimmer Shirley | Eastern section |
-| Camper (name pending in source) | Central island |
-| Camper Irene | Central island |
-| Swimmer Tiffany | Central section |
-| Dragon Tamer Roger | Central section |
-| Swimmer Nora | Western section |
-| Swimmer Dean | Western section |
-| Picnicker Missy | Western Islet |
-| Swimmer Melissa | End of the route |
+| **Coach** | **Zone / reference** | **Team** |
+|---------------------------------------|-----------------------|---|
+| Swimmer Barry | Eastern section | Shellder Lv. 31 · Cloyster Lv. 31 |
+| Swimmer Darrin | Eastern section | Horsea Lv. 28 · Horsea Lv. 28 · Seadra Lv. 28 · Horsea Lv. 28 |
+| Swimmer Shirley | Eastern section | Seadra Lv. 30 · Horsea Lv. 30 · Seadra Lv. 30 |
+| Camper (name pending in source) | Central island | Not listed as a battle in the v1.5 data. |
+| Camper Irene | Central island | Tentacool Lv. 30 · Horsea Lv. 30 · Seel Lv. 30 |
+| Swimmer Tiffany | Central section | Seaking Lv. 35 |
+| Dragon Tamer Roger | Central section | Gyarados Lv. 30 · Gyarados Lv. 30 · Gyarados Lv. 30 |
+| Swimmer Nora | Western section | Shellder Lv. 30 · Shellder Lv. 30 · Cloyster Lv. 30 |
+| Swimmer Dean | Western section | Staryu Lv. 35 |
+| Picnicker Missy | Western Islet | Goldeen Lv. 31 · Seaking Lv. 31 |
+| Swimmer Melissa | End of the route | Poliwag Lv. 31 · Seaking Lv. 31 |
 
-| **SOURCE NOTE** One of the coaches appears as “Camper Camper” in the original guide; uncertainty is preserved instead of inventing a name. |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **SOURCE NOTE** The original guide shows “Camper Camper”, but the v1.5 Trainer data contains no matching battle. No name or team is invented. |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## ⚠ Before continuing
 
@@ -255,9 +255,9 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|--------------------|-----------------------|
-| Black Belt Michael | Cave interior |
+| **Coach** | **Zone / reference** | **Team** |
+|--------------------|-----------------------|---|
+| Black Belt Michael | Cave interior | Pikachu Lv. 50 · Rapidash Lv. 50 · Arcanine Lv. 50 · Charizard Lv. 50 · Ninetales Lv. 55 |
 
 | **BEFORE ARTICUNO** Save the game and carry Ultra Ball, heals and a status move. Articuno can be a decisive piece against Lance. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -335,9 +335,9 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|----------------|-----------------------|
-| Gambler Ryan | Cinnabar Island |
+| **Coach** | **Zone / reference** | **Team** |
+|----------------|-----------------------|---|
+| Gambler Ryan | Cinnabar Island | Venomoth Lv. 36 · Tentacool Lv. 32 · Weepinbell Lv. 32 · Koffing Lv. 32 · Zubat Lv. 32 · Gengar Lv. 42 |
 
 ## ⚠ Before continuing
 
@@ -413,15 +413,15 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|-------------------|-----------------------|
-| Youngster Johnson | 1F |
-| Scientist Ted | 1F |
-| Burglar Arnie | 2F |
-| Burglar Simon | 3F |
-| Scientist Braydon | 3F |
-| Burglar Lewis | B1F |
-| Scientist Ivan | B1F |
+| **Coach** | **Zone / reference** | **Team** |
+|-------------------|-----------------------|---|
+| Youngster Johnson | 1F | Ekans Lv. 33 · Ekans Lv. 33 · Raticate Lv. 34 |
+| Scientist Ted | 1F | Electrode Lv. 29 · Weezing Lv. 29 |
+| Burglar Arnie | 2F | Charmander Lv. 34 · Charmeleon Lv. 34 |
+| Burglar Simon | 3F | Ninetales Lv. 38 |
+| Scientist Braydon | 3F | Magnemite Lv. 33 · Magneton Lv. 33 · Voltorb Lv. 33 |
+| Burglar Lewis | B1F | Growlithe Lv. 34 · Ponyta Lv. 34 |
+| Scientist Ivan | B1F | Magnemite Lv. 34 · Electrode Lv. 34 |
 
 | **KEY ITEMS** Don't leave without checking B1F: TM14, TM22, and the Old Sea Map are there. |
 |---------------------------------------------------------------------------------------------|
@@ -453,16 +453,16 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 ## Gym trainers
 
-| **Coach** | **Reference** |
-|-------------------|------------------------|
-| Burglar Quinn | Initial room |
-| Scientist Erik | Gym tour |
-| Scientist Avery | Gym tour |
-| Burglar Ramon | Gym tour |
-| Scientist Derek | Gym tour |
-| Burglar Dusty | Gym tour |
-| Scientist Zac | Before Blaine |
-| Gym Leader Blaine | Final combat |
+| **Coach** | **Reference** | **Team** |
+|-------------------|------------------------|---|
+| Burglar Quinn | Initial room | Growlithe Lv. 36 · Vulpix Lv. 36 · Ninetales Lv. 36 |
+| Scientist Erik | Gym tour | Vulpix Lv. 36 · Vulpix Lv. 36 · Ninetales Lv. 36 |
+| Scientist Avery | Gym tour | Ponyta Lv. 34 · Charmander Lv. 34 · Vulpix Lv. 34 · Growlithe Lv. 34 |
+| Burglar Ramon | Gym tour | Ponyta Lv. 41 |
+| Scientist Derek | Gym tour | Rapidash Lv. 41 |
+| Burglar Dusty | Gym tour | Vulpix Lv. 37 · Growlithe Lv. 37 |
+| Scientist Zac | Before Blaine | Growlithe Lv. 37 · Vulpix Lv. 37 |
+| Gym Leader Blaine | Final combat | Growlithe Lv. 42 · Ponyta Lv. 40 · Rapidash Lv. 42 · Arcanine Lv. 47 |
 
 ## Combat plan
 
@@ -538,19 +538,19 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|--------------------------|---------------------------|
-| Fisherman Claude | Route 21 South |
-| Fisherman Nolan | Route 21 South |
-| Juggler Johan | Route 21 South |
-| Swimmer Jack | Route 21 South |
-| Swimmer Roland | Route 21 South |
-| Swimmer Jerome | Route 21 South |
-| Fisherman Wade | Route 21 North |
-| Fisherman Ronald | Route 21 North |
-| Swimmer Lil and Tuber Ian | Double combat, Route 21 North |
-| Cooltrainer Anri | Route 21 North |
-| Swimmer Spencer | Route 21 North |
+| **Coach** | **Zone / reference** | **Team** |
+|--------------------------|---------------------------|---|
+| Fisherman Claude | Route 21 South | Shellder Lv. 31 · Cloyster Lv. 31 |
+| Fisherman Nolan | Route 21 South | Seaking Lv. 33 · Goldeen Lv. 33 |
+| Juggler Johan | Route 21 South | Abra Lv. 16 · Mr. Mime Lv. 32 · Drowzee Lv. 32 |
+| Swimmer Jack | Route 21 South | Starmie Lv. 37 |
+| Swimmer Roland | Route 21 South | Poliwhirl Lv. 32 · Tentacool Lv. 32 · Seadra Lv. 32 |
+| Swimmer Jerome | Route 21 South | Staryu Lv. 33 · Wartortle Lv. 33 |
+| Fisherman Wade | Route 21 North | Magikarp Lv. 27 · Magikarp Lv. 27 · Magikarp Lv. 27 · Magikarp Lv. 27 · Magikarp Lv. 27 · Magikarp Lv. 27 |
+| Fisherman Ronald | Route 21 North | Seaking Lv. 28 · Goldeen Lv. 28 · Seaking Lv. 28 · Seaking Lv. 28 |
+| Swimmer Lil and Tuber Ian | Double combat, Route 21 North | Seadra Lv. 33 · Starmie Lv. 33 |
+| Cooltrainer Anri | Route 21 North | Arcanine Lv. 32 · Alakazam Lv. 32 · Slowbro Lv. 32 · Magneton Lv. 32 |
+| Swimmer Spencer | Route 21 North | Seadra Lv. 33 · Tentacruel Lv. 33 |
 
 ## ⚠ Before continuing
 

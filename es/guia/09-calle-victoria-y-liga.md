@@ -74,10 +74,10 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 ## Entrenadores
 
-| **Entrenador** | **Zona / referencia**                |
-|----------------|--------------------------------------|
-| Rival          | Combate opcional temprano            |
-| Rival          | Combate obligatorio antes de la Liga |
+| **Entrenador** | **Zona / referencia**                | **Equipo** |
+|----------------|--------------------------------------|---|
+| Rival          | Combate opcional temprano            | Spearow Nv. 9 · Eevee Nv. 8 |
+| Rival          | Combate obligatorio antes de la Liga | **Jolteon:** Sandslash Nv. 47 · Exeggcute Nv. 45 · Ninetales Nv. 45 · Cloyster Nv. 47 · Kadabra Nv. 50 · Jolteon Nv. 53<br>**Flareon:** Sandslash Nv. 47 · Exeggcute Nv. 45 · Cloyster Nv. 45 · Magneton Nv. 47 · Kadabra Nv. 50 · Flareon Nv. 53<br>**Vaporeon:** Sandslash Nv. 47 · Exeggcute Nv. 45 · Ninetales Nv. 47 · Magneton Nv. 45 · Kadabra Nv. 50 · Vaporeon Nv. 53 |
 
 | **EQUIPO DEL RIVAL** La evolución de Eevee depende de los dos primeros combates: Vaporeon si pierdes el primero; Flareon si ganas el primero y pierdes u omites el segundo; Jolteon si ganas ambos. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -219,22 +219,22 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 ## Entrenadores
 
-| **Entrenador**       | **Zona / referencia**                      |
-|----------------------|--------------------------------------------|
-| Cooltrainer Naomi    | 1F                                         |
-| Cooltrainer Rolando  | 1F                                         |
-| Black Belt Daisuke   | 2F                                         |
-| Trainer Nelson       | 2F                                         |
-| Trainer Vincent      | 2F                                         |
-| Trainer Gregory      | 2F                                         |
-| Pokemaniac Dawson    | 2F                                         |
-| Cooltrainer George   | 3F                                         |
-| Ninja Boy Orion      | Combate doble, 3F                          |
-| Cooltrainer Alexa    | 3F                                         |
-| Cooltrainer Colby    | 3F                                         |
-| Cooltrainer Caroline | 3F                                         |
-| Cooltrainer Ray      | 3F; posible doble con Tyra según la fuente |
-| Cooltrainer Tyra     | 3F; posible doble con Ray según la fuente  |
+| **Entrenador**       | **Zona / referencia**                      | **Equipo** |
+|----------------------|--------------------------------------------|---|
+| Cooltrainer Naomi    | 1F                                         | Persian Nv. 42 · Ponyta Nv. 42 · Rapidash Nv. 42 · Vulpix Nv. 42 · Ninetales Nv. 42 |
+| Cooltrainer Rolando  | 1F                                         | Raticate Nv. 42 · Ivysaur Nv. 42 · Wartortle Nv. 42 · Charmeleon Nv. 42 · Charizard Nv. 42 |
+| Black Belt Daisuke   | 2F                                         | Machoke Nv. 43 · Machop Nv. 43 · Machoke Nv. 43 |
+| Trainer Nelson       | 2F                                         | Drowzee Nv. 41 · Hypno Nv. 41 · Kadabra Nv. 41 · Kadabra Nv. 41 |
+| Trainer Vincent      | 2F                                         | Persian Nv. 44 · Golduck Nv. 44 |
+| Trainer Gregory      | 2F                                         | Mr. Mime Nv. 48 |
+| Pokemaniac Dawson    | 2F                                         | Charmeleon Nv. 40 · Lapras Nv. 40 · Lickitung Nv. 40 |
+| Cooltrainer George   | 3F                                         | Exeggutor Nv. 42 · Sandslash Nv. 42 · Cloyster Nv. 42 · Electrode Nv. 42 · Arcanine Nv. 42 |
+| Ninja Boy Orion      | Combate doble, 3F                          | Raichu Nv. 45 · Blastoise Nv. 45 · Slowbro Nv. 45 · Charizard Nv. 45 |
+| Cooltrainer Alexa    | 3F                                         | Clefairy Nv. 42 · Jigglypuff Nv. 42 · Persian Nv. 42 · Dewgong Nv. 42 · Chansey Nv. 42 |
+| Cooltrainer Colby    | 3F                                         | Kingler Nv. 41 · Poliwhirl Nv. 42 · Tentacruel Nv. 42 · Seadra Nv. 42 · Blastoise Nv. 43 |
+| Cooltrainer Caroline | 3F                                         | Bellsprout Nv. 42 · Weepinbell Nv. 42 · Victreebel Nv. 42 · Paras Nv. 42 · Parasect Nv. 42 |
+| Cooltrainer Ray      | 3F; posible doble con Tyra según la fuente | Nidoqueen Nv. 45 · Nidoking Nv. 45 |
+| Cooltrainer Tyra     | 3F; posible doble con Ray según la fuente  | Nidoqueen Nv. 45 · Nidoking Nv. 45 |
 
 | **ANTES DE MOLTRES** Guarda la partida. Un Pokémon de Agua o Roca facilita el combate; lleva Ultra Ball y movimientos de estado. |
 |----------------------------------------------------------------------------------------------------------------------------------|

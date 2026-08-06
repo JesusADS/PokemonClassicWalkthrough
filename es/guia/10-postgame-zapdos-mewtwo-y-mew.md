@@ -189,17 +189,17 @@
 
 ## Entrenadores / combates
 
-| **Entrenador**   | **Zona o función** |
-|------------------|--------------------|
-| Bug Catcher Cale | Ruta 24            |
-| Lass Ali         | Ruta 24            |
-| Youngster Timmy  | Ruta 24            |
-| Lass Reli        | Ruta 24            |
-| Camper Ethan     | Ruta 24            |
-| Disguised Rocket | Historia extendida |
-| Camper Shane     | Ruta 24            |
-| Rocket Grunt     | Historia extendida |
-| Jessie y James   | Combate doble      |
+| **Entrenador**   | **Zona o función** | **Equipo** |
+|------------------|--------------------|---|
+| Bug Catcher Cale | Ruta 24            | Caterpie Nv. 10 · Weedle Nv. 10 · Metapod Nv. 10 · Kakuna Nv. 10 |
+| Lass Ali         | Ruta 24            | Pidgey Nv. 12 · Oddish Nv. 12 · Bellsprout Nv. 12 |
+| Youngster Timmy  | Ruta 24            | Sandshrew Nv. 14 · Ekans Nv. 14 |
+| Lass Reli        | Ruta 24            | Nidoran♂ Nv. 16 · Nidoran♀ Nv. 16 |
+| Camper Ethan     | Ruta 24            | Mankey Nv. 18 |
+| Disguised Rocket | Historia extendida | Ekans Nv. 15 · Zubat Nv. 15 |
+| Camper Shane     | Ruta 24            | Rattata Nv. 14 · Ekans Nv. 14 |
+| Rocket Grunt     | Historia extendida | Ekans Nv. 15 · Zubat Nv. 15 |
+| Jessie y James   | Combate doble      | Ekans Nv. 17 · Meowth Nv. 17 · Koffing Nv. 17 · Lickitung Nv. 17 |
 
 ## Checklist
 
@@ -340,9 +340,9 @@
 
 ## Entrenadores / combates
 
-| **Entrenador** | **Zona o función**                                          |
-|----------------|-------------------------------------------------------------|
-| Lass Kairi     | Evento de posjuego tras capturar el encuentro y ser Campeón |
+| **Entrenador** | **Zona o función**                                          | **Equipo** |
+|----------------|-------------------------------------------------------------|---|
+| Lass Kairi     | Evento de posjuego tras capturar el encuentro y ser Campeón | Vaporeon Nv. 75 · Jigglypuff Nv. 65 · Aerodactyl Nv. 65 · Charizard Nv. 65 · Butterfree Nv. 65 · Mew Nv. 65 |
 
 | **INFORMACIÓN VISUAL**                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------|

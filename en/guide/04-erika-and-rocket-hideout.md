@@ -105,23 +105,17 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 ## Trainers
 
-- Picnicker Alicia
-
-- Hiker Jeremy
-
-- Camper Chris
-
-- Bug Catcher Brent
-
-- Camper Drew
-
-- Bug Catcher Conner
-
-- Hiker Brice
-
-- Picnicker Caitlin
-
-- Hiker Alan
+| **Trainer** | **Team** |
+|---|---|
+| Picnicker Alicia | Oddish Lv. 18 · Bellsprout Lv. 18 · Oddish Lv. 18 · Bellsprout Lv. 18 |
+| Hiker Jeremy | Machop Lv. 20 · Onix Lv. 20 |
+| Camper Chris | Growlithe Lv. 21 · Charmander Lv. 21 |
+| Bug Catcher Brent | Beedrill Lv. 19 · Beedrill Lv. 19 |
+| Camper Drew | Rattata Lv. 19 · Sandshrew Lv. 19 · Ekans Lv. 19 · Sandshrew Lv. 19 |
+| Bug Catcher Conner | Caterpie Lv. 20 · Weedle Lv. 20 · Venonat Lv. 20 |
+| Hiker Brice | Geodude Lv. 20 · Machop Lv. 20 · Geodude Lv. 20 |
+| Picnicker Caitlin | Meowth Lv. 23 |
+| Hiker Alan | Geodude Lv. 21 · Onix Lv. 21 |
 
 ## ⚠ Before continuing
 
@@ -194,17 +188,14 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 ## Trainers
 
-- Picnicker Heidi
-
-- Pokemaniac Mark
-
-- Picnicker Carol
-
-- Hiker Clark
-
-- Hiker Trent
-
-- Pokemaniac Herman
+| **Trainer** | **Team** |
+|---|---|
+| Picnicker Heidi | Pikachu Lv. 20 · Clefairy Lv. 20 |
+| Pokemaniac Mark | Rhyhorn Lv. 29 · Lickitung Lv. 29 |
+| Picnicker Carol | Pidgey Lv. 21 · Pidgeotto Lv. 21 |
+| Hiker Clark | Geodude Lv. 21 · Onix Lv. 21 |
+| Hiker Trent | Onix Lv. 19 · Graveler Lv. 19 |
+| Pokemaniac Herman | Cubone Lv. 20 · Slowpoke Lv. 20 |
 
 | **PIKACHU** Check if the Luminous Ball works as an equipped item in your version; If so, it can greatly increase its potency. |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -270,9 +261,10 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 ## Trainers
 
-- Pokemaniac Ashton
-
-- Hiker Lenny and other trainers distributed throughout the two floors
+| **Trainer** | **Team** |
+|---|---|
+| Pokemaniac Ashton | Cubone Lv. 23 · Slowpoke Lv. 23 |
+| Hiker Lenny and other trainers distributed throughout the two floors | Geodude Lv. 19 · Machop Lv. 19 · Geodude Lv. 19 · Geodude Lv. 19 |
 
 | **POWER STONE** Save it until you decide which trade evolution you want to prioritize, such as Kadabra, Machoke, Graveler, or Haunter. |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -351,20 +343,20 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|-------------------|-----------------------|
-| Lass Julia | Route 8 |
-| Gambler Rich | Route 8 |
-| Pokemaniac Glenn | Route 8 |
-| Twins Eli and Anne | Double combat |
-| Lass Paige | Route 8 |
-| Pokemaniac Leslie | Route 8 |
-| Lass Andrea | Route 8 |
-| Lass Megan | Route 8 |
-| Biker Jaren | Route 8 |
-| Biker Ricardo | Route 8 |
-| Gambler Stan | Route 8 |
-| Pokemaniac Aidan | Route 8 |
+| **Coach** | **Zone / reference** | **Team** |
+|-------------------|-----------------------|---|
+| Lass Julia | Route 8 | Clefairy Lv. 22 · Clefairy Lv. 22 |
+| Gambler Rich | Route 8 | Growlithe Lv. 24 · Vulpix Lv. 24 |
+| Pokemaniac Glenn | Route 8 | Grimer Lv. 22 · Muk Lv. 22 · Grimer Lv. 22 |
+| Twins Eli and Anne | Double combat | Clefairy Lv. 22 · Jigglypuff Lv. 22 |
+| Lass Paige | Route 8 | Nidoran♀ Lv. 23 · Nidorina Lv. 23 |
+| Pokemaniac Leslie | Route 8 | Koffing Lv. 26 |
+| Lass Andrea | Route 8 | Meowth Lv. 24 · Meowth Lv. 24 · Meowth Lv. 24 |
+| Lass Megan | Route 8 | Pidgey Lv. 19 · Rattata Lv. 19 · Nidoran♂ Lv. 19 · Meowth Lv. 19 · Pikachu Lv. 19 |
+| Biker Jaren | Route 8 | Grimer Lv. 24 · Grimer Lv. 24 |
+| Biker Ricardo | Route 8 | Koffing Lv. 22 · Koffing Lv. 22 · Grimer Lv. 23 |
+| Gambler Stan | Route 8 | Poliwag Lv. 22 · Poliwag Lv. 22 · Poliwhirl Lv. 22 |
+| Pokemaniac Aidan | Route 8 | Voltorb Lv. 20 · Koffing Lv. 20 · Voltorb Lv. 20 · Magnemite Lv. 20 |
 
 ## ⚠ Before continuing
 
@@ -526,14 +518,14 @@ Step-by-step tour • Items • Recommended captures • Gyms • Checklists
 | Elevator Key | B4F | Mandatory |
 
 ## Trainers
-| **Coach** | **Zone / reference** |
-|-----------------|--------------------------|
-| Rocket Grunt ×5 | B1F |
-| Rocket Grunt ×1 | B2F |
-| Rocket Grunt ×2 | B3F |
-| Rocket Grunt ×3 | B4F |
-| Jessie and James | Double combat |
-| Giovanni | Final Lair Battle |
+| **Coach** | **Zone / reference** | **Team** |
+|-----------------|--------------------------|---|
+| Rocket Grunt ×5 | B1F | **Grunt 1:** Drowzee Lv. 21 · Machop Lv. 21<br>**Grunt 2:** Raticate Lv. 21 · Raticate Lv. 21<br>**Grunt 3:** Grimer Lv. 20 · Koffing Lv. 20 · Koffing Lv. 20<br>**Grunt 4:** Rattata Lv. 19 · Raticate Lv. 19 · Raticate Lv. 19 · Rattata Lv. 19<br>**Grunt 5:** Grimer Lv. 22 · Koffing Lv. 22 |
+| Rocket Grunt ×1 | B2F | Zubat Lv. 17 · Koffing Lv. 17 · Grimer Lv. 17 · Zubat Lv. 17 · Raticate Lv. 17 |
+| Rocket Grunt ×2 | B3F | **Grunt 1:** Rattata Lv. 20 · Raticate Lv. 20 · Drowzee Lv. 20<br>**Grunt 2:** Machop Lv. 21 · Machop Lv. 21 |
+| Rocket Grunt ×3 | B4F | **Grunt 1:** Sandshrew Lv. 23 · Ekans Lv. 23 · Sandslash Lv. 23<br>**Grunt 2:** Ekans Lv. 23 · Sandshrew Lv. 23 · Arbok Lv. 23<br>**Grunt 3:** Koffing Lv. 21 · Zubat Lv. 21 |
+| Jessie and James | Double combat | Koffing Lv. 21 · Ekans Lv. 21 · Meowth Lv. 22 · Lickitung Lv. 22 |
+| Giovanni | Final Lair Battle | Onix Lv. 25 · Rhyhorn Lv. 24 · Kangaskhan Lv. 29 |
 
 | **WARNING** The lair contains many TMs that should not be lost. Walk through each floor before leaving the building. |
 |---------------------------------------------------------------------------------------------------------------------|

@@ -59,16 +59,15 @@
 
 ## Entrenadores / combates
 
-| **Entrenador**         | **Zona o función**                  |
-|------------------------|-------------------------------------|
-| Rocket Grunts ×3       | 1F, posjuego                        |
-| Rocket Grunt           | 3F, posjuego                        |
-| Postgame Rocket Leader | Final del nuevo asalto              |
-| Presidente de Silph    | Combate por Battle Points / rematch |
+| **Entrenador**         | **Zona o función**                  | **Equipo** |
+|------------------------|-------------------------------------|---|
+| Rocket Grunts ×3       | 1F, posjuego                        | **Recluta 1:** Golbat Nv. 50 · Sandslash Nv. 50 · Kingler Nv. 50 · Raticate Nv. 50<br>**Recluta 2:** Raticate Nv. 50 · Onix Nv. 50 · Victreebel Nv. 50 · Tauros Nv. 50<br>**Recluta 3:** Golem Nv. 50 · Kangaskhan Nv. 50 · Poliwrath Nv. 50 · Fearow Nv. 50 |
+| Rocket Grunt           | 3F, posjuego                        | Golbat Nv. 50 · Sandslash Nv. 50 · Kingler Nv. 50 · Raticate Nv. 50 · Magmar Nv. 50 |
+| Postgame Rocket Leader | Final del nuevo asalto              | Arbok Nv. 55 · Rhyhorn Nv. 55 · Scyther Nv. 55 · Raticate Nv. 55 · Muk Nv. 55 |
+| Presidente de Silph    | Combate por Battle Points / rematch | Tauros Nv. 60 · Snorlax Nv. 60 · Chansey Nv. 60 · Lapras Nv. 60 · Alakazam Nv. 60 · Persian Nv. 60 |
 
-| **DATOS NO PUBLICADOS**                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------------------------------|
-| La fuente no detalla el equipo del líder Rocket ni el del presidente; prepárate con un equipo de nivel de posjuego y cobertura variada. |
+> [!NOTE]
+> Los equipos de estos combates se han contrastado con los datos internos de Pokémon Classic v1.5.
 
 ## Checklist
 
@@ -241,12 +240,12 @@
 
 ## Entrenadores / combates
 
-| **Entrenador**        | **Zona o función**     |
-|-----------------------|------------------------|
-| Cooltrainer Erin      | Evento de Bosque Verde |
-| Entrenadores del Dojo | Entrenamiento de EV    |
-| Lass Kairi            | Faraway Island         |
-| Presidente de Silph   | Combate diario / BP    |
+| **Entrenador**        | **Zona o función**     | **Equipo** |
+|-----------------------|------------------------|---|
+| Cooltrainer Erin      | Evento de Bosque Verde | Wartortle Nv. 65 · Haunter Nv. 65 · Clefairy Nv. 65 · Jolteon Nv. 65 · Flareon Nv. 65 · Vaporeon Nv. 72 |
+| Entrenadores del Dojo | Entrenamiento de EV    | **Maestro:** Wigglytuff Nv. 37 · Machamp Nv. 37 · Alakazam Nv. 37 · Golem Nv. 37 · Blastoise Nv. 37 · Raichu Nv. 37<br>**PS:** Wigglytuff Nv. 35 · Wigglytuff Nv. 35 · Wigglytuff Nv. 35 · Wigglytuff Nv. 35<br>**Ataque:** Machamp Nv. 35 · Machamp Nv. 35 · Machamp Nv. 35 · Machamp Nv. 35<br>**Ataque Especial:** Alakazam Nv. 35 · Alakazam Nv. 35 · Alakazam Nv. 35 · Alakazam Nv. 35<br>**Defensa:** Golem Nv. 35 · Golem Nv. 35 · Golem Nv. 35 · Golem Nv. 35<br>**Defensa Especial:** Blastoise Nv. 35 · Blastoise Nv. 35 · Blastoise Nv. 35 · Blastoise Nv. 35<br>**Velocidad:** Raichu Nv. 35 · Raichu Nv. 35 · Raichu Nv. 35 · Raichu Nv. 35 |
+| Lass Kairi            | Faraway Island         | Vaporeon Nv. 75 · Jigglypuff Nv. 65 · Aerodactyl Nv. 65 · Charizard Nv. 65 · Butterfree Nv. 65 · Mew Nv. 65 |
+| Presidente de Silph   | Combate diario / BP    | Tauros Nv. 60 · Snorlax Nv. 60 · Chansey Nv. 60 · Lapras Nv. 60 · Alakazam Nv. 60 · Persian Nv. 60 |
 
 ## Checklist
 

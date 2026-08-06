@@ -85,10 +85,10 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|----------------|-----------------------------------------------------------------------------|
-| Rocket Member | Guarded backyard of the house; delivers TM28 upon defeat. |
-| Rival | North access, before Nugget Bridge.                               |
+| **Coach** | **Zone / reference** | **Team** |
+|----------------|-----------------------------------------------------------------------------|---|
+| Rocket Member | Guarded backyard of the house; delivers TM28 upon defeat. | Machop Lv. 17 · Drowzee Lv. 17 |
+| Rival | North access, before Nugget Bridge.                               | Spearow Lv. 18 · Sandshrew Lv. 15 · Rattata Lv. 15 · Eevee Lv. 17 |
 
 | **TIP** Don't spend Dig blindly: in addition to being a good Ground-type attack, it can help you get out of some caves. |
 |--------------------------------------------------------------------------------------------------------------------------------|
@@ -185,17 +185,17 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|-------------------|-------------------------------|
-| Bug Catcher Cale | 1st match of Nugget Bridge |
-| Lass Ali | 2nd match of Nugget Bridge |
-| Youngster Timmy | 3rd match of Nugget Bridge |
-| Lass Reli | 4th match of Nugget Bridge |
-| Camper Ethan | 5th match of Nugget Bridge |
-| Rocket in disguise | End of the bridge |
-| Camper Shane | Northern area of ​​the route |
-| Rocket Grunt | Rocket Event |
-| Jessie and James | Double combat |
+| **Coach** | **Zone / reference** | **Team** |
+|-------------------|-------------------------------|---|
+| Bug Catcher Cale | 1st match of Nugget Bridge | Caterpie Lv. 10 · Weedle Lv. 10 · Metapod Lv. 10 · Kakuna Lv. 10 |
+| Lass Ali | 2nd match of Nugget Bridge | Pidgey Lv. 12 · Oddish Lv. 12 · Bellsprout Lv. 12 |
+| Youngster Timmy | 3rd match of Nugget Bridge | Sandshrew Lv. 14 · Ekans Lv. 14 |
+| Lass Reli | 4th match of Nugget Bridge | Nidoran♂ Lv. 16 · Nidoran♀ Lv. 16 |
+| Camper Ethan | 5th match of Nugget Bridge | Mankey Lv. 18 |
+| Rocket in disguise | End of the bridge | Ekans Lv. 15 · Zubat Lv. 15 |
+| Camper Shane | Northern area of ​​the route | Rattata Lv. 14 · Ekans Lv. 14 |
+| Rocket Grunt | Rocket Event | Ekans Lv. 15 · Zubat Lv. 15 |
+| Jessie and James | Double combat | Ekans Lv. 17 · Meowth Lv. 17 · Koffing Lv. 17 · Lickitung Lv. 17 |
 
 ## ⚠ Before continuing
 

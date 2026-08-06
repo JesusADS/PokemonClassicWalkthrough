@@ -85,10 +85,10 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 ## Entrenadores
 
-| **Entrenador** | **Zona / referencia**                                                |
-|----------------|----------------------------------------------------------------------|
-| Miembro Rocket | Patio trasero de la casa vigilada; entrega la MT28 al ser derrotado. |
-| Rival          | Acceso norte, antes del Puente Pepita.                               |
+| **Entrenador** | **Zona / referencia**                                                | **Equipo** |
+|----------------|----------------------------------------------------------------------|---|
+| Miembro Rocket | Patio trasero de la casa vigilada; entrega la MT28 al ser derrotado. | Machop Nv. 17 · Drowzee Nv. 17 |
+| Rival          | Acceso norte, antes del Puente Pepita.                               | Spearow Nv. 18 · Sandshrew Nv. 15 · Rattata Nv. 15 · Eevee Nv. 17 |
 
 | **CONSEJO** No gastes Excavar a ciegas: además de ser un buen ataque de tipo Tierra, puede ayudarte a salir de algunas cuevas. |
 |--------------------------------------------------------------------------------------------------------------------------------|
@@ -186,17 +186,17 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 ## Entrenadores
 
-| **Entrenador**    | **Zona / referencia**         |
-|-------------------|-------------------------------|
-| Bug Catcher Cale  | 1.º combate del Puente Pepita |
-| Lass Ali          | 2.º combate del Puente Pepita |
-| Youngster Timmy   | 3.º combate del Puente Pepita |
-| Lass Reli         | 4.º combate del Puente Pepita |
-| Camper Ethan      | 5.º combate del Puente Pepita |
-| Rocket disfrazado | Final del puente              |
-| Camper Shane      | Zona norte de la ruta         |
-| Rocket Grunt      | Evento Rocket                 |
-| Jessie y James    | Combate doble                 |
+| **Entrenador**    | **Zona / referencia**         | **Equipo** |
+|-------------------|-------------------------------|---|
+| Bug Catcher Cale  | 1.º combate del Puente Pepita | Caterpie Nv. 10 · Weedle Nv. 10 · Metapod Nv. 10 · Kakuna Nv. 10 |
+| Lass Ali          | 2.º combate del Puente Pepita | Pidgey Nv. 12 · Oddish Nv. 12 · Bellsprout Nv. 12 |
+| Youngster Timmy   | 3.º combate del Puente Pepita | Sandshrew Nv. 14 · Ekans Nv. 14 |
+| Lass Reli         | 4.º combate del Puente Pepita | Nidoran♂ Nv. 16 · Nidoran♀ Nv. 16 |
+| Camper Ethan      | 5.º combate del Puente Pepita | Mankey Nv. 18 |
+| Rocket disfrazado | Final del puente              | Ekans Nv. 15 · Zubat Nv. 15 |
+| Camper Shane      | Zona norte de la ruta         | Rattata Nv. 14 · Ekans Nv. 14 |
+| Rocket Grunt      | Evento Rocket                 | Ekans Nv. 15 · Zubat Nv. 15 |
+| Jessie y James    | Combate doble                 | Ekans Nv. 17 · Meowth Nv. 17 · Koffing Nv. 17 · Lickitung Nv. 17 |
 
 ## ⚠ Antes de continuar
 

@@ -91,17 +91,14 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 ## Trainers
 
-- Bug Catcher Keigo
-
-- Camper Ricky
-
-- Picnicker Nancy
-
-- Bug Catcher Elijah
-
-- Picnicker Isabelle
-
-- Camper Jeff
+| **Trainer** | **Team** |
+|---|---|
+| Bug Catcher Keigo | Weedle Lv. 16 · Caterpie Lv. 16 · Venonat Lv. 16 |
+| Camper Ricky | Squirtle Lv. 20 |
+| Picnicker Nancy | Rattata Lv. 16 · Pikachu Lv. 16 |
+| Bug Catcher Elijah | Butterfree Lv. 20 |
+| Picnicker Isabelle | Pidgey Lv. 16 · Pidgey Lv. 16 · Pidgey Lv. 16 |
+| Camper Jeff | Spearow Lv. 16 · Raticate Lv. 16 |
 
 ## ⚠ Before continuing
 
@@ -233,16 +230,18 @@ Route 11 is located east of Vermilion City. You can explore its land area now an
 
 ## Trainers
 
-- Gambler Hugo
-- Youngster Eddie
-- Youngster Dave
-- Youngster Dillon
-- Engineer Bernie
-- Gambler Jasper
-- Engineer Braxton
-- Gambler Darian
-- Youngster Yasu
-- Gambler Dirk
+| **Trainer** | **Team** |
+|---|---|
+| Gambler Hugo | Poliwag Lv. 18 · Horsea Lv. 18 |
+| Youngster Eddie | Ekans Lv. 21 |
+| Youngster Dave | Nidoran♂ Lv. 18 · Nidorino Lv. 18 |
+| Youngster Dillon | Sandshrew Lv. 19 · Zubat Lv. 19 |
+| Engineer Bernie | Magnemite Lv. 18 · Magnemite Lv. 18 · Voltorb Lv. 18 |
+| Gambler Jasper | Bellsprout Lv. 18 · Oddish Lv. 18 |
+| Engineer Braxton | Magnemite Lv. 21 |
+| Gambler Darian | Growlithe Lv. 18 · Vulpix Lv. 18 |
+| Youngster Yasu | Rattata Lv. 17 · Rattata Lv. 17 · Raticate Lv. 17 |
+| Gambler Dirk | Voltorb Lv. 18 · Magnemite Lv. 18 |
 
 ## ⚠ Before continuing
 - [ ] Collect the four objects on the route
@@ -327,19 +326,15 @@ Route 11 is located east of Vermilion City. You can explore its land area now an
 
 ## Trainers
 
-- Rival, 2F runner
-
-- Sailor Trevor and Sailor Edmond, cover
-
-- Lass Ann and Youngster Tyler
-
-- Gentleman Arthur and Gentleman Thomas
-
-- Fisherman Dale and Gentleman Brooks
-
-- Lady Dawn and Gentleman Lamar
-
-- B1F trainers: Barny, Phillip, Huey, Dylan, Duncan and Leonard
+| **Trainer** | **Team** |
+|---|---|
+| Rival, 2F runner | Spearow Lv. 19 · Rattata Lv. 16 · Sandshrew Lv. 18 · Eevee Lv. 20 |
+| Sailor Trevor and Sailor Edmond, cover | **Trevor:** Machop Lv. 17 · Tentacool Lv. 17<br>**Edmond:** Machop Lv. 18 · Shellder Lv. 18 |
+| Lass Ann and Youngster Tyler | **Ann:** Pidgey Lv. 18 · Nidoran♀ Lv. 18<br>**Tyler:** Nidoran♂ Lv. 21 |
+| Gentleman Arthur and Gentleman Thomas | **Thomas:** Growlithe Lv. 18 · Growlithe Lv. 18<br>**Arthur:** Nidoran♂ Lv. 19 · Nidoran♀ Lv. 19 |
+| Fisherman Dale and Gentleman Brooks | **Brooks:** Pikachu Lv. 23<br>**Dale:** Goldeen Lv. 17 · Tentacool Lv. 17 · Goldeen Lv. 17 |
+| Lady Dawn and Gentleman Lamar | **Lamar:** Growlithe Lv. 17 · Ponyta Lv. 17<br>**Dawn:** Rattata Lv. 18 · Pikachu Lv. 18 |
+| B1F trainers: Barny, Phillip, Huey, Dylan, Duncan and Leonard | **Phillip:** Machop Lv. 20<br>**Huey:** Tentacool Lv. 18 · Staryu Lv. 18<br>**Leonard:** Shellder Lv. 21<br>**Dylan:** Horsea Lv. 17 · Horsea Lv. 17 · Horsea Lv. 17<br>**Duncan:** Horsea Lv. 17 · Shellder Lv. 17 · Tentacool Lv. 17<br>**Barny:** Tentacool Lv. 17 · Staryu Lv. 17 · Shellder Lv. 17 |
 
 | **NOTICE** The S.S. Anne becomes unavailable upon completion of the event. Collect all the objects before delivering the final objective and leaving. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|

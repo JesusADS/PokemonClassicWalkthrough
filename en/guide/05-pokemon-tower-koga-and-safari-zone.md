@@ -100,15 +100,15 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|---------------------------------------|-----------------------|
-| Rival | 2F |
-| Channeler Hope, Carly and Patricia | 3F |
-| Channeler Laurel, Jody and Paula | 4F |
-| Channeler Ruth, Tammy, Karina and Janae | 5F |
-| Channeler Angelica, Jennifer and Emilia | 6F |
-| Jessie and James | Double combat, 7F |
-| Rocket Grunt ×3 | 7F |
+| **Coach** | **Zone / reference** | **Team** |
+|---------------------------------------|-----------------------|---|
+| Rival | 2F | **Jolteon:** Fearow Lv. 25 · Vulpix Lv. 23 · Shellder Lv. 22 · Sandshrew Lv. 20 · Eevee Lv. 24<br>**Flareon:** Fearow Lv. 25 · Shellder Lv. 22 · Magnemite Lv. 22 · Sandshrew Lv. 20 · Eevee Lv. 24<br>**Vaporeon:** Fearow Lv. 25 · Vulpix Lv. 23 · Magnemite Lv. 22 · Sandshrew Lv. 20 · Eevee Lv. 24 |
+| Channeler Hope, Carly and Patricia | 3F | **Hope:** Gastly Lv. 23<br>**Patricia:** Gastly Lv. 22<br>**Carly:** Gastly Lv. 24 |
+| Channeler Laurel, Jody and Paula | 4F | **Jody:** Gastly Lv. 22<br>**Laurel:** Gastly Lv. 23 · Gastly Lv. 23<br>**Paula:** Gastly Lv. 24 |
+| Channeler Ruth, Tammy, Karina and Janae | 5F | **Tammy:** Haunter Lv. 23<br>**Ruth:** Gastly Lv. 22<br>**Karina:** Gastly Lv. 24<br>**Janae:** Gastly Lv. 22 |
+| Channeler Angelica, Jennifer and Emilia | 6F | **Jennifer:** Gastly Lv. 24<br>**Emilia:** Gastly Lv. 24<br>**Angelica:** Gastly Lv. 22 · Gastly Lv. 22 · Gastly Lv. 22 |
+| Jessie and James | Double combat, 7F | Ekans Lv. 26 · Koffing Lv. 26 · Lickitung Lv. 28 · Meowth Lv. 28 |
+| Rocket Grunt ×3 | 7F | **Grunt 1:** Zubat Lv. 25 · Zubat Lv. 25 · Golbat Lv. 25<br>**Grunt 2:** Koffing Lv. 26 · Drowzee Lv. 26<br>**Grunt 3:** Zubat Lv. 23 · Rattata Lv. 23 · Raticate Lv. 23 · Zubat Lv. 23 |
 
 | **RECOMMENDED CAPTURE** Gastly provides useful immunities, status moves, and a very powerful evolutionary line. |
 |-------------------------------------------------------------------------------------------------------|
@@ -179,13 +179,13 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|------------------------------------|------------------------|
-| Fisherman Ned, Chip, Hank and Elliot | Fishing walkways |
-| School Kid Jess and Gia | Double combat |
-| Rocker Luca | Central section |
-| Camper Justin | Southern section |
-| Fisherman Andrew | End of the route |
+| **Coach** | **Zone / reference** | **Team** |
+|------------------------------------|------------------------|---|
+| Fisherman Ned, Chip, Hank and Elliot | Fishing walkways | **Chip:** Tentacool Lv. 24 · Goldeen Lv. 24<br>**Elliot:** Poliwag Lv. 21 · Shellder Lv. 21 · Goldeen Lv. 21 · Horsea Lv. 21<br>**Ned:** Goldeen Lv. 22 · Poliwag Lv. 22 · Goldeen Lv. 22<br>**Hank:** Goldeen Lv. 27 |
+| School Kid Jess and Gia | Double combat | Nidorino Lv. 24 · Nidorina Lv. 24 |
+| Rocker Luca | Central section | Voltorb Lv. 29 · Electrode Lv. 29 |
+| Camper Justin | Southern section | Nidoran♂ Lv. 29 · Nidorino Lv. 29 |
+| Fisherman Andrew | End of the route | Magikarp Lv. 24 · Magikarp Lv. 24 |
 
 | **BEFORE FIGHTING SNORLAX** Save the game and carry several Ultra Ball or Great Ball. Paralyzing or putting it to sleep makes capturing it much easier. |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -252,16 +252,16 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|--------------------------|---------------------------|
-| Alma Picnicker | Starting zone |
-| Rocker Sebastian | Labyrinth |
-| Picnicker Susie | Labyrinth |
-| Beauty Lola and Sheila | Labyrinth |
-| Picnicker Valerie and Gwen | Middle section |
-| Rocker Robert | Southern section |
-| Biker Jared | Southern section |
-| Rocker Perry | Output |
+| **Coach** | **Zone / reference** | **Team** |
+|--------------------------|---------------------------|---|
+| Alma Picnicker | Starting zone | Goldeen Lv. 28 · Poliwag Lv. 28 · Horsea Lv. 28 |
+| Rocker Sebastian | Labyrinth | Pidgey Lv. 29 · Pidgeotto Lv. 29 |
+| Picnicker Susie | Labyrinth | Pidgey Lv. 24 · Meowth Lv. 24 · Rattata Lv. 24 · Pikachu Lv. 24 · Meowth Lv. 24 |
+| Beauty Lola and Sheila | Labyrinth | **Sheila:** Clefairy Lv. 29 · Meowth Lv. 29<br>**Lola:** Rattata Lv. 27 · Pikachu Lv. 27 · Rattata Lv. 27 |
+| Picnicker Valerie and Gwen | Middle section | **Gwen:** Pidgey Lv. 27 · Meowth Lv. 27 · Pidgey Lv. 27 · Pidgeotto Lv. 27<br>**Valerie:** Poliwag Lv. 30 · Poliwag Lv. 30 |
+| Rocker Robert | Southern section | Pidgey Lv. 26 · Pidgeotto Lv. 26 · Spearow Lv. 26 · Fearow Lv. 26 |
+| Biker Jared | Southern section | Koffing Lv. 28 · Koffing Lv. 28 · Koffing Lv. 28 |
+| Rocker Perry | Output | Spearow Lv. 25 · Pidgey Lv. 25 · Pidgey Lv. 25 · Spearow Lv. 25 · Spearow Lv. 25 |
 
 ## ⚠ Before continuing
 
@@ -307,12 +307,12 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|-------------------------------------------------|-----------------------|
-| Birdkeeper Carter, Mitch, Beck, Marlon and Donald | Northern half |
-| Twins Jan and Kiri | Double combat |
-| Biker Lukas, Gerald, Malik and Isaac | South half |
-| Hex Maniac Camran | Final |
+| **Coach** | **Zone / reference** | **Team** |
+|-------------------------------------------------|-----------------------|---|
+| Birdkeeper Carter, Mitch, Beck, Marlon and Donald | Northern half | **Carter:** Pidgey Lv. 28 · Doduo Lv. 28 · Pidgeotto Lv. 28<br>**Beck:** Pidgeotto Lv. 29 · Fearow Lv. 29<br>**Marlon:** Spearow Lv. 28 · Doduo Lv. 28 · Fearow Lv. 28<br>**Donald:** Farfetch'd Lv. 33<br>**Mitch:** Pidgey Lv. 26 · Spearow Lv. 26 · Pidgey Lv. 26 · Fearow Lv. 26 |
+| Twins Jan and Kiri | Double combat | Charmander Lv. 29 · Squirtle Lv. 29 |
+| Biker Lukas, Gerald, Malik and Isaac | South half | **Isaac:** Grimer Lv. 28 · Grimer Lv. 28 · Koffing Lv. 28<br>**Malik:** Koffing Lv. 29 · Grimer Lv. 29<br>**Gerald:** Koffing Lv. 29 · Muk Lv. 29<br>**Lukas:** Koffing Lv. 26 · Koffing Lv. 26 · Grimer Lv. 26 · Koffing Lv. 26 |
+| Hex Maniac Camran | Final | Flareon Lv. 32 · Jolteon Lv. 32 · Vaporeon Lv. 32 · Eevee Lv. 35 |
 
 ## ⚠ Before continuing
 
@@ -357,16 +357,16 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|--------------------------------|----------------------|
-| Biker Ernest and Alex | Starting zone |
-| Beauty Grace and Olivia | Upper section |
-| Picnicker Kindra | Middle section |
-| Birdkeeper Chester and Edwin | Middle section |
-| Picnicker Yazmin and Becky | Lower section |
-| Blackbelt Ron and Triathlete Mya | Double combat |
-| Picnicker Celia | Final |
-| School Kid Conan | Final |
+| **Coach** | **Zone / reference** | **Team** |
+|--------------------------------|----------------------|---|
+| Biker Ernest and Alex | Starting zone | **Alex:** Koffing Lv. 28 · Grimer Lv. 28 · Weezing Lv. 28<br>**Ernest:** Koffing Lv. 25 · Koffing Lv. 25 · Weezing Lv. 25 · Koffing Lv. 25 · Grimer Lv. 25 |
+| Beauty Grace and Olivia | Upper section | **Olivia:** Bulbasaur Lv. 29 · Ivysaur Lv. 29<br>**Grace:** Pidgeotto Lv. 29 · Wigglytuff Lv. 29 |
+| Picnicker Kindra | Middle section | Gloom Lv. 28 · Oddish Lv. 28 · Oddish Lv. 28 |
+| Birdkeeper Chester and Edwin | Middle section | **Edwin:** Pidgeotto Lv. 26 · Farfetch'd Lv. 26 · Doduo Lv. 26 · Pidgey Lv. 26<br>**Chester:** Dodrio Lv. 28 · Doduo Lv. 28 · Doduo Lv. 28 |
+| Picnicker Yazmin and Becky | Lower section | **Becky:** Pikachu Lv. 29 · Raichu Lv. 29<br>**Yazmin:** Bellsprout Lv. 29 · Oddish Lv. 29 · Tangela Lv. 29 |
+| Blackbelt Ron and Triathlete Mya | Double combat | Hitmonchan Lv. 29 · Hitmonlee Lv. 29 |
+| Picnicker Celia | Final | Clefairy Lv. 33 |
+| School Kid Conan | Final | Bulbasaur Lv. 29 · Squirtle Lv. 29 · Charmander Lv. 29 · Ponyta Lv. 29 · Krabby Lv. 29 · Omastar Lv. 40 |
 
 | **RETURN LATER** After defeating Sabrina, return to the checkpoint to receive the Exp. Share |
 |----------------------------------------------------------------------------------------------------------|

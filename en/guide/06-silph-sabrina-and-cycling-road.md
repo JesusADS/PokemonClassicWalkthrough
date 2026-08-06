@@ -68,10 +68,10 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|--------------------------------------------------|-----------------------|
-| School Kids Lea and Jed | Double combat |
-| Biker Lao, Koji, Hideo, Luke, Ruben and Camron | Main section |
+| **Coach** | **Zone / reference** | **Team** |
+|--------------------------------------------------|-----------------------|---|
+| School Kids Lea and Jed | Double combat | Rapidash Lv. 29 · Ninetales Lv. 29 |
+| Biker Lao, Koji, Hideo, Luke, Ruben and Camron | Main section | **Hideo:** Arbok Lv. 33<br>**Luke:** Mankey Lv. 29 · Machop Lv. 29<br>**Camron:** Mankey Lv. 29 · Machop Lv. 29<br>**Lao:** Grimer Lv. 29 · Koffing Lv. 29<br>**Ruben:** Weezing Lv. 28 · Koffing Lv. 28 · Weezing Lv. 28<br>**Koji:** Machop Lv. 28 · Mankey Lv. 28 · Machop Lv. 28 |
 
 ## ⚠ Before continuing
 
@@ -121,10 +121,10 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|---------------------------------------------|----------------------------------|
-| Biker Isaiah, Virgil, Raul, Billy and Nikolas | Northern half |
-| Biker Jamal, Zeek, Corey, Jaxon and William | South half |
+| **Coach** | **Zone / reference** | **Team** |
+|---------------------------------------------|----------------------------------|---|
+| Biker Isaiah, Virgil, Raul, Billy and Nikolas | Northern half | **Nikolas:** Voltorb Lv. 29 · Voltorb Lv. 29<br>**Raul:** Mankey Lv. 29 · Primeape Lv. 29<br>**Virgil:** Weezing Lv. 28 · Koffing Lv. 28 · Weezing Lv. 28<br>**Billy:** Muk Lv. 33<br>**Isaiah:** Machop Lv. 29 · Machamp Lv. 29 |
+| Biker Jamal, Zeek, Corey, Jaxon and William | South half | **Jaxon:** Weezing Lv. 29 · Muk Lv. 29<br>**Zeek:** Machoke Lv. 33<br>**William:** Koffing Lv. 25 · Weezing Lv. 25 · Koffing Lv. 25 · Koffing Lv. 25 · Weezing Lv. 25<br>**Corey:** Primeape Lv. 29 · Machoke Lv. 29<br>**Jamal:** Mankey Lv. 26 · Mankey Lv. 26 · Machamp Lv. 26 · Machop Lv. 26 |
 
 | **DEXNAV** The original guide warns that DexNav does not work on the Cycling Road. |
 |---------------------------------------------------------------------------------------------|
@@ -164,11 +164,11 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|-------------------|-----------------------|
-| Birdkeeper Wilton | Route 18 |
-| Birdkeeper Jacob | Route 18 |
-| Birdkeeper Ramiro | Route 18 |
+| **Coach** | **Zone / reference** | **Team** |
+|-------------------|-----------------------|---|
+| Birdkeeper Wilton | Route 18 | Spearow Lv. 29 · Fearow Lv. 29 |
+| Birdkeeper Jacob | Route 18 | Spearow Lv. 26 · Spearow Lv. 26 · Fearow Lv. 26 · Spearow Lv. 26 |
+| Birdkeeper Ramiro | Route 18 | Dodrio Lv. 34 |
 
 ## ⚠ Before continuing
 
@@ -312,19 +312,19 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|----------------------------------------|-----------------------|
-| Rocket Grunt ×2 | 2F |
-| Scientist Jerry and Connor | 2F |
-| Rocket Grunt and Scientist Jose | 3F |
-| Rocket Grunt ×2 and Scientist Rodney | 4F |
-| Rocket Grunt ×3 and Scientist Beau | 5F |
-| Rocket Grunt ×2 and Scientist Taylor | 6F |
-| Rocket Grunt ×5, Rival and Scientist Joshua | 7F |
-| Rocket Grunt ×2 and Scientist Parker | 8F |
-| Rocket Grunt ×2 and Scientist Ed | 9F |
-| Rocket Grunt and Scientist Travis | 10F |
-| Rocket Grunt ×2, Jessie and James, Giovanni | 11F |
+| **Coach** | **Zone / reference** | **Team** |
+|----------------------------------------|-----------------------|---|
+| Rocket Grunt ×2 | 2F | **Grunt 1:** Cubone Lv. 29 · Zubat Lv. 29<br>**Grunt 2:** Golbat Lv. 25 · Zubat Lv. 25 · Zubat Lv. 25 · Raticate Lv. 25 · Zubat Lv. 25 |
+| Scientist Jerry and Connor | 2F | **Connor:** Grimer Lv. 26 · Weezing Lv. 26 · Koffing Lv. 26 · Weezing Lv. 26<br>**Jerry:** Magnemite Lv. 28 · Voltorb Lv. 28 · Magneton Lv. 28 |
+| Rocket Grunt and Scientist Jose | 3F | **Grunt 1:** Raticate Lv. 28 · Hypno Lv. 28 · Raticate Lv. 28<br>**Jose:** Electrode Lv. 29 · Weezing Lv. 29 |
+| Rocket Grunt ×2 and Scientist Rodney | 4F | **Grunt 1:** Machop Lv. 29 · Drowzee Lv. 29<br>**Grunt 2:** Ekans Lv. 28 · Zubat Lv. 28 · Cubone Lv. 28<br>**Rodney:** Electrode Lv. 33 |
+| Rocket Grunt ×3 and Scientist Beau | 5F | **Grunt 1:** Arbok Lv. 33<br>**Grunt 2:** Hypno Lv. 33<br>**Grunt 3:** Machop Lv. 29 · Machoke Lv. 29<br>**Beau:** Magneton Lv. 26 · Koffing Lv. 26 · Weezing Lv. 26 · Magnemite Lv. 26 |
+| Rocket Grunt ×2 and Scientist Taylor | 6F | **Grunt 1:** Zubat Lv. 28 · Zubat Lv. 28 · Golbat Lv. 28<br>**Grunt 2:** Raticate Lv. 26 · Arbok Lv. 26 · Koffing Lv. 26 · Golbat Lv. 26<br>**Taylor:** Voltorb Lv. 25 · Koffing Lv. 25 · Magneton Lv. 25 · Magnemite Lv. 25 · Koffing Lv. 25 |
+| Rocket Grunt ×4, Rival and Scientist Joshua | 7F | **Grunt 1:** Cubone Lv. 29 · Cubone Lv. 29<br>**Grunt 2:** Sandshrew Lv. 29 · Sandslash Lv. 29<br>**Grunt 3:** Raticate Lv. 26 · Zubat Lv. 26 · Golbat Lv. 26 · Rattata Lv. 26<br>**Grunt 4:** Weezing Lv. 28 · Golbat Lv. 28 · Koffing Lv. 28<br>**Joshua:** Electrode Lv. 29 · Muk Lv. 29<br>**Jolteon:** Sandslash Lv. 38 · Ninetales Lv. 35 · Cloyster Lv. 37 · Kadabra Lv. 35 · Jolteon Lv. 40<br>**Flareon:** Sandslash Lv. 38 · Magneton Lv. 37 · Cloyster Lv. 37 · Kadabra Lv. 35 · Flareon Lv. 40<br>**Vaporeon:** Sandslash Lv. 38 · Ninetales Lv. 37 · Magneton Lv. 35 · Kadabra Lv. 35 · Vaporeon Lv. 40 |
+| Rocket Grunt ×2 and Scientist Parker | 8F | **Grunt 1:** Drowzee Lv. 28 · Grimer Lv. 28 · Machop Lv. 28<br>**Grunt 2:** Golbat Lv. 28 · Drowzee Lv. 28 · Hypno Lv. 28<br>**Parker:** Grimer Lv. 29 · Electrode Lv. 29 |
+| Rocket Grunt ×2 and Scientist Ed | 9F | **Grunt 1:** Machoke Lv. 33<br>**Grunt 2:** Rattata Lv. 25 · Rattata Lv. 25 · Zubat Lv. 25 · Rattata Lv. 25 · Ekans Lv. 25<br>**Ed:** Voltorb Lv. 28 · Koffing Lv. 28 · Magneton Lv. 28 |
+| Rocket Grunt and Scientist Travis | 10F | **Grunt 1:** Cubone Lv. 32 · Drowzee Lv. 32 · Marowak Lv. 32<br>**Travis:** Magnemite Lv. 29 · Koffing Lv. 29 |
+| Jessie and James and Giovanni | 11F | **Jessie and James:** Koffing Lv. 35 · Ekans Lv. 35 · Meowth Lv. 37 · Lickitung Lv. 37<br>**Giovanni:** Nidorino Lv. 37 · Kangaskhan Lv. 35 · Rhyhorn Lv. 37 · Nidoqueen Lv. 41 |
 
 | **CRITICAL ITEM** Do not leave floor 5 without the Magnetic Key. |
 |---------------------------------------------------------------------|

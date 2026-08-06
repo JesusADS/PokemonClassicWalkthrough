@@ -44,17 +44,17 @@ Gym • Team • Coaches • Strategy • Eighth Badge
 
 ## Gym trainers
 
-| **Coach** | **Reference** |
-|---------------------|----------------|
-| Rocker Cole | Gym |
-| Black Belt Kiyo | Gym |
-| Cooltrainer Samuel | Gym |
-| Cooltrainer Yuji | Gym |
-| Black Belt Atsushi | Gym |
-| Rocker Jason | Gym |
-| Cooltrainer Warren | Gym |
-| Black Belt Takashi | Gym |
-| Gym Leader Giovanni | Final combat |
+| **Coach** | **Reference** | **Team** |
+|---------------------|----------------|---|
+| Rocker Cole | Gym | Arbok Lv. 39 · Tauros Lv. 39 |
+| Black Belt Kiyo | Gym | Machoke Lv. 43 |
+| Cooltrainer Samuel | Gym | Sandslash Lv. 37 · Sandslash Lv. 37 · Rhyhorn Lv. 38 · Nidorino Lv. 39 · Nidoking Lv. 39 |
+| Cooltrainer Yuji | Gym | Sandslash Lv. 38 · Graveler Lv. 38 · Onix Lv. 38 · Graveler Lv. 38 · Marowak Lv. 38 |
+| Black Belt Atsushi | Gym | Machop Lv. 40 · Machoke Lv. 40 |
+| Rocker Jason | Gym | Rhyhorn Lv. 43 |
+| Cooltrainer Warren | Gym | Marowak Lv. 37 · Marowak Lv. 37 · Rhyhorn Lv. 38 · Nidorina Lv. 39 · Nidoqueen Lv. 39 |
+| Black Belt Takashi | Gym | Machoke Lv. 38 · Machop Lv. 38 · Machoke Lv. 38 |
+| Gym Leader Giovanni | Final combat | Rhyhorn Lv. 45 · Dugtrio Lv. 42 · Nidoqueen Lv. 44 · Nidoking Lv. 45 · Rhyhorn Lv. 50 |
 
 ## Combat plan
 

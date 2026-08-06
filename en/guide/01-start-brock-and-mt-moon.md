@@ -305,15 +305,13 @@ Viridian Forest. The map shows the main route, objects and trainers.
 
 ## Trainers
 
-- Bug Catcher Rick
-
-- Bug Catcher Doug
-
-- Bug Catcher Anthony
-
-- Bug Catcher Charlie
-
-- Bug Catcher Sammy
+| **Trainer** | **Team** |
+|---|---|
+| Bug Catcher Rick | Weedle Lv. 6 · Caterpie Lv. 6 |
+| Bug Catcher Doug | Weedle Lv. 7 · Kakuna Lv. 7 · Weedle Lv. 7 |
+| Bug Catcher Anthony | Caterpie Lv. 7 · Caterpie Lv. 8 |
+| Bug Catcher Charlie | Metapod Lv. 7 · Caterpie Lv. 7 · Metapod Lv. 7 |
+| Bug Catcher Sammy | Weedle Lv. 9 |
 
 <table>
 <colgroup>
@@ -439,16 +437,16 @@ Route 3: linear route towards the entrance of Mt. Moon.
 | Sandshrew | 1-10% day/night |
 | Mankey | 1-10% day |
 
-| **Coaches** |     |
-|--------------------|-----|
-| Lass Janice |     |
-| Bug Catcher Colton |     |
-| Youngster Ben |     |
-| Bug Catcher Greg |     |
-| Youngster Calvin |     |
-| Lass Sally |     |
-| Bug Catcher James |     |
-| Lass Robin |     |
+| **Trainer** | **Team** |
+|---|---|
+| Lass Janice | Pidgey Lv. 9 · Pidgey Lv. 9 |
+| Bug Catcher Colton | Caterpie Lv. 10 · Weedle Lv. 10 · Caterpie Lv. 10 |
+| Youngster Ben | Rattata Lv. 11 · Ekans Lv. 11 |
+| Bug Catcher Greg | Weedle Lv. 9 · Kakuna Lv. 9 · Caterpie Lv. 9 · Metapod Lv. 9 |
+| Youngster Calvin | Spearow Lv. 14 |
+| Lass Sally | Rattata Lv. 10 · Nidoran♀ Lv. 10 |
+| Bug Catcher James | Caterpie Lv. 11 · Metapod Lv. 11 |
+| Lass Robin | Jigglypuff Lv. 14 |
 
 <table>
 <colgroup>
@@ -523,23 +521,17 @@ Mt. Moon, basement 2: Rocket and fossils area.
 
 ## Confirmed trainers
 
-- Bug Catcher Kent (1F)
-
-- Lass Iris (1F)
-
-- Pokemaniac Jovan (1F)
-
-- Bug Catcher Robby (1F)
-
-- Lass Miriam (1F)
-
-- Youngster Josh (1F)
-
-- Hiker Mark (1F)
-
-- Rocket Grunts x4 (B2F)
-
-- Jessie and James — double combat
+| **Trainer** | **Team** |
+|---|---|
+| Bug Catcher Kent (1F) | Weedle Lv. 11 · Kakuna Lv. 11 |
+| Lass Iris (1F) | Clefairy Lv. 14 |
+| Pokemaniac Jovan (1F) | Magnemite Lv. 11 · Voltorb Lv. 11 |
+| Bug Catcher Robby (1F) | Caterpie Lv. 10 · Metapod Lv. 10 · Caterpie Lv. 10 |
+| Lass Miriam (1F) | Oddish Lv. 11 · Bellsprout Lv. 11 |
+| Youngster Josh (1F) | Rattata Lv. 10 · Rattata Lv. 10 · Zubat Lv. 10 |
+| Hiker Marcos (1F) | Geodude Lv. 10 · Geodude Lv. 10 · Onix Lv. 10 |
+| Rocket Grunts x4 (B2F) | **Grunt 1:** Rattata Lv. 13 · Zubat Lv. 13<br>**Grunt 2:** Sandshrew Lv. 11 · Rattata Lv. 11 · Zubat Lv. 11<br>**Grunt 3:** Zubat Lv. 11 · Ekans Lv. 11<br>**Grunt 4:** Rattata Lv. 13 · Sandshrew Lv. 13 |
+| Jessie and James — double combat | Ekans Lv. 14 · Meowth Lv. 14 · Koffing Lv. 14 |
 
 <table>
 <colgroup>

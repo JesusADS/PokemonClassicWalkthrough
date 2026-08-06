@@ -59,16 +59,15 @@
 
 ## Trainers/fights
 
-| **Coach** | **Zone or function** |
-|-------------------------|-------------------------------------|
-| Rocket Grunts ×3 | 1F, postgame |
-| Rocket Grunt | 3F, postgame |
-| Postgame Rocket Leader | End of the new assault |
-| Silph President | Combat for Battle Points / rematch |
+| **Coach** | **Zone or function** | **Team** |
+|-------------------------|-------------------------------------|---|
+| Rocket Grunts ×3 | 1F, postgame | **Grunt 1:** Golbat Lv. 50 · Sandslash Lv. 50 · Kingler Lv. 50 · Raticate Lv. 50<br>**Grunt 2:** Raticate Lv. 50 · Onix Lv. 50 · Victreebel Lv. 50 · Tauros Lv. 50<br>**Grunt 3:** Golem Lv. 50 · Kangaskhan Lv. 50 · Poliwrath Lv. 50 · Fearow Lv. 50 |
+| Rocket Grunt | 3F, postgame | Golbat Lv. 50 · Sandslash Lv. 50 · Kingler Lv. 50 · Raticate Lv. 50 · Magmar Lv. 50 |
+| Postgame Rocket Leader | End of the new assault | Arbok Lv. 55 · Rhyhorn Lv. 55 · Scyther Lv. 55 · Raticate Lv. 55 · Muk Lv. 55 |
+| Silph President | Combat for Battle Points / rematch | Tauros Lv. 60 · Snorlax Lv. 60 · Chansey Lv. 60 · Lapras Lv. 60 · Alakazam Lv. 60 · Persian Lv. 60 |
 
-| **UNPUBLISHED DATA** |
-|-------------------------------------------------------------------------------------------------------------------------------------------|
-| The source does not detail leader Rocket's team or that of the president; Be prepared with postgame-level gear and varied coverage. |
+> [!NOTE]
+> These battle teams were checked against Pokémon Classic v1.5's internal data.
 
 ## Checklist
 
@@ -239,12 +238,12 @@
 
 ## Trainers/fights
 
-| **Coach** | **Zone or function** |
-|------------------------|------------------------|
-| Cooltrainer Erin | Viridian Forest Event |
-| Dojo Trainers | EV Training |
-| Lass Kairi | Faraway Island |
-| Silph President | Daily Combat / BP |
+| **Coach** | **Zone or function** | **Team** |
+|------------------------|------------------------|---|
+| Cooltrainer Erin | Viridian Forest Event | Wartortle Lv. 65 · Haunter Lv. 65 · Clefairy Lv. 65 · Jolteon Lv. 65 · Flareon Lv. 65 · Vaporeon Lv. 72 |
+| Dojo Trainers | EV Training | **Master:** Wigglytuff Lv. 37 · Machamp Lv. 37 · Alakazam Lv. 37 · Golem Lv. 37 · Blastoise Lv. 37 · Raichu Lv. 37<br>**HP:** Wigglytuff Lv. 35 · Wigglytuff Lv. 35 · Wigglytuff Lv. 35 · Wigglytuff Lv. 35<br>**Attack:** Machamp Lv. 35 · Machamp Lv. 35 · Machamp Lv. 35 · Machamp Lv. 35<br>**Special Attack:** Alakazam Lv. 35 · Alakazam Lv. 35 · Alakazam Lv. 35 · Alakazam Lv. 35<br>**Defense:** Golem Lv. 35 · Golem Lv. 35 · Golem Lv. 35 · Golem Lv. 35<br>**Special Defense:** Blastoise Lv. 35 · Blastoise Lv. 35 · Blastoise Lv. 35 · Blastoise Lv. 35<br>**Speed:** Raichu Lv. 35 · Raichu Lv. 35 · Raichu Lv. 35 · Raichu Lv. 35 |
+| Lass Kairi | Faraway Island | Vaporeon Lv. 75 · Jigglypuff Lv. 65 · Aerodactyl Lv. 65 · Charizard Lv. 65 · Butterfree Lv. 65 · Mew Lv. 65 |
+| Silph President | Daily Combat / BP | Tauros Lv. 60 · Snorlax Lv. 60 · Chansey Lv. 60 · Lapras Lv. 60 · Alakazam Lv. 60 · Persian Lv. 60 |
 
 ## Checklist
 

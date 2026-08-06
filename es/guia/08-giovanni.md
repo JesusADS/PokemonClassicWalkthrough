@@ -44,17 +44,17 @@ Gimnasio • Equipo • Entrenadores • Estrategia • Octava medalla
 
 ## Entrenadores del gimnasio
 
-| **Entrenador**      | **Referencia** |
-|---------------------|----------------|
-| Rocker Cole         | Gimnasio       |
-| Black Belt Kiyo     | Gimnasio       |
-| Cooltrainer Samuel  | Gimnasio       |
-| Cooltrainer Yuji    | Gimnasio       |
-| Black Belt Atsushi  | Gimnasio       |
-| Rocker Jason        | Gimnasio       |
-| Cooltrainer Warren  | Gimnasio       |
-| Black Belt Takashi  | Gimnasio       |
-| Gym Leader Giovanni | Combate final  |
+| **Entrenador**      | **Referencia** | **Equipo** |
+|---------------------|----------------|---|
+| Rocker Cole         | Gimnasio       | Arbok Nv. 39 · Tauros Nv. 39 |
+| Black Belt Kiyo     | Gimnasio       | Machoke Nv. 43 |
+| Cooltrainer Samuel  | Gimnasio       | Sandslash Nv. 37 · Sandslash Nv. 37 · Rhyhorn Nv. 38 · Nidorino Nv. 39 · Nidoking Nv. 39 |
+| Cooltrainer Yuji    | Gimnasio       | Sandslash Nv. 38 · Graveler Nv. 38 · Onix Nv. 38 · Graveler Nv. 38 · Marowak Nv. 38 |
+| Black Belt Atsushi  | Gimnasio       | Machop Nv. 40 · Machoke Nv. 40 |
+| Rocker Jason        | Gimnasio       | Rhyhorn Nv. 43 |
+| Cooltrainer Warren  | Gimnasio       | Marowak Nv. 37 · Marowak Nv. 37 · Rhyhorn Nv. 38 · Nidorina Nv. 39 · Nidoqueen Nv. 39 |
+| Black Belt Takashi  | Gimnasio       | Machoke Nv. 38 · Machop Nv. 38 · Machoke Nv. 38 |
+| Gym Leader Giovanni | Combate final  | Rhyhorn Nv. 45 · Dugtrio Nv. 42 · Nidoqueen Nv. 44 · Nidoking Nv. 45 · Rhyhorn Nv. 50 |
 
 ## Plan de combate
 

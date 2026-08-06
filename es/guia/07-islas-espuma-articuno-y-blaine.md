@@ -80,19 +80,19 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 ## Entrenadores
 
-| **Entrenador**          | **Zona / referencia** |
-|-------------------------|-----------------------|
-| Tuber Richie            | Zona norte            |
-| Tuber Lizzie            | Zona norte            |
-| Swimmer Tony            | Tramo inicial         |
-| Swimmer David           | Tramo central         |
-| Swimmer Douglas         | Tramo central         |
-| Swimmer Matthew         | Tramo central         |
-| Swimmer Lia y Tuber Luc | Combate doble         |
-| Swimmer Alice           | Tramo sur             |
-| Swimmer Connie          | Tramo sur             |
-| Swimmer Axle            | Tramo final           |
-| Swimmer Anya            | Tramo final           |
+| **Entrenador**          | **Zona / referencia** | **Equipo** |
+|-------------------------|-----------------------|---|
+| Tuber Richie            | Zona norte            | Tentacool Nv. 30 · Shellder Nv. 30 |
+| Tuber Lizzie            | Zona norte            | Goldeen Nv. 29 · Horsea Nv. 29 · Staryu Nv. 29 |
+| Swimmer Tony            | Tramo inicial         | Horsea Nv. 30 · Horsea Nv. 30 |
+| Swimmer David           | Tramo central         | Goldeen Nv. 29 · Shellder Nv. 29 · Seaking Nv. 29 |
+| Swimmer Douglas         | Tramo central         | Horsea Nv. 27 · Tentacool Nv. 27 · Tentacool Nv. 27 · Goldeen Nv. 27 |
+| Swimmer Matthew         | Tramo central         | Poliwag Nv. 30 · Poliwhirl Nv. 30 |
+| Swimmer Lia y Tuber Luc | Combate doble         | Goldeen Nv. 30 · Seaking Nv. 30 |
+| Swimmer Alice           | Tramo sur             | Goldeen Nv. 30 · Seaking Nv. 30 |
+| Swimmer Connie          | Tramo sur             | Staryu Nv. 29 · Staryu Nv. 29 · Staryu Nv. 29 |
+| Swimmer Axle            | Tramo final           | Tentacool Nv. 27 · Tentacool Nv. 27 · Staryu Nv. 27 · Horsea Nv. 27 · Tentacruel Nv. 27 |
+| Swimmer Anya            | Tramo final           | Poliwag Nv. 27 · Goldeen Nv. 27 · Seaking Nv. 27 · Goldeen Nv. 27 · Poliwag Nv. 27 |
 
 ## ⚠ Antes de continuar
 
@@ -153,22 +153,22 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 ## Entrenadores
 
-| **Entrenador**                         | **Zona / referencia** |
-|----------------------------------------|-----------------------|
-| Swimmer Barry                          | Tramo oriental        |
-| Swimmer Darrin                         | Tramo oriental        |
-| Swimmer Shirley                        | Tramo oriental        |
-| Camper (nombre pendiente en la fuente) | Isleta central        |
-| Camper Irene                           | Isleta central        |
-| Swimmer Tiffany                        | Tramo central         |
-| Dragon Tamer Roger                     | Tramo central         |
-| Swimmer Nora                           | Tramo occidental      |
-| Swimmer Dean                           | Tramo occidental      |
-| Picnicker Missy                        | Isleta occidental     |
-| Swimmer Melissa                        | Final de la ruta      |
+| **Entrenador**                         | **Zona / referencia** | **Equipo** |
+|----------------------------------------|-----------------------|---|
+| Swimmer Barry                          | Tramo oriental        | Shellder Nv. 31 · Cloyster Nv. 31 |
+| Swimmer Darrin                         | Tramo oriental        | Horsea Nv. 28 · Horsea Nv. 28 · Seadra Nv. 28 · Horsea Nv. 28 |
+| Swimmer Shirley                        | Tramo oriental        | Seadra Nv. 30 · Horsea Nv. 30 · Seadra Nv. 30 |
+| Camper (nombre pendiente en la fuente) | Isleta central        | No consta como combate en los datos de v1.5. |
+| Camper Irene                           | Isleta central        | Tentacool Nv. 30 · Horsea Nv. 30 · Seel Nv. 30 |
+| Swimmer Tiffany                        | Tramo central         | Seaking Nv. 35 |
+| Dragon Tamer Roger                     | Tramo central         | Gyarados Nv. 30 · Gyarados Nv. 30 · Gyarados Nv. 30 |
+| Swimmer Nora                           | Tramo occidental      | Shellder Nv. 30 · Shellder Nv. 30 · Cloyster Nv. 30 |
+| Swimmer Dean                           | Tramo occidental      | Staryu Nv. 35 |
+| Picnicker Missy                        | Isleta occidental     | Goldeen Nv. 31 · Seaking Nv. 31 |
+| Swimmer Melissa                        | Final de la ruta      | Poliwag Nv. 31 · Seaking Nv. 31 |
 
-| **NOTA DE LA FUENTE** Uno de los entrenadores aparece como “Camper Camper” en la guía original; se conserva la incertidumbre en lugar de inventar un nombre. |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **NOTA DE LA FUENTE** La guía original muestra “Camper Camper”, pero los datos de entrenadores de v1.5 no contienen un combate equivalente. Por eso no se inventa un nombre ni un equipo. |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## ⚠ Antes de continuar
 
@@ -256,9 +256,9 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 ## Entrenadores
 
-| **Entrenador**     | **Zona / referencia** |
-|--------------------|-----------------------|
-| Black Belt Michael | Interior de la cueva  |
+| **Entrenador**     | **Zona / referencia** | **Equipo** |
+|--------------------|-----------------------|---|
+| Black Belt Michael | Interior de la cueva  | Pikachu Nv. 50 · Rapidash Nv. 50 · Arcanine Nv. 50 · Charizard Nv. 50 · Ninetales Nv. 55 |
 
 | **ANTES DE ARTICUNO** Guarda la partida y lleva Ultra Ball, curas y un movimiento de estado. Articuno puede ser una pieza decisiva contra Lance. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -336,9 +336,9 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 ## Entrenadores
 
-| **Entrenador** | **Zona / referencia** |
-|----------------|-----------------------|
-| Gambler Ryan   | Isla Canela           |
+| **Entrenador** | **Zona / referencia** | **Equipo** |
+|----------------|-----------------------|---|
+| Gambler Ryan   | Isla Canela           | Venomoth Nv. 36 · Tentacool Nv. 32 · Weepinbell Nv. 32 · Koffing Nv. 32 · Zubat Nv. 32 · Gengar Nv. 42 |
 
 ## ⚠ Antes de continuar
 
@@ -415,15 +415,15 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 ## Entrenadores
 
-| **Entrenador**    | **Zona / referencia** |
-|-------------------|-----------------------|
-| Youngster Johnson | 1F                    |
-| Scientist Ted     | 1F                    |
-| Burglar Arnie     | 2F                    |
-| Burglar Simon     | 3F                    |
-| Scientist Braydon | 3F                    |
-| Burglar Lewis     | B1F                   |
-| Scientist Ivan    | B1F                   |
+| **Entrenador**    | **Zona / referencia** | **Equipo** |
+|-------------------|-----------------------|---|
+| Youngster Johnson | 1F                    | Ekans Nv. 33 · Ekans Nv. 33 · Raticate Nv. 34 |
+| Scientist Ted     | 1F                    | Electrode Nv. 29 · Weezing Nv. 29 |
+| Burglar Arnie     | 2F                    | Charmander Nv. 34 · Charmeleon Nv. 34 |
+| Burglar Simon     | 3F                    | Ninetales Nv. 38 |
+| Scientist Braydon | 3F                    | Magnemite Nv. 33 · Magneton Nv. 33 · Voltorb Nv. 33 |
+| Burglar Lewis     | B1F                   | Growlithe Nv. 34 · Ponyta Nv. 34 |
+| Scientist Ivan    | B1F                   | Magnemite Nv. 34 · Electrode Nv. 34 |
 
 | **OBJETOS CLAVE** No salgas sin revisar B1F: allí están MT14, MT22 y el Old Sea Map. |
 |--------------------------------------------------------------------------------------|
@@ -455,16 +455,16 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 ## Entrenadores del gimnasio
 
-| **Entrenador**    | **Referencia**         |
-|-------------------|------------------------|
-| Burglar Quinn     | Sala inicial           |
-| Scientist Erik    | Recorrido del gimnasio |
-| Scientist Avery   | Recorrido del gimnasio |
-| Burglar Ramon     | Recorrido del gimnasio |
-| Scientist Derek   | Recorrido del gimnasio |
-| Burglar Dusty     | Recorrido del gimnasio |
-| Scientist Zac     | Antes de Blaine        |
-| Gym Leader Blaine | Combate final          |
+| **Entrenador**    | **Referencia**         | **Equipo** |
+|-------------------|------------------------|---|
+| Burglar Quinn     | Sala inicial           | Growlithe Nv. 36 · Vulpix Nv. 36 · Ninetales Nv. 36 |
+| Scientist Erik    | Recorrido del gimnasio | Vulpix Nv. 36 · Vulpix Nv. 36 · Ninetales Nv. 36 |
+| Scientist Avery   | Recorrido del gimnasio | Ponyta Nv. 34 · Charmander Nv. 34 · Vulpix Nv. 34 · Growlithe Nv. 34 |
+| Burglar Ramon     | Recorrido del gimnasio | Ponyta Nv. 41 |
+| Scientist Derek   | Recorrido del gimnasio | Rapidash Nv. 41 |
+| Burglar Dusty     | Recorrido del gimnasio | Vulpix Nv. 37 · Growlithe Nv. 37 |
+| Scientist Zac     | Antes de Blaine        | Growlithe Nv. 37 · Vulpix Nv. 37 |
+| Gym Leader Blaine | Combate final          | Growlithe Nv. 42 · Ponyta Nv. 40 · Rapidash Nv. 42 · Arcanine Nv. 47 |
 
 ## Plan de combate
 
@@ -540,19 +540,19 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 ## Entrenadores
 
-| **Entrenador**          | **Zona / referencia**        |
-|-------------------------|------------------------------|
-| Fisherman Claude        | Ruta 21 Sur                  |
-| Fisherman Nolan         | Ruta 21 Sur                  |
-| Juggler Johan           | Ruta 21 Sur                  |
-| Swimmer Jack            | Ruta 21 Sur                  |
-| Swimmer Roland          | Ruta 21 Sur                  |
-| Swimmer Jerome          | Ruta 21 Sur                  |
-| Fisherman Wade          | Ruta 21 Norte                |
-| Fisherman Ronald        | Ruta 21 Norte                |
-| Swimmer Lil y Tuber Ian | Combate doble, Ruta 21 Norte |
-| Cooltrainer Anri        | Ruta 21 Norte                |
-| Swimmer Spencer         | Ruta 21 Norte                |
+| **Entrenador**          | **Zona / referencia**        | **Equipo** |
+|-------------------------|------------------------------|---|
+| Fisherman Claude        | Ruta 21 Sur                  | Shellder Nv. 31 · Cloyster Nv. 31 |
+| Fisherman Nolan         | Ruta 21 Sur                  | Seaking Nv. 33 · Goldeen Nv. 33 |
+| Juggler Johan           | Ruta 21 Sur                  | Abra Nv. 16 · Mr. Mime Nv. 32 · Drowzee Nv. 32 |
+| Swimmer Jack            | Ruta 21 Sur                  | Starmie Nv. 37 |
+| Swimmer Roland          | Ruta 21 Sur                  | Poliwhirl Nv. 32 · Tentacool Nv. 32 · Seadra Nv. 32 |
+| Swimmer Jerome          | Ruta 21 Sur                  | Staryu Nv. 33 · Wartortle Nv. 33 |
+| Fisherman Wade          | Ruta 21 Norte                | Magikarp Nv. 27 · Magikarp Nv. 27 · Magikarp Nv. 27 · Magikarp Nv. 27 · Magikarp Nv. 27 · Magikarp Nv. 27 |
+| Fisherman Ronald        | Ruta 21 Norte                | Seaking Nv. 28 · Goldeen Nv. 28 · Seaking Nv. 28 · Seaking Nv. 28 |
+| Swimmer Lil y Tuber Ian | Combate doble, Ruta 21 Norte | Seadra Nv. 33 · Starmie Nv. 33 |
+| Cooltrainer Anri        | Ruta 21 Norte                | Arcanine Nv. 32 · Alakazam Nv. 32 · Slowbro Nv. 32 · Magneton Nv. 32 |
+| Swimmer Spencer         | Ruta 21 Norte                | Seadra Nv. 33 · Tentacruel Nv. 33 |
 
 ## ⚠ Antes de continuar
 

@@ -74,10 +74,11 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|----------------|--------------------------------------|
-| Rival | Early Optional Combat |
-| Rival | Mandatory fight before the League |
+| **Coach** | **Zone / reference** | **Team** |
+|----------------|--------------------------------------|---|
+| Rival | Early Optional Combat | Spearow Lv. 9 · Eevee Lv. 8 |
+| Rival | Mandatory fight before the League | **Jolteon:** Sandslash Lv. 47 · Exeggcute Lv. 45 · Ninetales Lv. 45 · Cloyster Lv. 47 · Kadabra Lv. 50 · Jolteon Lv. 53<br>**Flareon:** Sandslash Lv. 47 · Exeggcute Lv. 45 · Cloyster Lv. 45 · Magneton Lv. 47 · Kadabra Lv. 50 · Flareon Lv. 53<br>**Vaporeon:** Sandslash Lv. 47 · Exeggcute Lv. 45 · Ninetales Lv. 47 · Magneton Lv. 45 · Kadabra Lv. 50 · Vaporeon Lv. 53 |
+
 | **RIVAL TEAM** Eevee's evolution depends on the first two battles: Vaporeon if you lose the first one; Flareon if you win the first and lose or skip the second; Jolteon if you win both. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
@@ -218,22 +219,22 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 ## Trainers
 
-| **Coach** | **Zone / reference** |
-|----------------------------------|--------------------------------------------|
-| Cooltrainer Naomi | 1F |
-| Cooltrainer Rolando | 1F |
-| Black Belt Daisuke | 2F |
-| Trainer Nelson | 2F |
-| Trainer Vincent | 2F |
-| Trainer Gregory | 2F |
-| Pokemaniac Dawson | 2F |
-| Cooltrainer George | 3F |
-| Ninja Boy Orion | Double combat, 3F |
-| Cooltrainer Alexa | 3F |
-| Cooltrainer Colby | 3F |
-| Cooltrainer Caroline | 3F |
-| Cooltrainer Ray | 3F; possible double with Tyra according to source |
-| Cooltrainer Tyra | 3F; possible double with Ray according to source |
+| **Coach** | **Zone / reference** | **Team** |
+|----------------------------------|--------------------------------------------|---|
+| Cooltrainer Naomi | 1F | Persian Lv. 42 · Ponyta Lv. 42 · Rapidash Lv. 42 · Vulpix Lv. 42 · Ninetales Lv. 42 |
+| Cooltrainer Rolando | 1F | Raticate Lv. 42 · Ivysaur Lv. 42 · Wartortle Lv. 42 · Charmeleon Lv. 42 · Charizard Lv. 42 |
+| Black Belt Daisuke | 2F | Machoke Lv. 43 · Machop Lv. 43 · Machoke Lv. 43 |
+| Trainer Nelson | 2F | Drowzee Lv. 41 · Hypno Lv. 41 · Kadabra Lv. 41 · Kadabra Lv. 41 |
+| Trainer Vincent | 2F | Persian Lv. 44 · Golduck Lv. 44 |
+| Trainer Gregory | 2F | Mr. Mime Lv. 48 |
+| Pokemaniac Dawson | 2F | Charmeleon Lv. 40 · Lapras Lv. 40 · Lickitung Lv. 40 |
+| Cooltrainer George | 3F | Exeggutor Lv. 42 · Sandslash Lv. 42 · Cloyster Lv. 42 · Electrode Lv. 42 · Arcanine Lv. 42 |
+| Ninja Boy Orion | Double combat, 3F | Raichu Lv. 45 · Blastoise Lv. 45 · Slowbro Lv. 45 · Charizard Lv. 45 |
+| Cooltrainer Alexa | 3F | Clefairy Lv. 42 · Jigglypuff Lv. 42 · Persian Lv. 42 · Dewgong Lv. 42 · Chansey Lv. 42 |
+| Cooltrainer Colby | 3F | Kingler Lv. 41 · Poliwhirl Lv. 42 · Tentacruel Lv. 42 · Seadra Lv. 42 · Blastoise Lv. 43 |
+| Cooltrainer Caroline | 3F | Bellsprout Lv. 42 · Weepinbell Lv. 42 · Victreebel Lv. 42 · Paras Lv. 42 · Parasect Lv. 42 |
+| Cooltrainer Ray | 3F; possible double with Tyra according to source | Nidoqueen Lv. 45 · Nidoking Lv. 45 |
+| Cooltrainer Tyra | 3F; possible double with Ray according to source | Nidoqueen Lv. 45 · Nidoking Lv. 45 |
 
 | **BEFORE MOLTRES** Save the game. A Water or Rock Pokémon makes combat easier; carries Ultra Ball and status moves. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|

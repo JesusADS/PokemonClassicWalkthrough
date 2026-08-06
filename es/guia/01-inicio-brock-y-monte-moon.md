@@ -306,15 +306,13 @@ Bosque Verde. El mapa muestra el recorrido principal, objetos y entrenadores.
 
 ## Entrenadores
 
-- Bug Catcher Rick
-
-- Bug Catcher Doug
-
-- Bug Catcher Anthony
-
-- Bug Catcher Charlie
-
-- Bug Catcher Sammy
+| **Entrenador** | **Equipo** |
+|---|---|
+| Bug Catcher Rick | Weedle Nv. 6 · Caterpie Nv. 6 |
+| Bug Catcher Doug | Weedle Nv. 7 · Kakuna Nv. 7 · Weedle Nv. 7 |
+| Bug Catcher Anthony | Caterpie Nv. 7 · Caterpie Nv. 8 |
+| Bug Catcher Charlie | Metapod Nv. 7 · Caterpie Nv. 7 · Metapod Nv. 7 |
+| Bug Catcher Sammy | Weedle Nv. 9 |
 
 <table>
 <colgroup>
@@ -440,16 +438,16 @@ Ruta 3: recorrido lineal hacia la entrada del Monte Moon.
 | Sandshrew   | 1-10 % día/noche          |
 | Mankey      | 1-10 % de día             |
 
-| **Entrenadores**   |     |
-|--------------------|-----|
-| Lass Janice        |     |
-| Bug Catcher Colton |     |
-| Youngster Ben      |     |
-| Bug Catcher Greg   |     |
-| Youngster Calvin   |     |
-| Lass Sally         |     |
-| Bug Catcher James  |     |
-| Lass Robin         |     |
+| **Entrenador** | **Equipo** |
+|---|---|
+| Lass Janice | Pidgey Nv. 9 · Pidgey Nv. 9 |
+| Bug Catcher Colton | Caterpie Nv. 10 · Weedle Nv. 10 · Caterpie Nv. 10 |
+| Youngster Ben | Rattata Nv. 11 · Ekans Nv. 11 |
+| Bug Catcher Greg | Weedle Nv. 9 · Kakuna Nv. 9 · Caterpie Nv. 9 · Metapod Nv. 9 |
+| Youngster Calvin | Spearow Nv. 14 |
+| Lass Sally | Rattata Nv. 10 · Nidoran♀ Nv. 10 |
+| Bug Catcher James | Caterpie Nv. 11 · Metapod Nv. 11 |
+| Lass Robin | Jigglypuff Nv. 14 |
 
 <table>
 <colgroup>
@@ -525,23 +523,17 @@ Monte Moon, sótano 2: zona de Rocket y fósiles.
 
 ## Entrenadores confirmados
 
-- Bug Catcher Kent (1F)
-
-- Lass Iris (1F)
-
-- Pokemaniac Jovan (1F)
-
-- Bug Catcher Robby (1F)
-
-- Lass Miriam (1F)
-
-- Youngster Josh (1F)
-
-- Hiker Marcos (1F)
-
-- Rocket Grunts x4 (B2F)
-
-- Jessie y James — combate doble
+| **Entrenador** | **Equipo** |
+|---|---|
+| Bug Catcher Kent (1F) | Weedle Nv. 11 · Kakuna Nv. 11 |
+| Lass Iris (1F) | Clefairy Nv. 14 |
+| Pokemaniac Jovan (1F) | Magnemite Nv. 11 · Voltorb Nv. 11 |
+| Bug Catcher Robby (1F) | Caterpie Nv. 10 · Metapod Nv. 10 · Caterpie Nv. 10 |
+| Lass Miriam (1F) | Oddish Nv. 11 · Bellsprout Nv. 11 |
+| Youngster Josh (1F) | Rattata Nv. 10 · Rattata Nv. 10 · Zubat Nv. 10 |
+| Hiker Marcos (1F) | Geodude Nv. 10 · Geodude Nv. 10 · Onix Nv. 10 |
+| Rocket Grunts x4 (B2F) | **Recluta 1:** Rattata Nv. 13 · Zubat Nv. 13<br>**Recluta 2:** Sandshrew Nv. 11 · Rattata Nv. 11 · Zubat Nv. 11<br>**Recluta 3:** Zubat Nv. 11 · Ekans Nv. 11<br>**Recluta 4:** Rattata Nv. 13 · Sandshrew Nv. 13 |
+| Jessie y James — combate doble | Ekans Nv. 14 · Meowth Nv. 14 · Koffing Nv. 14 |
 
 <table>
 <colgroup>

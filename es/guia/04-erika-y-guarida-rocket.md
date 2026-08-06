@@ -105,23 +105,17 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 ## Entrenadores
 
-- Picnicker Alicia
-
-- Hiker Jeremy
-
-- Camper Chris
-
-- Bug Catcher Brent
-
-- Camper Drew
-
-- Bug Catcher Conner
-
-- Hiker Brice
-
-- Picnicker Caitlin
-
-- Hiker Alan
+| **Entrenador** | **Equipo** |
+|---|---|
+| Picnicker Alicia | Oddish Nv. 18 · Bellsprout Nv. 18 · Oddish Nv. 18 · Bellsprout Nv. 18 |
+| Hiker Jeremy | Machop Nv. 20 · Onix Nv. 20 |
+| Camper Chris | Growlithe Nv. 21 · Charmander Nv. 21 |
+| Bug Catcher Brent | Beedrill Nv. 19 · Beedrill Nv. 19 |
+| Camper Drew | Rattata Nv. 19 · Sandshrew Nv. 19 · Ekans Nv. 19 · Sandshrew Nv. 19 |
+| Bug Catcher Conner | Caterpie Nv. 20 · Weedle Nv. 20 · Venonat Nv. 20 |
+| Hiker Brice | Geodude Nv. 20 · Machop Nv. 20 · Geodude Nv. 20 |
+| Picnicker Caitlin | Meowth Nv. 23 |
+| Hiker Alan | Geodude Nv. 21 · Onix Nv. 21 |
 
 ## ⚠ Antes de continuar
 
@@ -194,17 +188,14 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 ## Entrenadores
 
-- Picnicker Heidi
-
-- Pokemaniac Mark
-
-- Picnicker Carol
-
-- Hiker Clark
-
-- Hiker Trent
-
-- Pokemaniac Herman
+| **Entrenador** | **Equipo** |
+|---|---|
+| Picnicker Heidi | Pikachu Nv. 20 · Clefairy Nv. 20 |
+| Pokemaniac Mark | Rhyhorn Nv. 29 · Lickitung Nv. 29 |
+| Picnicker Carol | Pidgey Nv. 21 · Pidgeotto Nv. 21 |
+| Hiker Clark | Geodude Nv. 21 · Onix Nv. 21 |
+| Hiker Trent | Onix Nv. 19 · Graveler Nv. 19 |
+| Pokemaniac Herman | Cubone Nv. 20 · Slowpoke Nv. 20 |
 
 | **PIKACHU** Comprueba si la Bola Luminosa funciona como objeto equipado en tu versión; si es así, puede aumentar enormemente su potencia. |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -270,9 +261,10 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 ## Entrenadores
 
-- Pokemaniac Ashton
-
-- Hiker Lenny y otros entrenadores distribuidos por las dos plantas
+| **Entrenador** | **Equipo** |
+|---|---|
+| Pokemaniac Ashton | Cubone Nv. 23 · Slowpoke Nv. 23 |
+| Hiker Lenny y otros entrenadores distribuidos por las dos plantas | Geodude Nv. 19 · Machop Nv. 19 · Geodude Nv. 19 · Geodude Nv. 19 |
 
 | **PIEDRA PODER** Guárdala hasta decidir qué evolución por intercambio quieres priorizar, como Kadabra, Machoke, Graveler o Haunter. |
 |-------------------------------------------------------------------------------------------------------------------------------------|
@@ -351,20 +343,20 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 ## Entrenadores
 
-| **Entrenador**    | **Zona / referencia** |
-|-------------------|-----------------------|
-| Lass Julia        | Ruta 8                |
-| Gambler Rich      | Ruta 8                |
-| Pokemaniac Glenn  | Ruta 8                |
-| Twins Eli y Anne  | Combate doble         |
-| Lass Paige        | Ruta 8                |
-| Pokemaniac Leslie | Ruta 8                |
-| Lass Andrea       | Ruta 8                |
-| Lass Megan        | Ruta 8                |
-| Biker Jaren       | Ruta 8                |
-| Biker Ricardo     | Ruta 8                |
-| Gambler Stan      | Ruta 8                |
-| Pokemaniac Aidan  | Ruta 8                |
+| **Entrenador**    | **Zona / referencia** | **Equipo** |
+|-------------------|-----------------------|---|
+| Lass Julia        | Ruta 8                | Clefairy Nv. 22 · Clefairy Nv. 22 |
+| Gambler Rich      | Ruta 8                | Growlithe Nv. 24 · Vulpix Nv. 24 |
+| Pokemaniac Glenn  | Ruta 8                | Grimer Nv. 22 · Muk Nv. 22 · Grimer Nv. 22 |
+| Twins Eli y Anne  | Combate doble         | Clefairy Nv. 22 · Jigglypuff Nv. 22 |
+| Lass Paige        | Ruta 8                | Nidoran♀ Nv. 23 · Nidorina Nv. 23 |
+| Pokemaniac Leslie | Ruta 8                | Koffing Nv. 26 |
+| Lass Andrea       | Ruta 8                | Meowth Nv. 24 · Meowth Nv. 24 · Meowth Nv. 24 |
+| Lass Megan        | Ruta 8                | Pidgey Nv. 19 · Rattata Nv. 19 · Nidoran♂ Nv. 19 · Meowth Nv. 19 · Pikachu Nv. 19 |
+| Biker Jaren       | Ruta 8                | Grimer Nv. 24 · Grimer Nv. 24 |
+| Biker Ricardo     | Ruta 8                | Koffing Nv. 22 · Koffing Nv. 22 · Grimer Nv. 23 |
+| Gambler Stan      | Ruta 8                | Poliwag Nv. 22 · Poliwag Nv. 22 · Poliwhirl Nv. 22 |
+| Pokemaniac Aidan  | Ruta 8                | Voltorb Nv. 20 · Koffing Nv. 20 · Voltorb Nv. 20 · Magnemite Nv. 20 |
 
 ## ⚠ Antes de continuar
 
@@ -528,14 +520,14 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasios • Ch
 
 ## Entrenadores
 
-| **Entrenador**  | **Zona / referencia**       |
-|-----------------|-----------------------------|
-| Rocket Grunt ×5 | B1F                         |
-| Rocket Grunt ×1 | B2F                         |
-| Rocket Grunt ×2 | B3F                         |
-| Rocket Grunt ×3 | B4F                         |
-| Jessie y James  | Combate doble               |
-| Giovanni        | Combate final de la guarida |
+| **Entrenador**  | **Zona / referencia**       | **Equipo** |
+|-----------------|-----------------------------|---|
+| Rocket Grunt ×5 | B1F                         | **Recluta 1:** Drowzee Nv. 21 · Machop Nv. 21<br>**Recluta 2:** Raticate Nv. 21 · Raticate Nv. 21<br>**Recluta 3:** Grimer Nv. 20 · Koffing Nv. 20 · Koffing Nv. 20<br>**Recluta 4:** Rattata Nv. 19 · Raticate Nv. 19 · Raticate Nv. 19 · Rattata Nv. 19<br>**Recluta 5:** Grimer Nv. 22 · Koffing Nv. 22 |
+| Rocket Grunt ×1 | B2F                         | Zubat Nv. 17 · Koffing Nv. 17 · Grimer Nv. 17 · Zubat Nv. 17 · Raticate Nv. 17 |
+| Rocket Grunt ×2 | B3F                         | **Recluta 1:** Rattata Nv. 20 · Raticate Nv. 20 · Drowzee Nv. 20<br>**Recluta 2:** Machop Nv. 21 · Machop Nv. 21 |
+| Rocket Grunt ×3 | B4F                         | **Recluta 1:** Sandshrew Nv. 23 · Ekans Nv. 23 · Sandslash Nv. 23<br>**Recluta 2:** Ekans Nv. 23 · Sandshrew Nv. 23 · Arbok Nv. 23<br>**Recluta 3:** Koffing Nv. 21 · Zubat Nv. 21 |
+| Jessie y James  | Combate doble               | Koffing Nv. 21 · Ekans Nv. 21 · Meowth Nv. 22 · Lickitung Nv. 22 |
+| Giovanni        | Combate final de la guarida | Onix Nv. 25 · Rhyhorn Nv. 24 · Kangaskhan Nv. 29 |
 
 | **AVISO** La guarida contiene muchas MT que no conviene perder. Recorre cada planta antes de abandonar el edificio. |
 |---------------------------------------------------------------------------------------------------------------------|

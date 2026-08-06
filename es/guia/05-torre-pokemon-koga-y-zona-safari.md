@@ -100,15 +100,15 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**                        | **Zona / referencia** |
-|---------------------------------------|-----------------------|
-| Rival                                 | 2F                    |
-| Channeler Hope, Carly y Patricia      | 3F                    |
-| Channeler Laurel, Jody y Paula        | 4F                    |
-| Channeler Ruth, Tammy, Karina y Janae | 5F                    |
-| Channeler Angelica, Jennifer y Emilia | 6F                    |
-| Jessie y James                        | Combate doble, 7F     |
-| Rocket Grunt ×3                       | 7F                    |
+| **Entrenador**                        | **Zona / referencia** | **Equipo** |
+|---------------------------------------|-----------------------|---|
+| Rival                                 | 2F                    | **Jolteon:** Fearow Nv. 25 · Vulpix Nv. 23 · Shellder Nv. 22 · Sandshrew Nv. 20 · Eevee Nv. 24<br>**Flareon:** Fearow Nv. 25 · Shellder Nv. 22 · Magnemite Nv. 22 · Sandshrew Nv. 20 · Eevee Nv. 24<br>**Vaporeon:** Fearow Nv. 25 · Vulpix Nv. 23 · Magnemite Nv. 22 · Sandshrew Nv. 20 · Eevee Nv. 24 |
+| Channeler Hope, Carly y Patricia      | 3F                    | **Hope:** Gastly Nv. 23<br>**Patricia:** Gastly Nv. 22<br>**Carly:** Gastly Nv. 24 |
+| Channeler Laurel, Jody y Paula        | 4F                    | **Jody:** Gastly Nv. 22<br>**Laurel:** Gastly Nv. 23 · Gastly Nv. 23<br>**Paula:** Gastly Nv. 24 |
+| Channeler Ruth, Tammy, Karina y Janae | 5F                    | **Tammy:** Haunter Nv. 23<br>**Ruth:** Gastly Nv. 22<br>**Karina:** Gastly Nv. 24<br>**Janae:** Gastly Nv. 22 |
+| Channeler Angelica, Jennifer y Emilia | 6F                    | **Jennifer:** Gastly Nv. 24<br>**Emilia:** Gastly Nv. 24<br>**Angelica:** Gastly Nv. 22 · Gastly Nv. 22 · Gastly Nv. 22 |
+| Jessie y James                        | Combate doble, 7F     | Ekans Nv. 26 · Koffing Nv. 26 · Lickitung Nv. 28 · Meowth Nv. 28 |
+| Rocket Grunt ×3                       | 7F                    | **Recluta 1:** Zubat Nv. 25 · Zubat Nv. 25 · Golbat Nv. 25<br>**Recluta 2:** Koffing Nv. 26 · Drowzee Nv. 26<br>**Recluta 3:** Zubat Nv. 23 · Rattata Nv. 23 · Raticate Nv. 23 · Zubat Nv. 23 |
 
 | **CAPTURA RECOMENDADA** Gastly aporta inmunidades útiles, movimientos de estado y una línea evolutiva muy potente. |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -179,13 +179,13 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**                     | **Zona / referencia** |
-|------------------------------------|-----------------------|
-| Fisherman Ned, Chip, Hank y Elliot | Pasarelas de pesca    |
-| School Kid Jess y Gia              | Combate doble         |
-| Rocker Luca                        | Tramo central         |
-| Camper Justin                      | Tramo sur             |
-| Fisherman Andrew                   | Final de la ruta      |
+| **Entrenador**                     | **Zona / referencia** | **Equipo** |
+|------------------------------------|-----------------------|---|
+| Fisherman Ned, Chip, Hank y Elliot | Pasarelas de pesca    | **Chip:** Tentacool Nv. 24 · Goldeen Nv. 24<br>**Elliot:** Poliwag Nv. 21 · Shellder Nv. 21 · Goldeen Nv. 21 · Horsea Nv. 21<br>**Ned:** Goldeen Nv. 22 · Poliwag Nv. 22 · Goldeen Nv. 22<br>**Hank:** Goldeen Nv. 27 |
+| School Kid Jess y Gia              | Combate doble         | Nidorino Nv. 24 · Nidorina Nv. 24 |
+| Rocker Luca                        | Tramo central         | Voltorb Nv. 29 · Electrode Nv. 29 |
+| Camper Justin                      | Tramo sur             | Nidoran♂ Nv. 29 · Nidorino Nv. 29 |
+| Fisherman Andrew                   | Final de la ruta      | Magikarp Nv. 24 · Magikarp Nv. 24 |
 
 | **ANTES DE LUCHAR CON SNORLAX** Guarda la partida y lleva varias Ultra Ball o Super Ball. Paralizarlo o dormirlo facilita mucho la captura. |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -253,16 +253,16 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**           | **Zona / referencia** |
-|--------------------------|-----------------------|
-| Picnicker Alma           | Zona inicial          |
-| Rocker Sebastian         | Laberinto             |
-| Picnicker Susie          | Laberinto             |
-| Beauty Lola y Sheila     | Laberinto             |
-| Picnicker Valerie y Gwen | Tramo medio           |
-| Rocker Robert            | Tramo sur             |
-| Biker Jared              | Tramo sur             |
-| Rocker Perry             | Salida                |
+| **Entrenador**           | **Zona / referencia** | **Equipo** |
+|--------------------------|-----------------------|---|
+| Picnicker Alma           | Zona inicial          | Goldeen Nv. 28 · Poliwag Nv. 28 · Horsea Nv. 28 |
+| Rocker Sebastian         | Laberinto             | Pidgey Nv. 29 · Pidgeotto Nv. 29 |
+| Picnicker Susie          | Laberinto             | Pidgey Nv. 24 · Meowth Nv. 24 · Rattata Nv. 24 · Pikachu Nv. 24 · Meowth Nv. 24 |
+| Beauty Lola y Sheila     | Laberinto             | **Sheila:** Clefairy Nv. 29 · Meowth Nv. 29<br>**Lola:** Rattata Nv. 27 · Pikachu Nv. 27 · Rattata Nv. 27 |
+| Picnicker Valerie y Gwen | Tramo medio           | **Gwen:** Pidgey Nv. 27 · Meowth Nv. 27 · Pidgey Nv. 27 · Pidgeotto Nv. 27<br>**Valerie:** Poliwag Nv. 30 · Poliwag Nv. 30 |
+| Rocker Robert            | Tramo sur             | Pidgey Nv. 26 · Pidgeotto Nv. 26 · Spearow Nv. 26 · Fearow Nv. 26 |
+| Biker Jared              | Tramo sur             | Koffing Nv. 28 · Koffing Nv. 28 · Koffing Nv. 28 |
+| Rocker Perry             | Salida                | Spearow Nv. 25 · Pidgey Nv. 25 · Pidgey Nv. 25 · Spearow Nv. 25 · Spearow Nv. 25 |
 
 ## ⚠ Antes de continuar
 
@@ -308,12 +308,12 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**                                  | **Zona / referencia** |
-|-------------------------------------------------|-----------------------|
-| Birdkeeper Carter, Mitch, Beck, Marlon y Donald | Mitad norte           |
-| Twins Jan y Kiri                                | Combate doble         |
-| Biker Lukas, Gerald, Malik e Isaac              | Mitad sur             |
-| Hex Maniac Camran                               | Final                 |
+| **Entrenador**                                  | **Zona / referencia** | **Equipo** |
+|-------------------------------------------------|-----------------------|---|
+| Birdkeeper Carter, Mitch, Beck, Marlon y Donald | Mitad norte           | **Carter:** Pidgey Nv. 28 · Doduo Nv. 28 · Pidgeotto Nv. 28<br>**Beck:** Pidgeotto Nv. 29 · Fearow Nv. 29<br>**Marlon:** Spearow Nv. 28 · Doduo Nv. 28 · Fearow Nv. 28<br>**Donald:** Farfetch'd Nv. 33<br>**Mitch:** Pidgey Nv. 26 · Spearow Nv. 26 · Pidgey Nv. 26 · Fearow Nv. 26 |
+| Twins Jan y Kiri                                | Combate doble         | Charmander Nv. 29 · Squirtle Nv. 29 |
+| Biker Lukas, Gerald, Malik e Isaac              | Mitad sur             | **Isaac:** Grimer Nv. 28 · Grimer Nv. 28 · Koffing Nv. 28<br>**Malik:** Koffing Nv. 29 · Grimer Nv. 29<br>**Gerald:** Koffing Nv. 29 · Muk Nv. 29<br>**Lukas:** Koffing Nv. 26 · Koffing Nv. 26 · Grimer Nv. 26 · Koffing Nv. 26 |
+| Hex Maniac Camran                               | Final                 | Flareon Nv. 32 · Jolteon Nv. 32 · Vaporeon Nv. 32 · Eevee Nv. 35 |
 
 ## ⚠ Antes de continuar
 
@@ -358,16 +358,16 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 ## Entrenadores
 
-| **Entrenador**                 | **Zona / referencia** |
-|--------------------------------|-----------------------|
-| Biker Ernest y Alex            | Zona inicial          |
-| Beauty Grace y Olivia          | Tramo superior        |
-| Picnicker Kindra               | Tramo medio           |
-| Birdkeeper Chester y Edwin     | Tramo medio           |
-| Picnicker Yazmin y Becky       | Tramo inferior        |
-| Blackbelt Ron y Triathlete Mya | Combate doble         |
-| Picnicker Celia                | Final                 |
-| School Kid Conan               | Final                 |
+| **Entrenador**                 | **Zona / referencia** | **Equipo** |
+|--------------------------------|-----------------------|---|
+| Biker Ernest y Alex            | Zona inicial          | **Alex:** Koffing Nv. 28 · Grimer Nv. 28 · Weezing Nv. 28<br>**Ernest:** Koffing Nv. 25 · Koffing Nv. 25 · Weezing Nv. 25 · Koffing Nv. 25 · Grimer Nv. 25 |
+| Beauty Grace y Olivia          | Tramo superior        | **Olivia:** Bulbasaur Nv. 29 · Ivysaur Nv. 29<br>**Grace:** Pidgeotto Nv. 29 · Wigglytuff Nv. 29 |
+| Picnicker Kindra               | Tramo medio           | Gloom Nv. 28 · Oddish Nv. 28 · Oddish Nv. 28 |
+| Birdkeeper Chester y Edwin     | Tramo medio           | **Edwin:** Pidgeotto Nv. 26 · Farfetch'd Nv. 26 · Doduo Nv. 26 · Pidgey Nv. 26<br>**Chester:** Dodrio Nv. 28 · Doduo Nv. 28 · Doduo Nv. 28 |
+| Picnicker Yazmin y Becky       | Tramo inferior        | **Becky:** Pikachu Nv. 29 · Raichu Nv. 29<br>**Yazmin:** Bellsprout Nv. 29 · Oddish Nv. 29 · Tangela Nv. 29 |
+| Blackbelt Ron y Triathlete Mya | Combate doble         | Hitmonchan Nv. 29 · Hitmonlee Nv. 29 |
+| Picnicker Celia                | Final                 | Clefairy Nv. 33 |
+| School Kid Conan               | Final                 | Bulbasaur Nv. 29 · Squirtle Nv. 29 · Charmander Nv. 29 · Ponyta Nv. 29 · Krabby Nv. 29 · Omastar Nv. 40 |
 
 | **VOLVER MÁS TARDE** Tras derrotar a Sabrina, vuelve al puesto de control para recibir el Repartir Exp. |
 |---------------------------------------------------------------------------------------------------------|

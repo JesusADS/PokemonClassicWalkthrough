@@ -187,17 +187,17 @@
 
 ## Trainers/fights
 
-| **Coach** | **Zone or function** |
-|------------------|------|
-| Bug Catcher Cale | Route 24 |
-| Lass Ali | Route 24 |
-| Youngster Timmy | Route 24 |
-| Lass Reli | Route 24 |
-| Camper Ethan | Route 24 |
-| Disguised Rocket | Extended story |
-| Camper Shane | Route 24 |
-| Rocket Grunt | Extended story |
-| Jessie and James | Double combat |
+| **Coach** | **Zone or function** | **Team** |
+|------------------|------|---|
+| Bug Catcher Cale | Route 24 | Caterpie Lv. 10 · Weedle Lv. 10 · Metapod Lv. 10 · Kakuna Lv. 10 |
+| Lass Ali | Route 24 | Pidgey Lv. 12 · Oddish Lv. 12 · Bellsprout Lv. 12 |
+| Youngster Timmy | Route 24 | Sandshrew Lv. 14 · Ekans Lv. 14 |
+| Lass Reli | Route 24 | Nidoran♂ Lv. 16 · Nidoran♀ Lv. 16 |
+| Camper Ethan | Route 24 | Mankey Lv. 18 |
+| Disguised Rocket | Extended story | Ekans Lv. 15 · Zubat Lv. 15 |
+| Camper Shane | Route 24 | Rattata Lv. 14 · Ekans Lv. 14 |
+| Rocket Grunt | Extended story | Ekans Lv. 15 · Zubat Lv. 15 |
+| Jessie and James | Double combat | Ekans Lv. 17 · Meowth Lv. 17 · Koffing Lv. 17 · Lickitung Lv. 17 |
 
 ## Checklist
 
@@ -337,9 +337,9 @@
 
 ## Trainers/fights
 
-| **Coach** | **Zone or function** |
-|----------------|-------------------------------------------------------------|
-| Lass Kairi | Post-game event after capturing the match and becoming Champion |
+| **Coach** | **Zone or function** | **Team** |
+|----------------|-------------------------------------------------------------|---|
+| Lass Kairi | Post-game event after capturing the match and becoming Champion | Vaporeon Lv. 75 · Jigglypuff Lv. 65 · Aerodactyl Lv. 65 · Charizard Lv. 65 · Butterfree Lv. 65 · Mew Lv. 65 |
 
 | **VISUAL INFORMATION** |
 |-----------------------------------------------------------------------------------------------------------------|

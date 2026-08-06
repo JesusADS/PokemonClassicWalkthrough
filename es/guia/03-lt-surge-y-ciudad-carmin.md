@@ -91,17 +91,14 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 ## Entrenadores
 
-- Bug Catcher Keigo
-
-- Camper Ricky
-
-- Picnicker Nancy
-
-- Bug Catcher Elijah
-
-- Picnicker Isabelle
-
-- Camper Jeff
+| **Entrenador** | **Equipo** |
+|---|---|
+| Bug Catcher Keigo | Weedle Nv. 16 · Caterpie Nv. 16 · Venonat Nv. 16 |
+| Camper Ricky | Squirtle Nv. 20 |
+| Picnicker Nancy | Rattata Nv. 16 · Pikachu Nv. 16 |
+| Bug Catcher Elijah | Butterfree Nv. 20 |
+| Picnicker Isabelle | Pidgey Nv. 16 · Pidgey Nv. 16 · Pidgey Nv. 16 |
+| Camper Jeff | Spearow Nv. 16 · Raticate Nv. 16 |
 
 ## ⚠ Antes de continuar
 
@@ -233,16 +230,18 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes explorar ahora su zona
 
 ## Entrenadores
 
-- Gambler Hugo
-- Youngster Eddie
-- Youngster Dave
-- Youngster Dillon
-- Engineer Bernie
-- Gambler Jasper
-- Engineer Braxton
-- Gambler Darian
-- Youngster Yasu
-- Gambler Dirk
+| **Entrenador** | **Equipo** |
+|---|---|
+| Gambler Hugo | Poliwag Nv. 18 · Horsea Nv. 18 |
+| Youngster Eddie | Ekans Nv. 21 |
+| Youngster Dave | Nidoran♂ Nv. 18 · Nidorino Nv. 18 |
+| Youngster Dillon | Sandshrew Nv. 19 · Zubat Nv. 19 |
+| Engineer Bernie | Magnemite Nv. 18 · Magnemite Nv. 18 · Voltorb Nv. 18 |
+| Gambler Jasper | Bellsprout Nv. 18 · Oddish Nv. 18 |
+| Engineer Braxton | Magnemite Nv. 21 |
+| Gambler Darian | Growlithe Nv. 18 · Vulpix Nv. 18 |
+| Youngster Yasu | Rattata Nv. 17 · Rattata Nv. 17 · Raticate Nv. 17 |
+| Gambler Dirk | Voltorb Nv. 18 · Magnemite Nv. 18 |
 
 ## ⚠ Antes de continuar
 
@@ -328,19 +327,15 @@ La Ruta 11 se encuentra al este de Ciudad Carmín. Puedes explorar ahora su zona
 
 ## Entrenadores
 
-- Rival, corredor 2F
-
-- Sailor Trevor y Sailor Edmond, cubierta
-
-- Lass Ann y Youngster Tyler
-
-- Gentleman Arthur y Gentleman Thomas
-
-- Fisherman Dale y Gentleman Brooks
-
-- Lady Dawn y Gentleman Lamar
-
-- Entrenadores de B1F: Barny, Phillip, Huey, Dylan, Duncan y Leonard
+| **Entrenador** | **Equipo** |
+|---|---|
+| Rival, corredor 2F | Spearow Nv. 19 · Rattata Nv. 16 · Sandshrew Nv. 18 · Eevee Nv. 20 |
+| Sailor Trevor y Sailor Edmond, cubierta | **Trevor:** Machop Nv. 17 · Tentacool Nv. 17<br>**Edmond:** Machop Nv. 18 · Shellder Nv. 18 |
+| Lass Ann y Youngster Tyler | **Ann:** Pidgey Nv. 18 · Nidoran♀ Nv. 18<br>**Tyler:** Nidoran♂ Nv. 21 |
+| Gentleman Arthur y Gentleman Thomas | **Thomas:** Growlithe Nv. 18 · Growlithe Nv. 18<br>**Arthur:** Nidoran♂ Nv. 19 · Nidoran♀ Nv. 19 |
+| Fisherman Dale y Gentleman Brooks | **Brooks:** Pikachu Nv. 23<br>**Dale:** Goldeen Nv. 17 · Tentacool Nv. 17 · Goldeen Nv. 17 |
+| Lady Dawn y Gentleman Lamar | **Lamar:** Growlithe Nv. 17 · Ponyta Nv. 17<br>**Dawn:** Rattata Nv. 18 · Pikachu Nv. 18 |
+| Entrenadores de B1F: Barny, Phillip, Huey, Dylan, Duncan y Leonard | **Phillip:** Machop Nv. 20<br>**Huey:** Tentacool Nv. 18 · Staryu Nv. 18<br>**Leonard:** Shellder Nv. 21<br>**Dylan:** Horsea Nv. 17 · Horsea Nv. 17 · Horsea Nv. 17<br>**Duncan:** Horsea Nv. 17 · Shellder Nv. 17 · Tentacool Nv. 17<br>**Barny:** Tentacool Nv. 17 · Staryu Nv. 17 · Shellder Nv. 17 |
 
 | **AVISO** La S.S. Anne deja de estar disponible al completar el evento. Recoge todos los objetos antes de entregar el objetivo final y salir. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
