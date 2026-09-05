@@ -28,7 +28,7 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 - Koga Gym
 
-| **DATA CRITERIA** Maps, items, encounters and trainers come from the Pokémon Classic v1.5 starter guide. Koga's exact team and levels come from Pokémon Classic v1.5's internal trainer data. |
+| **DATA CRITERIA** Maps, items, encounters and Trainers come from the Pokémon Classic v1.5 starter guide. Koga's exact team and levels were verified for this version. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Pokémon Tower

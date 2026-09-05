@@ -30,7 +30,7 @@ Step-by-Step Walkthrough • Maps • Items • Trainers • Key Battles
 
 - Route 21 and return to Pallet Town
 
-| **DATA CRITERIA** Maps, encounters, items and trainers are taken from the starter guide. Blaine's exact team and levels come from Pokémon Classic v1.5's internal trainer data. |
+| **DATA CRITERIA** Maps, encounters, items, and Trainers are taken from the starter guide. Blaine's exact team and levels were verified for Pokémon Classic v1.5. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Route 19

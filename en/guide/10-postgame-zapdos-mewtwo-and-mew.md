@@ -384,7 +384,7 @@
 | Youngster Bean | Charizard · Arcanine · Alakazam · Hypno · Raichu · Magneton (Lv. 65) |
 
 > [!NOTE]
-> This is a separate daily title defense, not a round of the second League. On the third recorded defense, the game switches to a special pool consisting of Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, Deserter, and Daisy. The v1.5 script also defines two other battles, but they fall outside the configured random range and cannot occur during normal play. Although `trainer_parties.h` contains a separate party for Liz, her Trainer entry loads Steph's party; the table reflects the battle the game actually runs.
+> This is a separate daily title defense, not a round of the second League. On the third recorded defense, the game switches to a special pool consisting of Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, Deserter, and Daisy. Two other planned candidates cannot appear during normal play. Liz uses the same team as Steph in version 1.5.
 
 # Second Pokémon League
 

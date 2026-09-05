@@ -24,7 +24,7 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 - Route 25 and Bill
 
-| **DATA CRITERIA** Specific items, encounters, and events come from the Pokémon Classic v1.5 guide. Misty's team was checked against the game's internal data. |
+| **DATA CRITERIA** Specific items, encounters, and events come from the Pokémon Classic v1.5 guide. Misty's team was verified for this version. |
 |---|
 
 # Cerulean City

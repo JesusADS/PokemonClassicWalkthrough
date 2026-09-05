@@ -26,7 +26,7 @@ Step by Step Walkthrough • Maps • Items • Trainers • Gyms
 
 - Sabrina's Gym
 
-| **DATA CRITERIA** Specific maps, items, and trainers come from the Pokémon Classic v1.5 starter guide. Sabrina's exact team and levels come from Pokémon Classic v1.5's internal trainer data. |
+| **DATA CRITERIA** Specific maps, items, and Trainers come from the Pokémon Classic v1.5 starter guide. Sabrina's exact team and levels were verified for this version. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Route 16

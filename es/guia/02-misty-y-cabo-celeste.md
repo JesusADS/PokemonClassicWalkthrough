@@ -24,7 +24,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 - Ruta 25 y Bill
 
-| **CRITERIO DE DATOS** Los objetos, encuentros y eventos específicos proceden de la guía de Pokémon Classic v1.5. El equipo de Misty se ha contrastado con los datos internos del juego. |
+| **CRITERIO DE DATOS** Los objetos, encuentros y eventos específicos proceden de la guía de Pokémon Classic v1.5. El equipo de Misty se ha verificado para esta versión. |
 |---|
 
 # Ciudad Celeste

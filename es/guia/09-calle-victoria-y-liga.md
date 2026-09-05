@@ -26,7 +26,7 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 - Alto Mando y Campeón
 
-| **CRITERIO DE DATOS** Los mapas, objetos y encuentros proceden de la guía inicial. Los equipos, niveles, movimientos y objetos equipados del Alto Mando y el Campeón se han contrastado con los datos internos de Pokémon Classic v1.5. |
+| **CRITERIO DE DATOS** Los mapas, objetos y encuentros proceden de la guía inicial. Los equipos, niveles, movimientos y objetos equipados del Alto Mando y el Campeón se han verificado para Pokémon Classic v1.5. |
 |---|
 
 # Ruta 22

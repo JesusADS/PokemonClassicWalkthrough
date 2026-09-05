@@ -28,7 +28,7 @@ Recorrido paso a paso • Objetos • Capturas recomendadas • Gimnasio • Che
 
 - Cueva Diglett
 
-| **CRITERIO DE DATOS** Los objetos, encuentros y eventos específicos proceden de la guía de Pokémon Classic v1.5. El equipo de Lt. Surge se ha contrastado con los datos internos del juego. |
+| **CRITERIO DE DATOS** Los objetos, encuentros y eventos específicos proceden de la guía de Pokémon Classic v1.5. El equipo de Lt. Surge se ha verificado para esta versión. |
 |---|
 
 # Rutas 5 y 6

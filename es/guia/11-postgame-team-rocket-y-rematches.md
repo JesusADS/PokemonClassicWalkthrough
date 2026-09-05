@@ -20,7 +20,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Segunda toma de Silph S.A., rematches de líderes, combates por Battle Points, Battle Tower reutilizada, búsqueda diaria de Rocket Fugitives y entrenadores/desafíos especiales. |
 
-- La guía original confirma estos sistemas y sus localizaciones. Los equipos de los rematches de gimnasio se han completado con los datos internos de Pokémon Classic v1.5; la cantidad exacta de Battle Points sigue sin documentarse aquí.
+- La guía original confirma estos sistemas y sus localizaciones. Los equipos de las revanchas de gimnasio se han verificado para Pokémon Classic v1.5; la cantidad exacta de Battle Points sigue sin documentarse aquí.
 
 - Esta sección conserva exactamente lo que la fuente sí documenta y marca como no especificados los detalles que faltan.
 
@@ -67,7 +67,7 @@
 | Presidente de Silph    | Combate por Battle Points / rematch | Tauros Nv. 60 · Snorlax Nv. 60 · Chansey Nv. 60 · Lapras Nv. 60 · Alakazam Nv. 60 · Persian Nv. 60 |
 
 > [!NOTE]
-> Los equipos de estos combates se han contrastado con los datos internos de Pokémon Classic v1.5.
+> Los equipos de estos combates se han verificado para Pokémon Classic v1.5.
 
 ## Checklist
 

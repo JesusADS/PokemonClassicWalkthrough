@@ -28,7 +28,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 - Gimnasio de Koga
 
-| **CRITERIO DE DATOS** Los mapas, objetos, encuentros y entrenadores proceden de la guía inicial de Pokémon Classic v1.5. El equipo de Koga se ha contrastado con los datos internos del juego. |
+| **CRITERIO DE DATOS** Los mapas, objetos, encuentros y entrenadores proceden de la guía inicial de Pokémon Classic v1.5. El equipo de Koga se ha verificado para esta versión. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Torre Pokémon

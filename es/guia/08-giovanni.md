@@ -22,7 +22,7 @@ Gimnasio • Equipo • Entrenadores • Estrategia • Octava medalla
 
 - Preparación y recompensa
 
-| **CRITERIO DE DATOS** Los entrenadores y recompensas proceden de la guía inicial. El equipo de Giovanni se ha contrastado con los datos internos de Pokémon Classic v1.5. |
+| **CRITERIO DE DATOS** Los entrenadores y recompensas proceden de la guía inicial. El equipo de Giovanni se ha verificado para Pokémon Classic v1.5. |
 |---|
 
 # 🏆 GIMNASIO: Giovanni

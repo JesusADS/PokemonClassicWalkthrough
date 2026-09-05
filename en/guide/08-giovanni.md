@@ -22,7 +22,7 @@ Gym • Team • Coaches • Strategy • Eighth Badge
 
 - Preparation and reward
 
-| **DATA CRITERIA** Trainers and rewards come from the starter guide. Giovanni's exact team and levels come from Pokémon Classic v1.5's internal trainer data. |
+| **DATA CRITERIA** Trainers and rewards come from the starter guide. Giovanni's exact team and levels were verified for Pokémon Classic v1.5. |
 |---|
 
 # 🏆 GYM: Giovanni

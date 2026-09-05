@@ -1,6 +1,6 @@
 ﻿# Reference indexes
 
-This page brings together references that appear spread across several volumes. Level caps and Gym Leader teams were checked against *Pokémon Classic v1.5*'s internal trainer data.
+This page brings together references that appear spread across several volumes. Level caps and Gym Leader teams were verified for *Pokémon Classic v1.5*.
 
 ## Level caps and Gym Leaders
 

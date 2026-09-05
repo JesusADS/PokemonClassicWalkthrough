@@ -16,7 +16,7 @@ The complete walkthrough is available in:
 
 ## Game and documentation
 
-- [Pokémon Classic source code and releases](https://github.com/DaniRainbow/pokeclassic)
+- [Pokémon Classic project and releases](https://github.com/DaniRainbow/pokeclassic)
 - [Pokémon Classic v1.5 Player Help](https://docs.google.com/document/d/1CgjsJv4SF-VK1vLopfYuuvAegb52fZagV3xsaCeyat8/edit?tab=t.0)
 
 ## Credits and legal notice

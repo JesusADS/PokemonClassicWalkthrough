@@ -30,7 +30,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Combates clave
 
 - Ruta 21 y regreso a Pueblo Paleta
 
-| **CRITERIO DE DATOS** Los mapas, encuentros, objetos y entrenadores se extraen de la guía inicial. El equipo de Blaine se ha contrastado con los datos internos de Pokémon Classic v1.5. |
+| **CRITERIO DE DATOS** Los mapas, encuentros, objetos y entrenadores se extraen de la guía inicial. El equipo de Blaine se ha verificado para Pokémon Classic v1.5. |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Ruta 19

@@ -387,7 +387,7 @@ Interior del Gimnasio de Ciudad Plateada.
 | Entrenadores                 | Camper Liam y Líder Brock                                                                            |
 | Recompensa en Pokémon Classic | TM39                                                                                                |
 | Rematch                      | Combate por Battle Points en el posjuego                                                             |
-| Referencia usada             | Datos internos de Pokémon Classic v1.5 para equipo y niveles; documentación del hack para recompensas |
+| Referencia usada             | Equipo y niveles verificados en Pokémon Classic v1.5; documentación del hack para recompensas |
 
 <table>
 <colgroup>
@@ -396,7 +396,7 @@ Interior del Gimnasio de Ciudad Plateada.
 <thead>
 <tr class="header">
 <th>ℹ Referencia de combate<br />
-El equipo se ha contrastado con los datos internos de Pokémon Classic v1.5: Geodude Nv. 12 y Onix Nv. 14. El level cap recomendado es 14.</th>
+El equipo se ha verificado para Pokémon Classic v1.5: Geodude Nv. 12 y Onix Nv. 14. El level cap recomendado es 14.</th>
 </tr>
 </thead>
 <tbody>

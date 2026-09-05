@@ -387,7 +387,7 @@
 | Youngster Bean | Charizard · Arcanine · Alakazam · Hypno · Raichu · Magneton (Nv. 65) |
 
 > [!NOTE]
-> Es una defensa diaria independiente, no una ronda de la segunda Liga. En la tercera defensa registrada, el juego cambia a un grupo especial formado por Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, Deserter y Daisy. El script de la versión 1.5 también define otros dos combates, pero quedan fuera del rango aleatorio configurado y no pueden salir durante el juego normal. Aunque existe un equipo propio para Liz en `trainer_parties.h`, su entrada de entrenador carga el equipo de Steph; la tabla refleja el combate que realmente ejecuta el juego.
+> Es una defensa diaria independiente, no una ronda de la segunda Liga. En la tercera defensa registrada, el juego cambia a un grupo especial formado por Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, Deserter y Daisy. Hay otros dos candidatos previstos que no pueden aparecer durante el juego normal. Liz utiliza el mismo equipo que Steph en la versión 1.5.
 
 # Segunda Liga Pokémon
 

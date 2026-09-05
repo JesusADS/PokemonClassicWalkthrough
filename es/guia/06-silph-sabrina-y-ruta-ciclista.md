@@ -26,7 +26,7 @@ Recorrido paso a paso • Mapas • Objetos • Entrenadores • Gimnasios
 
 - Gimnasio de Sabrina
 
-| **CRITERIO DE DATOS** Los mapas, objetos y entrenadores específicos proceden de la guía inicial de Pokémon Classic v1.5. El equipo de Sabrina se ha contrastado con los datos internos del juego. |
+| **CRITERIO DE DATOS** Los mapas, objetos y entrenadores específicos proceden de la guía inicial de Pokémon Classic v1.5. El equipo de Sabrina se ha verificado para esta versión. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # Ruta 16

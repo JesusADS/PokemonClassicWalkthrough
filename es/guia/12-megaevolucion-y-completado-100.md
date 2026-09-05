@@ -294,7 +294,7 @@ En mGBA o RetroArch, introduce los códigos como trucos separados:
 820051B4 003B
 ```
 
-El código anterior sustituye un artículo de tienda por Caramelos Raros. El código fuente local confirma que en este hack Caramelo Raro usa el ID decimal 59 (`0x3B`), no el `0x44` habitual de muchos trucos de Pokémon Emerald. Si además quieres que cuesten 1 ₽, activa por separado:
+El código anterior sustituye un artículo de tienda por Caramelos Raros. En Pokémon Classic v1.5, Caramelo Raro usa el ID decimal 59 (`0x3B`), no el `0x44` habitual de muchos trucos de Pokémon Emerald. Si además quieres que cuesten 1 ₽, activa por separado:
 
 ```text
 820050F0 0001

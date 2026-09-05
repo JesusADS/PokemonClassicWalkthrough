@@ -1,6 +1,6 @@
 # Índices de consulta
 
-Esta página reúne referencias que aparecen repartidas entre varios volúmenes. Los level caps y equipos de líderes se han contrastado con los datos internos de *Pokémon Classic v1.5*.
+Esta página reúne referencias que aparecen repartidas entre varios volúmenes. Los level caps y equipos de líderes se han verificado para *Pokémon Classic v1.5*.
 
 ## Level caps y líderes
 

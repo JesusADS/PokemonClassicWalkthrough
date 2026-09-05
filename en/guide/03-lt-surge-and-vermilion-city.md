@@ -28,7 +28,7 @@ Step-by-step tour • Items • Recommended captures • Gym • Checklists
 
 - Diglett's Cave
 
-| **DATA CRITERIA** Specific items, encounters, and events come from the Pokémon Classic v1.5 guide. Lt. Surge's team was checked against the game's internal data. |
+| **DATA CRITERIA** Specific items, encounters, and events come from the Pokémon Classic v1.5 guide. Lt. Surge's team was verified for this version. |
 |---|
 
 # Routes 5 and 6

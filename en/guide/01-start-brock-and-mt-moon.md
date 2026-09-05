@@ -386,7 +386,7 @@ Pewter City Gym Interior.
 | Coaches | Camper Liam and Leader Brock |
 | Reward in Pokémon Classic | TM39 |
 | Rematch | Battle for Battle Points in the postgame |
-| Reference used | Pokémon Classic v1.5 internal data for the team and levels; hack documentation for rewards |
+| Reference used | Team and levels verified in Pokémon Classic v1.5; hack documentation for rewards |
 
 <table>
 <colgroup>
@@ -395,7 +395,7 @@ Pewter City Gym Interior.
 <thead>
 <tr class="header">
 <th>ℹ Combat reference<br />
-The team was checked against Pokémon Classic v1.5's internal data: Geodude Lv. 12 and Onix Lv. 14. The recommended level cap is 14.</th>
+The team was verified for Pokémon Classic v1.5: Geodude Lv. 12 and Onix Lv. 14. The recommended level cap is 14.</th>
 </tr>
 </thead>
 <tbody>

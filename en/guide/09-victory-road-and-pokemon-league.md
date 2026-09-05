@@ -26,7 +26,7 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 - Elite Four and Champion
 
-| **DATA CRITERIA** Maps, items, and encounters come from the starter guide. The Elite Four and Champion teams, levels, moves, and held items have been checked against Pokémon Classic v1.5's internal data. |
+| **DATA CRITERIA** Maps, items, and encounters come from the starter guide. The Elite Four and Champion teams, levels, moves, and held items were verified for Pokémon Classic v1.5. |
 |---|
 
 # Route 22

@@ -20,7 +20,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Second takeover of Silph Co., leader rematches, battles for Battle Points, reused Battle Tower, daily Rocket Fugitives quest, and special trainers/challenges. |
 
-- The original guide confirms these systems and their locations. Gym rematch teams have been completed from Pokémon Classic v1.5's internal data; exact Battle Point payouts are still not documented here.
+- The original guide confirms these systems and their locations. Gym rematch teams were verified for Pokémon Classic v1.5; exact Battle Point payouts are still not documented here.
 
 - This section preserves exactly what the source does document and marks missing details as unspecified.
 
@@ -67,7 +67,7 @@
 | Silph President | Combat for Battle Points / rematch | Tauros Lv. 60 · Snorlax Lv. 60 · Chansey Lv. 60 · Lapras Lv. 60 · Alakazam Lv. 60 · Persian Lv. 60 |
 
 > [!NOTE]
-> These battle teams were checked against Pokémon Classic v1.5's internal data.
+> These battle teams were verified for Pokémon Classic v1.5.
 
 ## Checklist
 
