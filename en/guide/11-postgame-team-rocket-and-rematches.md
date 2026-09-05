@@ -30,9 +30,9 @@
 |-------------------------------------------------------------------------------------------------|
 | Return to the building to complete the Team Rocket epilogue and unlock repeatable battles. |
 
-<img src="../../images/volumen-11/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-06/media/image5.png" style="max-width:100%;height:auto" />
 
-*Silph Co., one of the main floors of the building.*
+*Silph Co., 1F. See the [maps for all eleven floors in Volume 6](06-silph-sabrina-and-cycling-road.md#silph-co).*
 
 ## Step-by-step walkthrough
 

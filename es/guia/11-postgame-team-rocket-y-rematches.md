@@ -30,9 +30,9 @@
 |--------------------------------------------------------------------------------------------------|
 | Regresar al edificio para completar el epílogo de Team Rocket y desbloquear combates repetibles. |
 
-<img src="../../images/volumen-11/media/image1.png" style="max-width:100%;height:auto" />
+<img src="../../images/volumen-06/media/image5.png" style="max-width:100%;height:auto" />
 
-*Silph S.A., una de las plantas principales del edificio.*
+*Silph S.A., planta 1. Consulta los [mapas de las once plantas del volumen 6](06-silph-sabrina-y-ruta-ciclista.md#silph-sa).*
 
 ## Recorrido paso a paso
 
