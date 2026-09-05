@@ -75,6 +75,8 @@ This page brings together references that appear spread across several volumes. 
 - [Special Evolutions](SPECIAL-EVOLUTIONS.md)
 - [FAQ](FAQ.md)
 - [Mega Evolution and Mega Stones](guide/12-mega-evolution-and-100-percent.md)
+- [Trainers with Mega Evolution](guide/12-mega-evolution-and-100-percent.md#trainers-with-mega-evolution)
+- [Extra information: Rare Candies](guide/12-mega-evolution-and-100-percent.md#extra-information-rare-candies)
 - [How to use guide](HOW-TO-USE-THE-GUIDE.md)
 
 [← Main index](README.md)

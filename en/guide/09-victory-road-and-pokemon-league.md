@@ -26,7 +26,7 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 - Elite Four and Champion
 
-| **DATA CRITERIA** Maps, items, encounters, and trainers come from the starter guide. The Elite Four and Champion teams and levels are based on Pokémon Yellow because the hack guide does not detail their templates. |
+| **DATA CRITERIA** Maps, items, and encounters come from the starter guide. The Elite Four and Champion teams, levels, moves, and held items have been checked against Pokémon Classic v1.5's internal data. |
 |---|
 
 # Route 22
@@ -47,6 +47,9 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 3. Advance to the point of mandatory combat against the rival.
 
 4. After defeating him, continue towards the Route 23 access.
+
+> [!IMPORTANT]
+> Bill calls after this battle. Return at any time to the Sea Cottage at the end of Route 25 and talk to him to enable the DexNav's Detector Mode. This mode finds hidden Pokémon that may know new moves or have rare abilities.
 
 ## ⭐ Pokémon and recommended catches
 
@@ -85,6 +88,8 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 ## ⚠ Before continuing
 
 - [ ] Defeat the rival
+
+- [ ] Return to Bill to enable the DexNav's Detector Mode
 
 - [ ] Heal and buy items for Route 23 and Victory Road
 
@@ -267,7 +272,7 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 18. Organize TMs and equipped objects; Inside you will not be able to return to the Center between fights.
 
-19. Take equipment close to levels 58-62; The Champion's highest Pokémon reaches level 65.
+19. After Giovanni, it is normal for much of your party to be around level 50. The League rises quickly to the Champion's level 65 ace: aim to enter around levels 55-58 at minimum, or higher if you prefer an easier run.
 
 20. Save the game before entering.
 
@@ -284,7 +289,10 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 ## ⚠ Before continuing
 
-- [ ] Equipment at least around level 58
+- [ ] Party at least around levels 55-58
+
+> [!NOTE]
+> The jump from Giovanni's level 50 cap to the Champion's level 65 ace may require considerable training. [Volume 12](12-mega-evolution-and-100-percent.md#extra-information-rare-candies) includes a completely optional Rare Candy code for players who prefer to avoid grinding.
 
 - [ ] Sufficient healing items
 
@@ -292,18 +300,18 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 - [ ] Save the game
 
-# 🏆 HIGH COMMAND 1: Lorelei
+# 🏆 ELITE FOUR 1: Lorelei
 
-| **RIVAL'S MAXIMUM LEVEL** 56 |
+| **LORELEI'S HIGHEST LEVEL** 54 |
 |--------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Recommended answer** |
 |-------------|------------|----------------|-----------------------------------------------------|
-| Dewgong | 54 | Water/Ice | Electric or Fighting |
-| Cloyster | 53 | Water/Ice | Electric; avoid weak physical attacks |
-| Slowbro | 54 | Water/Psychic | Electrical or Plant; beat before it gets boosted |
-| Jynx | 56 | Ice/Psychic | Fire, Rock or physical attacks |
-| Lapras | 56 | Water/Ice | Electric or Fighting |
+| Dewgong | 52 | Water/Ice | Electric or Fighting |
+| Cloyster | 51 | Water/Ice | Electric; avoid weak physical attacks |
+| Slowbro | 52 | Water/Psychic | Electric or Grass; beat it before it gets boosted |
+| Jynx | 54 | Ice/Psychic | Fire, Rock or physical attacks |
+| Lapras | 54 | Water/Ice | Electric or Fighting |
 
 ## Combat plan
 
@@ -317,64 +325,64 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 - Save PP from Ice moves for Lance.
 
-# 🏆 HIGH COMMAND 2: Bruno
+# 🏆 ELITE FOUR 2: Bruno
 
-| **RIVAL'S MAXIMUM LEVEL** 58 |
+| **BRUNO'S HIGHEST LEVEL** 56 |
 |--------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Recommended answer** |
 |-------------|--------|-------------|---------------------------------------|
-| Onix | 53 | Rock/Earth | Water or Plant |
-| Hitmonchan | 55 | Fight | Psychic or Flying |
-| Hitmonlee | 55 | Fight | Psychic or Flying |
-| Onix | 56 | Rock/Earth | Water or Plant |
-| Machamp | 58 | Fight | Psychic; avoid prolonged physical combat |
+| Onix | 51 | Rock/Ground | Water or Grass |
+| Hitmonchan | 53 | Fighting | Psychic or Flying |
+| Hitmonlee | 53 | Fighting | Psychic or Flying |
+| Onix | 54 | Rock/Ground | Water or Grass |
+| Machamp | 56 | Fighting | Psychic; avoid prolonged physical combat |
 
 ## Combat plan
 
 - The two Onix quickly fall before Surf.
 
-- Psychic is the most effective response against your three Fighting Pokémon.
+- Psychic is the most effective answer against his three Fighting Pokémon.
 
 - Machamp is the biggest danger: arrive with your healthy Psychic attacker.
 
 - Don't rely only on fragile Flying Pokémon; Hitmonchan may have coverage.
 
-# 🏆 HIGH COMMAND 3: Agatha
+# 🏆 ELITE FOUR 3: Agatha
 
-| **RIVAL'S MAXIMUM LEVEL** 60 |
+| **AGATHA'S HIGHEST LEVEL** 58 |
 |--------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Recommended answer** |
 |-------------|--------|--------------|---------------------------------------|
-| Gengar | 56 | Ghost/Poison | Psychic or Earth |
-| Golbat | 56 | Poison/Flying | Psychic, Electric or Ice |
-| Haunter | 55 | Ghost/Poison | Psychic |
-| Arbok | 58 | Poison | Psychic or Earth |
-| Gengar | 60 | Ghost/Poison | Psychic; control sleep and confusion |
+| Gengar | 54 | Ghost/Poison | Psychic or Ground |
+| Golbat | 54 | Poison/Flying | Psychic, Electric or Ice |
+| Haunter | 53 | Ghost/Poison | Psychic |
+| Arbok | 56 | Poison | Psychic or Ground |
+| Gengar | 58 | Ghost/Poison | Psychic; control sleep and confusion |
 
 ## Combat plan
 
-- Takes Awakening, Full Cure or Restore All: Agatha abuses statuses.
+- Bring Awakenings, Full Heals, or Full Restores: Agatha relies heavily on status conditions.
 
-- Psychic is very strong against his entire team because of the Poison type.
+- Psychic is very strong against her entire team because of the Poison type.
 
-- Avoid Normal attacks and Fight Gengar and Haunter.
+- Avoid Normal- and Fighting-type attacks against Gengar and Haunter.
 
 - Defeat the final Gengar quickly before he chains Hypnosis and Confusion.
 
-# 🏆 HIGH COMMAND 4: Lance
+# 🏆 ELITE FOUR 4: Lance
 
-| **RIVAL'S MAXIMUM LEVEL** 62 |
+| **LANCE'S HIGHEST LEVEL** 60 |
 |--------------------------|
 
 | **Pokémon** | **Level** | **Type** | **Recommended answer** |
 |-------------|------------|----------------|-----------------------------|
-| Gyarados | 58 | Water/Flying | Electrical, quadruple weakness |
-| Dragonair | 56 | Dragon | Ice |
-| Dragonair | 56 | Dragon | Ice |
-| Aerodactyl | 60 | Rock/Flying | Water, Electric or Ice |
-| Dragonite | 62 | Dragon/Flying | Ice, quadruple weakness |
+| Gyarados | 56 | Water/Flying | Electric, quadruple weakness |
+| Dragonair | 54 | Dragon | Ice |
+| Dragonair | 54 | Dragon | Ice |
+| Aerodactyl | 58 | Rock/Flying | Water, Electric or Ice |
+| Dragonite | 60 | Dragon/Flying | Ice, quadruple weakness |
 
 ## Combat plan
 
@@ -384,9 +392,9 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 - Aerodactyl is very fast; Water is usually the safest answer.
 
-- Dragonite has dangerous elemental coverage: try to defeat it in one or two hits.
+- Dragonite carries Hyper Beam, Safeguard, Outrage, and Wing Attack: try to defeat it in one or two hits.
 
-- Lapras or Articuno can be decisive, but watch out for Electric coverage attacks.
+- Lapras or Articuno can be decisive, but do not expose Articuno to Aerodactyl's Ancient Power.
 
 # 🏆 CHAMPION: Rival
 
@@ -397,11 +405,11 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 
 | **Pokémon** | **Level** | **Type** | **Comment** |
 |-------------|--------|-----------------|----------------|
-| Sandslash | 61 | Earth | Fixed |
+| Sandslash | 61 | Ground | Fixed |
 | Alakazam | 59 | Psychic | Fixed |
-| Exeggutor | 61 | Plant/Psychic | Fixed |
+| Exeggutor | 61 | Grass/Psychic | Fixed |
 
-## Equipment variants
+## Team variants
 
 | **Eevee Evolution** | **Other Pokémon** | **Levels** |
 |-------------------------|----------------------------|-------------|
@@ -418,11 +426,11 @@ Step by Step Walkthrough • Maps • Items • Elite Four • Champion
 - Alakazam is very fast and physically fragile: pressure him with strong physical attacks.
 - Exeggutor fears Fire, Ice, Flying and Bug; avoid leaving him time to use states.
 
-- Against Vaporeon use Electric or Grass; against Jolteon use Earth; against Flareon use Water, Earth or Rock.
+- Against Vaporeon use Electric or Grass; against Jolteon use Ground; against Flareon use Water, Ground, or Rock.
 
 - Heal completely before the final fight and do not reserve items: after the Champion the chain ends.
 
-| **END OF THE MAIN STORY** After defeating the Champion you will enter the Hall of Fame. The postgame opens up new missions, rematches, Cerulean Cave, Mega Evolution, and Far Islands content. |
+| **END OF THE MAIN STORY** After defeating the Champion you will enter the Hall of Fame. The postgame opens new missions, rematches, Cerulean Cave, Mega Evolution, and Faraway Island. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---

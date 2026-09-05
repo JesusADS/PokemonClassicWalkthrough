@@ -26,7 +26,7 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 - Alto Mando y Campeón
 
-| **CRITERIO DE DATOS** Los mapas, objetos, encuentros y entrenadores proceden de la guía inicial. Los equipos y niveles del Alto Mando y Campeón se basan en Pokémon Amarillo porque la guía del hack no detalla sus plantillas. |
+| **CRITERIO DE DATOS** Los mapas, objetos y encuentros proceden de la guía inicial. Los equipos, niveles, movimientos y objetos equipados del Alto Mando y el Campeón se han contrastado con los datos internos de Pokémon Classic v1.5. |
 |---|
 
 # Ruta 22
@@ -47,6 +47,9 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 3.  Avanza hasta el punto del combate obligatorio contra el rival.
 
 4.  Tras vencerlo, continúa hacia el acceso de la Ruta 23.
+
+> [!IMPORTANT]
+> Al terminar este combate recibirás una llamada de Bill. Vuelve cuando quieras a la Casa del Mar, al final de la Ruta 25, y habla con él para activar el Detector Mode del DexNAV. Este modo permite localizar Pokémon ocultos que pueden conocer movimientos nuevos o tener habilidades raras.
 
 ## ⭐ Pokémon y capturas recomendadas
 
@@ -85,6 +88,8 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 ## ⚠ Antes de continuar
 
 - [ ] Derrotar al rival
+
+- [ ] Volver con Bill para activar el Detector Mode del DexNAV
 
 - [ ] Curar y comprar objetos para Ruta 23 y Calle Victoria
 
@@ -267,7 +272,7 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 18. Organiza las MT y objetos equipados; dentro no podrás regresar al Centro entre combates.
 
-19. Lleva un equipo cercano a niveles 58-62; el Pokémon más alto del Campeón alcanza el nivel 65.
+19. Tras Giovanni es normal llegar con buena parte del equipo alrededor del nivel 50. La Liga sube con rapidez hasta el nivel 65 del Campeón: intenta entrar al menos en torno a 55-58, o más alto si prefieres reducir la dificultad.
 
 20. Guarda la partida antes de entrar.
 
@@ -285,7 +290,10 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 ## ⚠ Antes de continuar
 
-- [ ] Equipo al menos en torno a nivel 58
+- [ ] Equipo al menos en torno a niveles 55-58
+
+> [!NOTE]
+> El salto desde el cap 50 de Giovanni hasta el nivel 65 del Campeón puede exigir bastante entrenamiento. En [el Volumen 12](12-megaevolucion-y-completado-100.md#información-extra-caramelos-raros) se incluye, como alternativa totalmente opcional, un código de Caramelos Raros para quienes quieran evitar el *grinding*.
 
 - [ ] Objetos curativos suficientes
 
@@ -295,16 +303,16 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 # 🏆 ALTO MANDO 1: Lorelei
 
-| **NIVEL MÁXIMO DEL RIVAL** 56 |
+| **NIVEL MÁXIMO DE LORELEI** 54 |
 |-------------------------------|
 
 | **Pokémon** | **Nivel** | **Tipo**       | **Respuesta recomendada**                           |
 |-------------|-----------|----------------|-----------------------------------------------------|
-| Dewgong     | 54        | Agua/Hielo     | Eléctrico o Lucha                                   |
-| Cloyster    | 53        | Agua/Hielo     | Eléctrico; evitar ataques físicos débiles           |
-| Slowbro     | 54        | Agua/Psíquico  | Eléctrico o Planta; vencer antes de que se potencie |
-| Jynx        | 56        | Hielo/Psíquico | Fuego, Roca o ataques físicos                       |
-| Lapras      | 56        | Agua/Hielo     | Eléctrico o Lucha                                   |
+| Dewgong     | 52        | Agua/Hielo     | Eléctrico o Lucha                                   |
+| Cloyster    | 51        | Agua/Hielo     | Eléctrico; evitar ataques físicos débiles           |
+| Slowbro     | 52        | Agua/Psíquico  | Eléctrico o Planta; vencer antes de que se potencie |
+| Jynx        | 54        | Hielo/Psíquico | Fuego, Roca o ataques físicos                       |
+| Lapras      | 54        | Agua/Hielo     | Eléctrico o Lucha                                   |
 
 ## Plan de combate
 
@@ -320,16 +328,16 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 # 🏆 ALTO MANDO 2: Bruno
 
-| **NIVEL MÁXIMO DEL RIVAL** 58 |
+| **NIVEL MÁXIMO DE BRUNO** 56 |
 |-------------------------------|
 
 | **Pokémon** | **Nivel** | **Tipo**    | **Respuesta recomendada**                  |
 |-------------|-----------|-------------|--------------------------------------------|
-| Onix        | 53        | Roca/Tierra | Agua o Planta                              |
-| Hitmonchan  | 55        | Lucha       | Psíquico o Volador                         |
-| Hitmonlee   | 55        | Lucha       | Psíquico o Volador                         |
-| Onix        | 56        | Roca/Tierra | Agua o Planta                              |
-| Machamp     | 58        | Lucha       | Psíquico; evitar combate físico prolongado |
+| Onix        | 51        | Roca/Tierra | Agua o Planta                              |
+| Hitmonchan  | 53        | Lucha       | Psíquico o Volador                         |
+| Hitmonlee   | 53        | Lucha       | Psíquico o Volador                         |
+| Onix        | 54        | Roca/Tierra | Agua o Planta                              |
+| Machamp     | 56        | Lucha       | Psíquico; evitar combate físico prolongado |
 
 ## Plan de combate
 
@@ -343,16 +351,16 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 # 🏆 ALTO MANDO 3: Agatha
 
-| **NIVEL MÁXIMO DEL RIVAL** 60 |
+| **NIVEL MÁXIMO DE AGATHA** 58 |
 |-------------------------------|
 
 | **Pokémon** | **Nivel** | **Tipo**        | **Respuesta recomendada**             |
 |-------------|-----------|-----------------|---------------------------------------|
-| Gengar      | 56        | Fantasma/Veneno | Psíquico o Tierra                     |
-| Golbat      | 56        | Veneno/Volador  | Psíquico, Eléctrico o Hielo           |
-| Haunter     | 55        | Fantasma/Veneno | Psíquico                              |
-| Arbok       | 58        | Veneno          | Psíquico o Tierra                     |
-| Gengar      | 60        | Fantasma/Veneno | Psíquico; controlar sueño y confusión |
+| Gengar      | 54        | Fantasma/Veneno | Psíquico o Tierra                     |
+| Golbat      | 54        | Veneno/Volador  | Psíquico, Eléctrico o Hielo           |
+| Haunter     | 53        | Fantasma/Veneno | Psíquico                              |
+| Arbok       | 56        | Veneno          | Psíquico o Tierra                     |
+| Gengar      | 58        | Fantasma/Veneno | Psíquico; controlar sueño y confusión |
 
 ## Plan de combate
 
@@ -366,16 +374,16 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 # 🏆 ALTO MANDO 4: Lance
 
-| **NIVEL MÁXIMO DEL RIVAL** 62 |
+| **NIVEL MÁXIMO DE LANCE** 60 |
 |-------------------------------|
 
 | **Pokémon** | **Nivel** | **Tipo**       | **Respuesta recomendada**      |
 |-------------|-----------|----------------|--------------------------------|
-| Gyarados    | 58        | Agua/Volador   | Eléctrico, debilidad cuádruple |
-| Dragonair   | 56        | Dragón         | Hielo                          |
-| Dragonair   | 56        | Dragón         | Hielo                          |
-| Aerodactyl  | 60        | Roca/Volador   | Agua, Eléctrico o Hielo        |
-| Dragonite   | 62        | Dragón/Volador | Hielo, debilidad cuádruple     |
+| Gyarados    | 56        | Agua/Volador   | Eléctrico, debilidad cuádruple |
+| Dragonair   | 54        | Dragón         | Hielo                          |
+| Dragonair   | 54        | Dragón         | Hielo                          |
+| Aerodactyl  | 58        | Roca/Volador   | Agua, Eléctrico o Hielo        |
+| Dragonite   | 60        | Dragón/Volador | Hielo, debilidad cuádruple     |
 
 ## Plan de combate
 
@@ -385,9 +393,9 @@ Recorrido paso a paso • Mapas • Objetos • Alto Mando • Campeón
 
 - Aerodactyl es muy rápido; Agua suele ser la respuesta más segura.
 
-- Dragonite tiene cobertura elemental peligrosa: intenta vencerlo de uno o dos golpes.
+- Dragonite dispone de Hiperrayo, Velo Sagrado, Enfado y Ataque Ala: intenta vencerlo de uno o dos golpes.
 
-- Lapras o Articuno pueden ser decisivos, pero vigila los ataques Eléctricos de cobertura.
+- Lapras o Articuno pueden ser decisivos, pero no expongas a Articuno al Poder Pasado de Aerodactyl.
 
 # 🏆 CAMPEÓN: Rival
 

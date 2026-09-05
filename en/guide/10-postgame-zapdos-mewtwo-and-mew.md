@@ -231,7 +231,7 @@
 
 19. Collect the Nugget, Restore All, and Max Elixir.
 
-20. On the second floor collect PP Max and Ultra Ball. The Mewtwonites still do not appear until you defeat the Champion for the second time.
+20. On 2F, collect PP Max and the Ultra Ball. The Mewtwonites do not appear until you defeat Oak at the end of the second League.
 
 21. Go down to basement B1F and pick up Revive Max. and Ultra Ball.
 
@@ -279,8 +279,8 @@
 | Ultra Ball | 2F and B1F | High |
 | PP More | 2F | High |
 | Max Revive   | B1F | Very high |
-| Mewtwonite Y | 2F, after second League victory | ↩ Later |
-| Mewtwonite X | 2F, after second League victory | ↩ Later |
+| Mewtwonite Y | 2F, after defeating Oak | ↩ Later |
+| Mewtwonite X | 2F, after defeating Oak | ↩ Later |
 
 | **SECURE CAPTURE** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -313,7 +313,7 @@
 25. Return to Pokémon Mansion at Cinnabar Island.
 
 26. In B1F examine the wall indicated in the guide to obtain the Old Sea Map.
-27. With the map in your possession, use the available sea service to travel to Faraway Island.
+27. With the map in your possession, enter the regular house on Cinnabar Island and talk to the old captain. He offers the trip to Faraway Island; the S.S. Anne sailor in Vermilion City does not.
 
 28. Walk along the pier and up to the wooded area.
 
@@ -358,28 +358,44 @@
 # Second Pokémon League
 
 | **🎯 OBJECTIVE** |
-|--------------------------------------------------------------------------|
-| Defeat Elite Four and the Champion again to unlock the Mega Ring. |
+|-----------------------------------------------------------------------------------------------|
+| Defeat the Elite Four, the rival, and finally Oak; then collect the Mega Ring from Bill at your house. |
 
 ## Step-by-step walkthrough
 
-32. Train the team above the level used in the first League and improve moves, equipped items and IV/EV if you wish.
+32. Train the party to around level 65 and improve moves, held items, and IVs/EVs if you wish.
 
-33. Buy enough Restore All, Revive Max. and Elixir.
+33. Buy enough Full Restores, Max Revives, and Elixirs.
 
-34. Complete the five consecutive League battles again.
+34. Defeat Lorelei, Bruno, Agatha, and Lance again. Their postgame teams range from levels 65 to 70.
 
-35. The original guide does not provide equipment or levels for this second round; no made-up figures are included.
+35. In the Challenger Room, fight the rival first. Five Pokémon are level 65 and the Eevee evolution is level 70.
 
-36. After defeating the Champion for the second time, you will get the opportunity to get the Mega Ring.
+36. The final battle of this second League run is against Oak, not the rival. His team is Ditto Lv. 69, Tauros Lv. 69, Chansey Lv. 69, Arcanine Lv. 69, Exeggutor Lv. 69, and Rhydon Lv. 70.
 
-37. From that moment on, several invisible mega stones or new objects appear scattered throughout Kanto.
+37. After defeating Oak and recording the second victory, return to your house in Pallet Town and talk to Bill, who will be waiting there, to receive the Mega Ring.
+
+38. From that point onward, Mega Stones appear as visible golden rocks and new special Trainers are available throughout Kanto.
+
+## Second League teams
+
+| **Trainer** | **Team confirmed in Pokémon Classic v1.5** |
+|-------------|---------------------------------------------|
+| Lorelei | Dewgong Lv. 65 · Cloyster Lv. 65 · Slowbro Lv. 65 · Jynx Lv. 65 · Wigglytuff Lv. 65 · Lapras Lv. 70 |
+| Bruno | Onix Lv. 65 · Hitmonchan Lv. 65 · Hitmonlee Lv. 65 · Golem Lv. 65 · Poliwrath Lv. 65 · Machamp Lv. 65 |
+| Agatha | Arbok Lv. 65 · Gengar Lv. 65 · Golbat Lv. 65 · Weezing Lv. 65 · Gengar Lv. 65 · Haunter Lv. 65 |
+| Lance | Gyarados Lv. 65 · Seadra Lv. 65 · Charizard Lv. 65 · Aerodactyl Lv. 65 · Dragonite Lv. 65 · Dragonite Lv. 65 |
+| Rival | **Jolteon:** Sandslash · Exeggutor · Alakazam · Ninetales · Cloyster (Lv. 65) · Jolteon (Lv. 70)<br>**Flareon:** Sandslash · Exeggutor · Alakazam · Magneton · Cloyster (Lv. 65) · Flareon (Lv. 70)<br>**Vaporeon:** Sandslash · Exeggutor · Alakazam · Magneton · Ninetales (Lv. 65) · Vaporeon (Lv. 70) |
+| Oak | Ditto Lv. 69 · Tauros Lv. 69 · Chansey Lv. 69 · Arcanine Lv. 69 · Exeggutor Lv. 69 · Rhydon Lv. 70 |
+
+> [!IMPORTANT]
+> The rival is the penultimate fight. Oak follows as the true final opponent, so save healing items and PP for a sixth battle after the Elite Four.
 
 ## 💎 Important objects
 
 | **Item** | **Location** | **Priority** |
 |-----------|-------------------------------------------------------|-------------|
-| Mega Ring | Unlock after the second victory against the Champion | Essential |
+| Mega Ring | Bill, player's house in Pallet Town, after defeating Oak | Essential |
 | **MEGA EVOLUTION** |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Equip the Mega Stone to the Pokémon. When selecting a move the gray Mega symbol will appear; Press START to turn it into a rainbow and confirm the movement. You can only Mega Evolve one Pokémon per battle. |

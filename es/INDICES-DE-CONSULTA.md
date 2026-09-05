@@ -75,6 +75,8 @@ Esta página reúne referencias que aparecen repartidas entre varios volúmenes.
 - [Evoluciones especiales](EVOLUCIONES-ESPECIALES.md)
 - [Preguntas frecuentes](PREGUNTAS-FRECUENTES.md)
 - [Mega Evolución y megapiedras](guia/12-megaevolucion-y-completado-100.md)
+- [Entrenadores con Mega Evolución](guia/12-megaevolucion-y-completado-100.md#entrenadores-con-mega-evolución)
+- [Información extra: Caramelos Raros](guia/12-megaevolucion-y-completado-100.md#información-extra-caramelos-raros)
 - [Cómo usar la guía](COMO-USAR-LA-GUIA.md)
 
 [← Índice principal](README.md)

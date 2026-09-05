@@ -233,7 +233,7 @@
 
 19. Recoge el Nugget, los Restaurar Todo y el Elixir Máx.
 
-20. En la segunda planta recoge PP Más y Ultra Ball. Las Mewtwonitas todavía no aparecen hasta vencer por segunda vez al Campeón.
+20. En la segunda planta recoge PP Más y Ultra Ball. Las Mewtwonitas todavía no aparecen hasta vencer a Oak al final de la segunda Liga.
 
 21. Desciende al sótano B1F y recoge Revivir Máx. y Ultra Ball.
 
@@ -281,8 +281,8 @@
 | Ultra Ball     | 2F y B1F                          | Alta          |
 | PP Más         | 2F                                | Alta          |
 | Revivir Máx.   | B1F                               | Muy alta      |
-| Mewtwonita Y   | 2F, tras segunda victoria de Liga | ↩ Más adelante  |
-| Mewtwonita X   | 2F, tras segunda victoria de Liga | ↩ Más adelante  |
+| Mewtwonita Y   | 2F, tras vencer a Oak             | ↩ Más adelante  |
+| Mewtwonita X   | 2F, tras vencer a Oak             | ↩ Más adelante  |
 
 | **CAPTURA SEGURA**                                                                                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -316,7 +316,7 @@
 
 26. En B1F examina la pared indicada en la guía para obtener el Old Sea Map.
 
-27. Con el mapa en tu poder, usa el servicio marítimo disponible para viajar a Faraway Island.
+27. Con el mapa en tu poder, entra en la casa normal de Isla Canela y habla con el viejo capitán. Él es quien ofrece el viaje a Faraway Island; no el marinero del S.S. Anne de Ciudad Carmín.
 
 28. Recorre el muelle y sube a la zona boscosa.
 
@@ -360,29 +360,45 @@
 
 # Segunda Liga Pokémon
 
-| **🎯 OBJETIVO**                                                              |
-|---------------------------------------------------------------------------|
-| Vencer de nuevo al Alto Mando y al Campeón para desbloquear el Mega Ring. |
+| **🎯 OBJETIVO**                                                                                     |
+|--------------------------------------------------------------------------------------------------|
+| Vencer al Alto Mando, al rival y finalmente a Oak; después recoge de Bill el Mega Ring en tu casa. |
 
 ## Recorrido paso a paso
 
-32. Entrena al equipo por encima del nivel usado en la primera Liga y mejora movimientos, objetos equipados e IV/EV si lo deseas.
+32. Entrena al equipo hasta alrededor del nivel 65 y mejora movimientos, objetos equipados e IV/EV si lo deseas.
 
 33. Compra suficientes Restaurar Todo, Revivir Máx. y Elixir.
 
-34. Completa de nuevo los cinco combates consecutivos de la Liga.
+34. Vence de nuevo a Lorelei, Bruno, Agatha y Lance. Sus equipos de posjuego están entre los niveles 65 y 70.
 
-35. La guía original no proporciona equipos ni niveles de esta segunda ronda; no se incluyen cifras inventadas.
+35. En la sala del retador, combate primero contra el rival. Lleva cinco Pokémon al nivel 65 y su evolución de Eevee al nivel 70.
 
-36. Tras derrotar por segunda vez al Campeón, obtendrás la oportunidad de conseguir el Mega Ring.
+36. El combate final de esta segunda Liga es contra Oak, no contra el rival. Su equipo es Ditto Nv. 69, Tauros Nv. 69, Chansey Nv. 69, Arcanine Nv. 69, Exeggutor Nv. 69 y Rhydon Nv. 70.
 
-37. A partir de ese momento aparecen varias megapiedras invisibles o nuevos objetos repartidos por Kanto.
+37. Tras vencer a Oak y registrar la segunda victoria, vuelve a tu casa de Pueblo Paleta y habla con Bill, que estará esperándote allí, para recibir el Mega Ring.
+
+38. A partir de ese momento aparecen megapiedras visibles como piedras doradas y nuevos entrenadores especiales repartidos por Kanto.
+
+## Equipos de la segunda Liga
+
+| **Entrenador** | **Equipo confirmado en Pokémon Classic v1.5** |
+|----------------|------------------------------------------------|
+| Lorelei | Dewgong Nv. 65 · Cloyster Nv. 65 · Slowbro Nv. 65 · Jynx Nv. 65 · Wigglytuff Nv. 65 · Lapras Nv. 70 |
+| Bruno | Onix Nv. 65 · Hitmonchan Nv. 65 · Hitmonlee Nv. 65 · Golem Nv. 65 · Poliwrath Nv. 65 · Machamp Nv. 65 |
+| Agatha | Arbok Nv. 65 · Gengar Nv. 65 · Golbat Nv. 65 · Weezing Nv. 65 · Gengar Nv. 65 · Haunter Nv. 65 |
+| Lance | Gyarados Nv. 65 · Seadra Nv. 65 · Charizard Nv. 65 · Aerodactyl Nv. 65 · Dragonite Nv. 65 · Dragonite Nv. 65 |
+| Rival | **Jolteon:** Sandslash · Exeggutor · Alakazam · Ninetales · Cloyster (Nv. 65) · Jolteon (Nv. 70)<br>**Flareon:** Sandslash · Exeggutor · Alakazam · Magneton · Cloyster (Nv. 65) · Flareon (Nv. 70)<br>**Vaporeon:** Sandslash · Exeggutor · Alakazam · Magneton · Ninetales (Nv. 65) · Vaporeon (Nv. 70) |
+| Oak | Ditto Nv. 69 · Tauros Nv. 69 · Chansey Nv. 69 · Arcanine Nv. 69 · Exeggutor Nv. 69 · Rhydon Nv. 70 |
+
+> [!IMPORTANT]
+> El rival es el penúltimo combate. Oak aparece después como verdadero adversario final, por lo que debes reservar curas y PP para una sexta batalla tras el Alto Mando.
 
 ## 💎 Objetos importantes
 
 | **Objeto** | **Localización**                                      | **Prioridad**  |
 |------------|-------------------------------------------------------|----------------|
-| Mega Ring  | Desbloqueo tras la segunda victoria contra el Campeón | Imprescindible |
+| Mega Ring  | Bill, casa del jugador en Pueblo Paleta, tras vencer a Oak | Imprescindible |
 
 | **MEGA EVOLUCIÓN**                                                                                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

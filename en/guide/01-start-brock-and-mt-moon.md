@@ -645,7 +645,7 @@ Cerulean City. Volume 2 will continue from this city.
 |-------------------------|----------------------------------------------------------|
 | hidden Rare Candy | Available in the berry yard, next to the fence |
 | TM28 Dig | Cerulean City Rocket Event |
-| Venusaurite | Only after completing League and Champion for the second time |
+| Venusaurite | Only after defeating Oak at the end of the second League |
 | Aquatic encounters | ↩ Later with rods/Surf |
 
 <table>

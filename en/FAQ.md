@@ -46,7 +46,7 @@ Encounters that require a rod are marked `🎣` in each volume.
 
 ## Does the original documentation list every battle team?
 
-No. The second League teams, certain rematches and various post-game battles are not detailed. The guide identifies them as pending rather than inventing levels, moves or equipped items.
+No. The original documentation omits some teams and battles. When Pokémon Classic v1.5's local internal data covers them—such as the second League, Oak, Gym rematches, and Trainers with Mega Evolution—this guide uses `trainer_parties.h` and the relevant map scripts. Only details absent from the code as well are marked as pending.
 
 ## Can I reuse a save file from an earlier version?
 

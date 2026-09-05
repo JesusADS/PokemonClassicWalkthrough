@@ -20,7 +20,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Segunda toma de Silph S.A., rematches de líderes, combates por Battle Points, Battle Tower reutilizada, búsqueda diaria de Rocket Fugitives y entrenadores/desafíos especiales. |
 
-- La guía original confirma estos sistemas y sus localizaciones, pero no publica equipos completos, niveles ni recompensas numéricas de todos los rematches.
+- La guía original confirma estos sistemas y sus localizaciones. Los equipos de los rematches de gimnasio se han completado con los datos internos de Pokémon Classic v1.5; la cantidad exacta de Battle Points sigue sin documentarse aquí.
 
 - Esta sección conserva exactamente lo que la fuente sí documenta y marca como no especificados los detalles que faltan.
 
@@ -55,7 +55,7 @@
 | **Objeto**  | **Localización**                                  | **Prioridad** |
 |-------------|---------------------------------------------------|---------------|
 | Master Ball | Recompensa diaria del presidente de Silph, 11F    | Máxima        |
-| Alakazita   | Casa de Mr. Psychic tras segunda victoria de Liga | Mega          |
+| Alakazita   | Mr. Psychic, tras vencer a Oak                     | Mega          |
 
 ## Entrenadores / combates
 
@@ -81,21 +81,27 @@
 
 # Rematches por Battle Points
 
-| **FUNCIONAMIENTO**                                                                                                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Los líderes y algunos personajes especiales ofrecen rematches en el posjuego. La guía los identifica como combates de Battle Points, pero no incluye sus equipos ni la cantidad exacta de puntos. |
+| **FUNCIONAMIENTO** |
+|--------------------|
+| Los líderes y el rival ofrecen rematches de Battle Points en sus gimnasios. Los ocho equipos tienen seis Pokémon. |
 
-| **Rival / líder**   | **Localización**            | **Tipo de actividad**         |
-|---------------------|-----------------------------|-------------------------------|
-| Rival               | Gimnasio de Ciudad Verde    | Battle Point Rematch          |
-| Brock               | Gimnasio de Ciudad Plateada | Battle Point Rematch          |
-| Misty               | Gimnasio de Ciudad Celeste  | Battle Point Rematch          |
-| Lt. Surge           | Gimnasio de Ciudad Carmín   | Battle Point Rematch          |
-| Erika               | Gimnasio de Ciudad Azulona  | Battle Point Rematch          |
-| Koga                | Gimnasio de Ciudad Fucsia   | Battle Point Rematch          |
-| Sabrina             | Gimnasio de Ciudad Azafrán  | Battle Point Rematch          |
-| Blaine              | Gimnasio de Isla Canela     | Battle Point Rematch          |
-| Presidente de Silph | Silph S.A. 11F              | Battle Point Battle / Rematch |
+| **Rival / líder** | **Localización** | **Equipo de rematch** |
+|-------------------|------------------|-----------------------|
+| Brock | Gimnasio de Ciudad Plateada | Onix · Golem · Omastar · Kabutops · Aerodactyl · Rhydon (todos Nv. 65) |
+| Misty | Gimnasio de Ciudad Celeste | Starmie · Golduck · Seaking · Lapras · Slowbro · Blastoise (todos Nv. 65) |
+| Lt. Surge | Gimnasio de Ciudad Carmín | Raichu · Magneton · Electabuzz · Electrode · Jolteon · Electrode (todos Nv. 65) |
+| Erika | Gimnasio de Ciudad Azulona | Tangela · Vileplume · Victreebel · Venusaur · Exeggutor · Parasect (todos Nv. 65) |
+| Koga | Gimnasio de Ciudad Fucsia | Weezing · Muk · Venomoth · Scyther · Golbat · Tentacruel (todos Nv. 65) |
+| Sabrina | Gimnasio de Ciudad Azafrán | Alakazam · Mr. Mime · Hypno · Slowbro · Jynx · Exeggutor (todos Nv. 65) |
+| Blaine | Gimnasio de Isla Canela | Arcanine · Ninetales · Charizard · Magmar · Flareon · Rapidash (todos Nv. 65) |
+| Rival | Gimnasio de Ciudad Verde | **Jolteon:** Sandslash · Exeggutor · Alakazam · Ninetales · Cloyster (Nv. 65) · Jolteon (Nv. 70)<br>**Flareon:** Sandslash · Exeggutor · Alakazam · Magneton · Cloyster (Nv. 65) · Flareon (Nv. 70)<br>**Vaporeon:** Sandslash · Exeggutor · Alakazam · Magneton · Ninetales (Nv. 65) · Vaporeon (Nv. 70) |
+
+| **Otro rematch** | **Localización** | **Equipo** |
+|------------------|------------------|------------|
+| Presidente de Silph | Silph S.A. 11F | Tauros · Snorlax · Chansey · Lapras · Alakazam · Persian (todos Nv. 60) |
+
+> [!NOTE]
+> El gimnasio de Ciudad Verde no contiene un rematch de Giovanni: el rival ocupa ese puesto. La evolución de su Eevee y los dos miembros variables dependen de tus primeros combates contra él.
 
 - Empieza por los líderes iniciales para medir la dificultad y continúa hacia los últimos gimnasios.
 

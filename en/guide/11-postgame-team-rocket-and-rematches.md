@@ -20,7 +20,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Second takeover of Silph Co., leader rematches, battles for Battle Points, reused Battle Tower, daily Rocket Fugitives quest, and special trainers/challenges. |
 
-- The original guide confirms these systems and their locations, but does not publish complete teams, levels, or numerical rewards for all rematches.
+- The original guide confirms these systems and their locations. Gym rematch teams have been completed from Pokémon Classic v1.5's internal data; exact Battle Point payouts are still not documented here.
 
 - This section preserves exactly what the source does document and marks missing details as unspecified.
 
@@ -55,7 +55,7 @@
 | **Item** | **Location** | **Priority** |
 |-------------|---------------------------------------------------|---------------|
 | Master Ball | Silph President's Daily Reward, 11F | Maximum |
-| Alakazite | House of Mr. Psychic after second League victory | Mega |
+| Alakazite | Mr. Psychic, after defeating Oak | Mega |
 
 ## Trainers/fights
 
@@ -81,21 +81,27 @@
 
 # Rematches for Battle Points
 
-| **OPERATION** |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Leaders and some special characters offer post-game rematches. The guide identifies them as Battle Points matches, but does not include their equipment or the exact number of points. |
+| **HOW IT WORKS** |
+|------------------|
+| The Gym Leaders and rival offer Battle Point rematches in their Gyms. All eight teams contain six Pokémon. |
 
-| **Rival / leader** | **Location** | **Type of activity** |
-|---------------------|--------------------------|----------------------------|
-| Rival | Viridian City Gym | Battle Point Rematch |
-| Brock | Pewter City Gym | Battle Point Rematch |
-| Misty | Cerulean City Gym | Battle Point Rematch |
-| Lt. Surge | Vermilion City Gym | Battle Point Rematch |
-| Erika | Celadon City Gym | Battle Point Rematch |
-| Koga | Fuchsia City Gym | Battle Point Rematch |
-| Sabrina | Saffron City Gym | Battle Point Rematch |
-| Blaine | Cinnabar Island Gym | Battle Point Rematch |
-| Silph President | Silph Co. 11F | Battle Point Battle / Rematch |
+| **Rival / Leader** | **Location** | **Rematch team** |
+|---------------------|--------------|------------------|
+| Brock | Pewter City Gym | Onix · Golem · Omastar · Kabutops · Aerodactyl · Rhydon (all Lv. 65) |
+| Misty | Cerulean City Gym | Starmie · Golduck · Seaking · Lapras · Slowbro · Blastoise (all Lv. 65) |
+| Lt. Surge | Vermilion City Gym | Raichu · Magneton · Electabuzz · Electrode · Jolteon · Electrode (all Lv. 65) |
+| Erika | Celadon City Gym | Tangela · Vileplume · Victreebel · Venusaur · Exeggutor · Parasect (all Lv. 65) |
+| Koga | Fuchsia City Gym | Weezing · Muk · Venomoth · Scyther · Golbat · Tentacruel (all Lv. 65) |
+| Sabrina | Saffron City Gym | Alakazam · Mr. Mime · Hypno · Slowbro · Jynx · Exeggutor (all Lv. 65) |
+| Blaine | Cinnabar Island Gym | Arcanine · Ninetales · Charizard · Magmar · Flareon · Rapidash (all Lv. 65) |
+| Rival | Viridian City Gym | **Jolteon:** Sandslash · Exeggutor · Alakazam · Ninetales · Cloyster (Lv. 65) · Jolteon (Lv. 70)<br>**Flareon:** Sandslash · Exeggutor · Alakazam · Magneton · Cloyster (Lv. 65) · Flareon (Lv. 70)<br>**Vaporeon:** Sandslash · Exeggutor · Alakazam · Magneton · Ninetales (Lv. 65) · Vaporeon (Lv. 70) |
+
+| **Other rematch** | **Location** | **Team** |
+|-------------------|--------------|----------|
+| Silph President | Silph Co. 11F | Tauros · Snorlax · Chansey · Lapras · Alakazam · Persian (all Lv. 60) |
+
+> [!NOTE]
+> Viridian City Gym does not contain a Giovanni rematch: the rival takes that slot. The Eevee evolution and two variable party members depend on your first battles against him.
 
 - Start with the initial leaders to measure the difficulty and continue towards the last gyms.
 

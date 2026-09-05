@@ -648,7 +648,7 @@ Ciudad Celeste. El Volumen 2 continuará desde esta ciudad.
 |------------------------|----------------------------------------------------------|
 | Caramelo Raro oculto   | Disponible en el patio de bayas, junto a la valla        |
 | TM28 Dig               | Evento Rocket de Ciudad Celeste                          |
-| Venusaurita            | Solo después de completar por segunda vez Liga y Campeón |
+| Venusaurita            | Solo después de vencer a Oak al final de la segunda Liga |
 | Encuentros acuáticos   | ↩ Más adelante con cañas/Surf                              |
 
 <table>
