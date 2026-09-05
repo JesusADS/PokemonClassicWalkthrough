@@ -55,7 +55,7 @@
 | **Item** | **Location** | **Priority** |
 |-------------|---------------------------------------------------|---------------|
 | Master Ball | Silph President's Daily Reward, 11F | Maximum |
-| Alakazite | Mr. Psychic, after defeating Oak | Mega |
+| Alakazite | Mr. Psychic, after winning the League for the second time | Mega |
 
 ## Trainers/fights
 

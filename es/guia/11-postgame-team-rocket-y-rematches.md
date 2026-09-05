@@ -55,7 +55,7 @@
 | **Objeto**  | **Localización**                                  | **Prioridad** |
 |-------------|---------------------------------------------------|---------------|
 | Master Ball | Recompensa diaria del presidente de Silph, 11F    | Máxima        |
-| Alakazita   | Mr. Psychic, tras vencer a Oak                     | Mega          |
+| Alakazita   | Mr. Psychic, tras ganar la Liga por segunda vez    | Mega          |
 
 ## Entrenadores / combates
 

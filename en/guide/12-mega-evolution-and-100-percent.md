@@ -18,7 +18,7 @@
 
 | **REQUIREMENT** |
 |--------------------------------------------------------------------------------------------------------------------------|
-| Complete the second League by defeating the rival and Oak, return to your house in Pallet Town, and talk to Bill to receive the Mega Ring. Mega Stones appear after this milestone. |
+| Complete the League for the second time, return to your house in Pallet Town, and talk to Bill to receive the Mega Ring. Mega Stones appear after this milestone. |
 
 - The Pokémon must have its mega stone equipped as a combat item.
 
@@ -31,7 +31,7 @@
 # All documented Mega Stones
 
 > [!IMPORTANT]
-> Mega Stones found on the ground are not hidden items: after defeating Oak, they appear on the map as visible golden rocks. Examine those rocks rather than empty ground tiles. Alakazite is the exception because Mr. Psychic gives it to you.
+> Mega Stones found on the ground are not hidden items: after winning the League for the second time, they appear on the map as visible golden rocks. Examine those rocks rather than empty ground tiles. Alakazite is the exception because Mr. Psychic gives it to you.
 
 | **Mega Stone** | **Location** | **How to identify it** |
 |----------------|--------------|------------------------|
@@ -253,7 +253,7 @@ After receiving the Mega Ring, new battles become available throughout Kanto. Ea
 | Catching Charm | Cedar, postgame | ☐ |
 | Oval Charm | Cedar, postgame | ☐ |
 | Shiny Charm | Cedar, postgame | ☐ |
-| Mega Ring | Bill at your house, after defeating Oak | ☐ |
+| Mega Ring | Bill at your house, after winning the League for the second time | ☐ |
 | DexNav | Bill's House | ☐ |
 | All followers | They are enabled after being Champion | ☐ |
 | IV-maximizing item | Battle Points | ☐ |

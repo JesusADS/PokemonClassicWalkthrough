@@ -18,7 +18,7 @@
 
 | **REQUISITO**                                                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------|
-| Completa la segunda Liga venciendo al rival y a Oak, vuelve a tu casa de Pueblo Paleta y habla con Bill para recibir el Mega Ring. Las megapiedras aparecen después de este hito. |
+| Completa la Liga por segunda vez, vuelve a tu casa de Pueblo Paleta y habla con Bill para recibir el Mega Ring. Las megapiedras aparecen después de este hito. |
 
 - El Pokémon debe llevar equipada su megapiedra como objeto de combate.
 
@@ -31,7 +31,7 @@
 # Todas las megapiedras documentadas
 
 > [!IMPORTANT]
-> Las megapiedras que aparecen en el suelo no son objetos ocultos: después de vencer a Oak se ven en el mapa como piedras doradas. Examina esas piedras, no casillas vacías. Alakazita es la excepción porque la entrega Mr. Psychic.
+> Las megapiedras que aparecen en el suelo no son objetos ocultos: después de ganar la Liga por segunda vez se ven en el mapa como piedras doradas. Examina esas piedras, no casillas vacías. Alakazita es la excepción porque la entrega Mr. Psychic.
 
 | **Megapiedra** | **Localización** | **Cómo identificarla** |
 |----------------|------------------|------------------------|
@@ -255,7 +255,7 @@ Después de recibir el Mega Ring aparecen nuevos combates repartidos por Kanto. 
 | Catching Charm           | Cedar, posjuego               | ☐          |
 | Oval Charm               | Cedar, posjuego               | ☐          |
 | Shiny Charm              | Cedar, posjuego               | ☐          |
-| Mega Ring                | Bill en tu casa, tras vencer a Oak | ☐      |
+| Mega Ring                | Bill en tu casa, tras ganar la Liga por segunda vez | ☐ |
 | DexNAV                   | Casa de Bill                  | ☐          |
 | Todos los seguidores     | Se habilitan tras ser Campeón | ☐          |
 | Objeto para maximizar IV | Battle Points                 | ☐          |

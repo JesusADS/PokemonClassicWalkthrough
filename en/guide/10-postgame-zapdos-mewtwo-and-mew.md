@@ -18,7 +18,7 @@
 
 | **RECOMMENDED ORDER** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1\) Visit Cedar and check the new followers. 2) Capture Zapdos. 3) Explore Cerulean Cave and capture Mewtwo. 4) Use the Old Sea Map to reach Faraway Island and capture Mew. 5) Complete a second round of the League to unlock the Mega Ring and Mega Stones. |
+| 1\) Visit Cedar and check the new followers. 2) Capture Zapdos. 3) Explore Cerulean Cave and capture Mewtwo. 4) Use the Old Sea Map to reach Faraway Island and capture Mew. 5) Defend the title against the daily challenger and complete a second League run to unlock the Mega Ring and Mega Stones. |
 
 - The original guide confirms that the game opens rematches, battles for Battle Points, Cerulean Cave, Faraway Island, additional followers and Mega Evolution in the postgame.
 
@@ -231,7 +231,7 @@
 
 19. Collect the Nugget, Restore All, and Max Elixir.
 
-20. On 2F, collect PP Max and the Ultra Ball. The Mewtwonites do not appear until you defeat Oak at the end of the second League.
+20. On 2F, collect PP Max and the Ultra Ball. The Mewtwonites do not appear until you win the League for the second time.
 
 21. Go down to basement B1F and pick up Revive Max. and Ultra Ball.
 
@@ -279,8 +279,8 @@
 | Ultra Ball | 2F and B1F | High |
 | PP More | 2F | High |
 | Max Revive   | B1F | Very high |
-| Mewtwonite Y | 2F, after defeating Oak | ↩ Later |
-| Mewtwonite X | 2F, after defeating Oak | ↩ Later |
+| Mewtwonite Y | 2F, after winning the League for the second time | ↩ Later |
+| Mewtwonite X | 2F, after winning the League for the second time | ↩ Later |
 
 | **SECURE CAPTURE** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -355,27 +355,58 @@
 
 **☐** Talk to Lass Kairi
 
-# Second Pokémon League
+# Daily title defense
 
 | **🎯 OBJECTIVE** |
-|-----------------------------------------------------------------------------------------------|
-| Defeat the Elite Four, the rival, and finally Oak; then collect the Mega Ring from Bill at your house. |
+|------------------|
+| Defend your title against a challenger before starting the Elite Four rematch. |
 
 ## Step-by-step walkthrough
 
-32. Train the party to around level 65 and improve moves, held items, and IVs/EVs if you wish.
+32. After the first championship, talk to the guard in the Indigo Plateau Pokémon Center. If the daily title defense is available, he will tell you that a challenger has defeated the Elite Four.
 
-33. Buy enough Full Restores, Max Revives, and Elixirs.
+33. Accept the battle to enter the Challenger Room. Your opponent is randomly selected from the nine Trainers in the table below.
 
-34. Defeat Lorelei, Bruno, Agatha, and Lance again. Their postgame teams range from levels 65 to 70.
+34. After winning, you will return to the Pokémon Center with a healed party. Talk to the guard again to start the second League run.
 
-35. In the Challenger Room, fight the rival first. Five Pokémon are level 65 and the Eevee evolution is level 70.
+## Possible challengers
 
-36. The final battle of this second League run is against Oak, not the rival. His team is Ditto Lv. 69, Tauros Lv. 69, Chansey Lv. 69, Arcanine Lv. 69, Exeggutor Lv. 69, and Rhydon Lv. 70.
+| **Trainer** | **Team confirmed in Pokémon Classic v1.5** |
+|-------------|---------------------------------------------|
+| Lass Steph | Raticate · Kangaskhan · Fearow · Tauros · Persian · Snorlax (Lv. 65) |
+| Battle Girl Liz | Raticate · Kangaskhan · Fearow · Tauros · Persian · Snorlax (Lv. 65) |
+| Cooltrainer Mike | Charizard · Venusaur · Blastoise · Raichu · Jynx · Wigglytuff (Lv. 65) |
+| Cue Ball Chris | Pidgeot · Nidoking · Alakazam · Charizard · Gengar · Dragonite (Lv. 65) |
+| Ninja Boy Kev | Ninetales · Omastar · Exeggutor · Rhydon · Machamp · Weezing (Lv. 65) |
+| Hex Maniac Meghan | Farfetch'd · Venusaur · Vileplume · Arcanine · Gengar · Kingler (Lv. 65) |
+| Dragon Tamer Steve | Charizard · Nidoking · Aerodactyl · Kangaskhan · Gyarados · Dragonite (Lv. 65) |
+| Bug Catcher M. | Butterfree · Venomoth · Golbat · Farfetch'd · Venusaur · Poliwrath (Lv. 65) |
+| Youngster Bean | Charizard · Arcanine · Alakazam · Hypno · Raichu · Magneton (Lv. 65) |
 
-37. After defeating Oak and recording the second victory, return to your house in Pallet Town and talk to Bill, who will be waiting there, to receive the Mega Ring.
+> [!NOTE]
+> This is a separate daily title defense, not a round of the second League. On the third recorded defense, the game switches to a special pool consisting of Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, Deserter, and Daisy. The v1.5 script also defines two other battles, but they fall outside the configured random range and cannot occur during normal play. Although `trainer_parties.h` contains a separate party for Liz, her Trainer entry loads Steph's party; the table reflects the battle the game actually runs.
 
-38. From that point onward, Mega Stones appear as visible golden rocks and new special Trainers are available throughout Kanto.
+# Second Pokémon League
+
+| **🎯 OBJECTIVE** |
+|------------------|
+| Defeat the Elite Four again and overcome the final surprise battle; then collect the Mega Ring from Bill at your house. |
+
+## Step-by-step walkthrough
+
+35. Train the party to around level 65 and improve moves, held items, and IVs/EVs if you wish.
+
+36. Buy enough Full Restores, Max Revives, and Elixirs.
+
+37. Defeat Lorelei, Bruno, Agatha, and Lance again. Their postgame teams range from levels 65 to 70.
+
+38. After Lance, you proceed directly to the final battle of the second League. There is no mandatory rival battle in this run.
+
+39. Save healing items and PP: there are five consecutive battles, the four Elite Four matches and the final encounter.
+
+40. After winning the League for the second time, return to your house in Pallet Town and talk to Bill, who will be waiting there, to receive the Mega Ring.
+
+41. From that point onward, Mega Stones appear as visible golden rocks and new special Trainers are available throughout Kanto.
 
 ## Second League teams
 
@@ -385,22 +416,31 @@
 | Bruno | Onix Lv. 65 · Hitmonchan Lv. 65 · Hitmonlee Lv. 65 · Golem Lv. 65 · Poliwrath Lv. 65 · Machamp Lv. 65 |
 | Agatha | Arbok Lv. 65 · Gengar Lv. 65 · Golbat Lv. 65 · Weezing Lv. 65 · Gengar Lv. 65 · Haunter Lv. 65 |
 | Lance | Gyarados Lv. 65 · Seadra Lv. 65 · Charizard Lv. 65 · Aerodactyl Lv. 65 · Dragonite Lv. 65 · Dragonite Lv. 65 |
-| Rival | **Jolteon:** Sandslash · Exeggutor · Alakazam · Ninetales · Cloyster (Lv. 65) · Jolteon (Lv. 70)<br>**Flareon:** Sandslash · Exeggutor · Alakazam · Magneton · Cloyster (Lv. 65) · Flareon (Lv. 70)<br>**Vaporeon:** Sandslash · Exeggutor · Alakazam · Magneton · Ninetales (Lv. 65) · Vaporeon (Lv. 70) |
-| Oak | Ditto Lv. 69 · Tauros Lv. 69 · Chansey Lv. 69 · Arcanine Lv. 69 · Exeggutor Lv. 69 · Rhydon Lv. 70 |
 
 > [!IMPORTANT]
-> The rival is the penultimate fight. Oak follows as the true final opponent, so save healing items and PP for a sixth battle after the Elite Four.
+> The Challenger Room belongs to the daily title defense and is not part of this run. After Lance, you proceed directly to the final surprise battle.
+
+<details>
+<summary><strong>⚠ Spoiler: final opponent and team</strong></summary>
+
+| **Trainer** | **Team confirmed in Pokémon Classic v1.5** |
+|-------------|---------------------------------------------|
+| Oak | Ditto Lv. 69 · Tauros Lv. 69 · Chansey Lv. 69 · Arcanine Lv. 69 · Exeggutor Lv. 69 · Rhydon Lv. 70 |
+
+</details>
 
 ## 💎 Important objects
 
 | **Item** | **Location** | **Priority** |
 |-----------|-------------------------------------------------------|-------------|
-| Mega Ring | Bill, player's house in Pallet Town, after defeating Oak | Essential |
+| Mega Ring | Bill, player's house in Pallet Town, after winning the League for the second time | Essential |
 | **MEGA EVOLUTION** |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Equip the Mega Stone to the Pokémon. When selecting a move the gray Mega symbol will appear; Press START to turn it into a rainbow and confirm the movement. You can only Mega Evolve one Pokémon per battle. |
 
 ## Checklist
+
+**☐** Complete the daily title defense
 
 **☐** Complete the League for the second time
 

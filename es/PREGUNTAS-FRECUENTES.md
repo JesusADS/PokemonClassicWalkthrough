@@ -46,7 +46,7 @@ Los encuentros que requieren una caña aparecen marcados con `🎣` en cada volu
 
 ## ¿La documentación original describe todos los equipos de combate?
 
-No. La documentación original omite algunos equipos y combates. Cuando existen datos internos en la copia local de Pokémon Classic v1.5 —como la segunda Liga, Oak, los rematches de gimnasio y los entrenadores con Mega Evolución— esta guía los incorpora desde `trainer_parties.h` y los scripts de cada mapa. Solo se marcan como pendientes los datos que tampoco aparecen en el código.
+No. La documentación original omite algunos equipos y combates. Cuando existen datos internos en la copia local de Pokémon Classic v1.5 —como la segunda Liga, las revanchas de gimnasio y los entrenadores con Mega Evolución— esta guía los incorpora desde `trainer_parties.h` y los scripts de cada mapa. Solo se marcan como pendientes los datos que tampoco aparecen en el código.
 
 ## ¿Puedo reutilizar una partida de una versión anterior?
 

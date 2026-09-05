@@ -18,7 +18,7 @@
 
 | **ORDEN RECOMENDADO**                                                                                                                                                                                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1\) Visita a Cedar y revisa los nuevos seguidores. 2) Captura a Zapdos. 3) Explora Cueva Celeste y captura a Mewtwo. 4) Usa el Old Sea Map para llegar a Faraway Island y capturar a Mew. 5) Completa una segunda vuelta de la Liga para desbloquear el Mega Ring y las megapiedras. |
+| 1\) Visita a Cedar y revisa los nuevos seguidores. 2) Captura a Zapdos. 3) Explora Cueva Celeste y captura a Mewtwo. 4) Usa el Old Sea Map para llegar a Faraway Island y capturar a Mew. 5) Defiende el título ante el retador diario y completa una segunda vuelta de la Liga para desbloquear el Mega Ring y las megapiedras. |
 
 - La guía original confirma que el juego abre rematches, combates por Battle Points, Cueva Celeste, Faraway Island, seguidores adicionales y Mega Evolución en el posjuego.
 
@@ -233,7 +233,7 @@
 
 19. Recoge el Nugget, los Restaurar Todo y el Elixir Máx.
 
-20. En la segunda planta recoge PP Más y Ultra Ball. Las Mewtwonitas todavía no aparecen hasta vencer a Oak al final de la segunda Liga.
+20. En la segunda planta recoge PP Más y Ultra Ball. Las Mewtwonitas todavía no aparecen hasta ganar la Liga por segunda vez.
 
 21. Desciende al sótano B1F y recoge Revivir Máx. y Ultra Ball.
 
@@ -281,8 +281,8 @@
 | Ultra Ball     | 2F y B1F                          | Alta          |
 | PP Más         | 2F                                | Alta          |
 | Revivir Máx.   | B1F                               | Muy alta      |
-| Mewtwonita Y   | 2F, tras vencer a Oak             | ↩ Más adelante  |
-| Mewtwonita X   | 2F, tras vencer a Oak             | ↩ Más adelante  |
+| Mewtwonita Y   | 2F, tras ganar la Liga por segunda vez | ↩ Más adelante  |
+| Mewtwonita X   | 2F, tras ganar la Liga por segunda vez | ↩ Más adelante  |
 
 | **CAPTURA SEGURA**                                                                                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -358,27 +358,58 @@
 
 **☐** Hablar con Lass Kairi
 
-# Segunda Liga Pokémon
+# Defensa diaria del título
 
-| **🎯 OBJETIVO**                                                                                     |
-|--------------------------------------------------------------------------------------------------|
-| Vencer al Alto Mando, al rival y finalmente a Oak; después recoge de Bill el Mega Ring en tu casa. |
+| **🎯 OBJETIVO** |
+|-----------------|
+| Defender el título ante un retador antes de iniciar la revancha del Alto Mando. |
 
 ## Recorrido paso a paso
 
-32. Entrena al equipo hasta alrededor del nivel 65 y mejora movimientos, objetos equipados e IV/EV si lo deseas.
+32. Después del primer campeonato, habla con el guardia del Centro Pokémon de la Meseta Añil. Si la defensa diaria está disponible, te avisará de que un retador ha superado al Alto Mando.
 
-33. Compra suficientes Restaurar Todo, Revivir Máx. y Elixir.
+33. Acepta el combate para entrar en la sala del retador. El rival se elige al azar entre los nueve entrenadores de la tabla inferior.
 
-34. Vence de nuevo a Lorelei, Bruno, Agatha y Lance. Sus equipos de posjuego están entre los niveles 65 y 70.
+34. Al ganar regresarás al Centro Pokémon con el equipo curado. Habla otra vez con el guardia para iniciar la segunda Liga.
 
-35. En la sala del retador, combate primero contra el rival. Lleva cinco Pokémon al nivel 65 y su evolución de Eevee al nivel 70.
+## Posibles retadores
 
-36. El combate final de esta segunda Liga es contra Oak, no contra el rival. Su equipo es Ditto Nv. 69, Tauros Nv. 69, Chansey Nv. 69, Arcanine Nv. 69, Exeggutor Nv. 69 y Rhydon Nv. 70.
+| **Entrenador** | **Equipo confirmado en Pokémon Classic v1.5** |
+|----------------|------------------------------------------------|
+| Lass Steph | Raticate · Kangaskhan · Fearow · Tauros · Persian · Snorlax (Nv. 65) |
+| Battle Girl Liz | Raticate · Kangaskhan · Fearow · Tauros · Persian · Snorlax (Nv. 65) |
+| Cooltrainer Mike | Charizard · Venusaur · Blastoise · Raichu · Jynx · Wigglytuff (Nv. 65) |
+| Cue Ball Chris | Pidgeot · Nidoking · Alakazam · Charizard · Gengar · Dragonite (Nv. 65) |
+| Ninja Boy Kev | Ninetales · Omastar · Exeggutor · Rhydon · Machamp · Weezing (Nv. 65) |
+| Hex Maniac Meghan | Farfetch'd · Venusaur · Vileplume · Arcanine · Gengar · Kingler (Nv. 65) |
+| Dragon Tamer Steve | Charizard · Nidoking · Aerodactyl · Kangaskhan · Gyarados · Dragonite (Nv. 65) |
+| Bug Catcher M. | Butterfree · Venomoth · Golbat · Farfetch'd · Venusaur · Poliwrath (Nv. 65) |
+| Youngster Bean | Charizard · Arcanine · Alakazam · Hypno · Raichu · Magneton (Nv. 65) |
 
-37. Tras vencer a Oak y registrar la segunda victoria, vuelve a tu casa de Pueblo Paleta y habla con Bill, que estará esperándote allí, para recibir el Mega Ring.
+> [!NOTE]
+> Es una defensa diaria independiente, no una ronda de la segunda Liga. En la tercera defensa registrada, el juego cambia a un grupo especial formado por Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, Deserter y Daisy. El script de la versión 1.5 también define otros dos combates, pero quedan fuera del rango aleatorio configurado y no pueden salir durante el juego normal. Aunque existe un equipo propio para Liz en `trainer_parties.h`, su entrada de entrenador carga el equipo de Steph; la tabla refleja el combate que realmente ejecuta el juego.
 
-38. A partir de ese momento aparecen megapiedras visibles como piedras doradas y nuevos entrenadores especiales repartidos por Kanto.
+# Segunda Liga Pokémon
+
+| **🎯 OBJETIVO** |
+|-----------------|
+| Vencer de nuevo al Alto Mando y superar el combate final sorpresa; después recoge de Bill el Mega Ring en tu casa. |
+
+## Recorrido paso a paso
+
+35. Entrena al equipo hasta alrededor del nivel 65 y mejora movimientos, objetos equipados e IV/EV si lo deseas.
+
+36. Compra suficientes Restaurar Todo, Revivir Máx. y Elixir.
+
+37. Vence de nuevo a Lorelei, Bruno, Agatha y Lance. Sus equipos de posjuego están entre los niveles 65 y 70.
+
+38. Después de Lance pasarás directamente al último combate de la segunda Liga. No hay un combate obligatorio contra el rival en esta ronda.
+
+39. Reserva curas y PP: son cinco combates consecutivos, los cuatro del Alto Mando y el enfrentamiento final.
+
+40. Tras ganar la Liga por segunda vez, vuelve a tu casa de Pueblo Paleta y habla con Bill, que estará esperándote allí, para recibir el Mega Ring.
+
+41. A partir de ese momento aparecen megapiedras visibles como piedras doradas y nuevos entrenadores especiales repartidos por Kanto.
 
 ## Equipos de la segunda Liga
 
@@ -388,23 +419,32 @@
 | Bruno | Onix Nv. 65 · Hitmonchan Nv. 65 · Hitmonlee Nv. 65 · Golem Nv. 65 · Poliwrath Nv. 65 · Machamp Nv. 65 |
 | Agatha | Arbok Nv. 65 · Gengar Nv. 65 · Golbat Nv. 65 · Weezing Nv. 65 · Gengar Nv. 65 · Haunter Nv. 65 |
 | Lance | Gyarados Nv. 65 · Seadra Nv. 65 · Charizard Nv. 65 · Aerodactyl Nv. 65 · Dragonite Nv. 65 · Dragonite Nv. 65 |
-| Rival | **Jolteon:** Sandslash · Exeggutor · Alakazam · Ninetales · Cloyster (Nv. 65) · Jolteon (Nv. 70)<br>**Flareon:** Sandslash · Exeggutor · Alakazam · Magneton · Cloyster (Nv. 65) · Flareon (Nv. 70)<br>**Vaporeon:** Sandslash · Exeggutor · Alakazam · Magneton · Ninetales (Nv. 65) · Vaporeon (Nv. 70) |
-| Oak | Ditto Nv. 69 · Tauros Nv. 69 · Chansey Nv. 69 · Arcanine Nv. 69 · Exeggutor Nv. 69 · Rhydon Nv. 70 |
 
 > [!IMPORTANT]
-> El rival es el penúltimo combate. Oak aparece después como verdadero adversario final, por lo que debes reservar curas y PP para una sexta batalla tras el Alto Mando.
+> La sala del retador pertenece a la defensa diaria del título y no forma parte de esta ronda. Tras Lance se accede directamente al combate final sorpresa.
+
+<details>
+<summary><strong>⚠ Spoiler: identidad y equipo del combate final</strong></summary>
+
+| **Entrenador** | **Equipo confirmado en Pokémon Classic v1.5** |
+|----------------|------------------------------------------------|
+| Oak | Ditto Nv. 69 · Tauros Nv. 69 · Chansey Nv. 69 · Arcanine Nv. 69 · Exeggutor Nv. 69 · Rhydon Nv. 70 |
+
+</details>
 
 ## 💎 Objetos importantes
 
 | **Objeto** | **Localización**                                      | **Prioridad**  |
 |------------|-------------------------------------------------------|----------------|
-| Mega Ring  | Bill, casa del jugador en Pueblo Paleta, tras vencer a Oak | Imprescindible |
+| Mega Ring  | Bill, casa del jugador en Pueblo Paleta, tras ganar la Liga por segunda vez | Imprescindible |
 
 | **MEGA EVOLUCIÓN**                                                                                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Equipa la megapiedra al Pokémon. Al seleccionar un movimiento aparecerá el símbolo Mega gris; pulsa START para convertirlo en arcoíris y confirma el movimiento. Solo puedes megaevolucionar un Pokémon por combate. |
 
 ## Checklist
+
+**☐** Completar la defensa diaria del título
 
 **☐** Completar la Liga por segunda vez
 
